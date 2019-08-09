@@ -1,0 +1,37 @@
+#!/usr/bin/env bash
+ # Function to format the entries into markdown files
+ 
+ function change_date_format() #Convert date to set format 
+ {
+   entry=$(date +%F -d "$1")
+   echo "$entry" 
+ }
+
+ function create_file() #Create file with dd-mm-yyyy.md format
+ {
+   echo "Entry created for $filename"
+   touch "$filename.md"
+ }
+ 
+ function use_template() #Use the template format
+ {
+   if ! [ -s "$filename.md" ]
+   then
+     cat template.md >> "$filename.md"
+   else
+     echo "You cannot overwrite an existing entry"
+     exit
+   fi
+ } 
+ 
+ function add_date_to_template() #Append the date to the start of the entry 
+ {
+   echo "#$filename" | cat - "$filename.md" > temp && mv temp "$filename.md"
+ }      
+ 
+ git checkout notes
+ filename=$(change_date_format "$1")
+ create_file "$filename"
+ use_template "$filename"
+ add_date_to_template "$filename"
+ code "$filename.md" 
