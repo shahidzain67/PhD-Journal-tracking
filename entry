@@ -26,7 +26,7 @@
  
  function add_date_to_template() #Append the date to the start of the entry 
  {
-   echo "#$filename" | cat - "$filename.md" > temp && mv temp "$filename.md"
+   echo "# $filename" | cat - "$filename.md" > temp && mv temp "$filename.md"
  }      
  
  git checkout notes
