@@ -30,7 +30,6 @@
    sed -i 's/This is just the template!/$filename/g' $filename.md
  }      
  
- #git checkout notes
  cd Journal/content/Entries
  filename=$(change_date_format "$1")
  create_file "$filename"
