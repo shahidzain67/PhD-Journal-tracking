@@ -26,8 +26,8 @@
  
  function add_date_to_template() #Append the date to the start of the entry 
  {
-   sed -i 's/replace_me_with_date/$filename/g' $filename.md
-   sed -i 's/This is just the template!/$filename/g' $filename.md
+   sed -i "s/replace_me_with_date/$filename/g" "$filename.md"
+   sed -i "s/This is just the template!/$filename/g" "$filename.md"
  }      
  
  cd Journal/content/Entries
