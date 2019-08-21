@@ -26,13 +26,15 @@
  
  function add_date_to_template() #Append the date to the start of the entry 
  {
-   echo "# $filename" | cat - "$filename.md" > temp && mv temp "$filename.md"
+   sed -i 's/replace_me_with_date/$filename/g' $filename.md
+   sed -i 's/This is just the template!/$filename/g' $filename.md
  }      
  
  git checkout notes
- cd Entries
+ cd Journal/content/Entries
  filename=$(change_date_format "$1")
  create_file "$filename"
  use_template "$filename"
  add_date_to_template "$filename"
  code "$filename.md" 
+ 
