@@ -2,7 +2,7 @@
 author = ""
 title = "This is just the template!"
 date = "replace_me_with_date"
-description = ""
+description = "This is the template for posts"
 categories = [
 ]
 series = ["University Journal"]
