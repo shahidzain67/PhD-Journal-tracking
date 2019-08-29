@@ -1,8 +1,11 @@
-baseURL = "https://zshahid.netlify.com/"
-languageCode = "en-uk"
-title = "Zain Shahid PhD Journal"
+
+baseURL = "https://zshahid.netlify.com"
 theme = "terminal"
 paginate = 5
+DefaultContentLanguage = "en"
+copyright = "Zain Shahid: PhD Doctoral Candidate in Prosthetics and Orthotics: https://gitlab.com/shahidzain67/phd-journal-tracking"
+defaultContentLanguageInSubdir = true
+
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -10,7 +13,7 @@ paginate = 5
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "orange"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 0
+  showMenuItems = 3
   # show selector to switch language
   showLanguageSelector = false
   # set theme to full screen width
@@ -22,57 +25,14 @@ paginate = 5
 
 [languages]
   [languages.en]
+    languageCode = "en-uk"
     languageName = "English"
     title = "Drizzy"
-    subtitle = ""
-    keywords = ""
-    copyright = ""
-    menuMore = "Menu"
+    weight = 2
     readMore = "Read more"
     readOtherPosts = "Read other posts"
+  
+  [languages.en.params.logo]
+    logoText = "Drizzy"
+    logoHomeLink = "/"
 
-    [languages.en.params.logo]
-      logoText = "Drizzy"
-      logoHomeLink = "/about"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "PhD Entries"
-        name = "PhD Entries"
-        url = "/PhD_Entries"
-      [[languages.en.menu.main]]
-        identifier = "Life Entries"
-        name = "Life Entries"
-        url = "/Life_Entries"
-
-  [languages.es]
-    languageName = "Spanish"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    keywords = ""
-    copyright = ""
-    menuMore = "Menú"
-    readMore = "Lee Más"
-    readOtherPosts = "Lee otras notas"
-
-    [languages.es.params.logo]
-      logoText = "Drizzy"
-      logoHomeLink = "/Información"
-
-    [languages.es.menu]
-      [[languages.es.menu.main]]
-        identifier = "Información"
-        name = "Información"
-        url = "/Información"
-      [[languages.es.menu.main]]
-        identifier = "Doctorado"
-        name = "Doctorado"
-        url = "/Doctorado"
-      [[languages.es.menu.main]]
-        identifier = "La Vida"
-        name = "La Vida"
-        url = "/La_Vida"

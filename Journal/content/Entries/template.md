@@ -1,23 +1,14 @@
 +++
-author = "Zain Shahid"
+author = ""
 title = "This is just the template!"
 date = "replace_me_with_date"
-description = "Enter Description here"
-tags = [
-    "tag 1",
-    "tag 2",
-    "tag 3",
-    "tag 4",
-]
+description = ""
 categories = [
-    "category 1",
-    "category 2",
 ]
 series = ["University Journal"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-Description at the beginning of the file
 <!--more-->
 
 <!-- # Syntax guide
@@ -141,9 +132,6 @@ X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures. -->
-
-http://localhost:1313/
-https://gitlab.com/shahidzain67/phd-journal-tracking
 
 # <mark>Done</mark>
 Tasks that have been completed recently.
