@@ -3,8 +3,8 @@ author = ""
 title = "This is just the template!"
 date = "replace_me_with_date"
 description = "This is the template for posts"
-categories = [
-]
+tags = ["setup"]
+categories = ["setup"]
 series = ["University Journal"]
 aliases = ["migrate-from-jekyl"]
 +++

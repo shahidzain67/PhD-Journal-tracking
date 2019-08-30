@@ -36,3 +36,6 @@ defaultContentLanguageInSubdir = true
     logoText = "Drizzy"
     logoHomeLink = "/"
 
+[taxonomies]
+   tag = "tags"
+   category = "categories"
