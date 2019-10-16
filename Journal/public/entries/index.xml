@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entries on Drizzy</title>
+    <link>https://zshahid.netlify.com/entries/</link>
+    <description>Recent content in Entries on Drizzy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>Zain Shahid: PhD Doctoral Candidate in Prosthetics and Orthotics: https://gitlab.com/shahidzain67/phd-journal-tracking</copyright>
+    <lastBuildDate>Sun, 30 Aug 2099 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zshahid.netlify.com/entries/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome, check out my posts below</title>
+      <link>https://zshahid.netlify.com/entries/9999-01-01/</link>
+      <pubDate>Sun, 30 Aug 2099 00:00:00 +0000</pubDate>
+      
+      <guid>https://zshahid.netlify.com/entries/9999-01-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thursday August 29th 2019</title>
+      <link>https://zshahid.netlify.com/entries/2019-08-29/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zshahid.netlify.com/entries/2019-08-29/</guid>
+      <description>Conference Report for GUADEC 2019
+Last week I attended GUADEC (GNOME Users And Developers European Conference). My motivation for attending was to find open-source projects to get involved in that are more closely related to medical engineering, and more specifically prosthetics and orthotics. Additionally, it was to find opportunities to get more involved in the GNOME community as a whole. Both of these goals were achieved as I was able to get contact information for open-source prosthetics projects as well as find open-source applications and products that would be able to aid me in my doctorate.</description>
+    </item>
+    
+    <item>
+      <title>This is just the template!</title>
+      <link>https://zshahid.netlify.com/entries/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zshahid.netlify.com/entries/template/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://zshahid.netlify.com/categories/</loc>
+    <lastmod>2099-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zshahid.netlify.com/</loc>
+    <lastmod>2099-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zshahid.netlify.com/entries/</loc>
+    <lastmod>2099-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zshahid.netlify.com/tags/setup/</loc>
+    <lastmod>2099-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zshahid.netlify.com/categories/setup/</loc>
+    <lastmod>2099-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zshahid.netlify.com/tags/</loc>
+    <lastmod>2099-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zshahid.netlify.com/entries/9999-01-01/</loc>
+    <lastmod>2099-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zshahid.netlify.com/tags/2019/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zshahid.netlify.com/tags/codethink/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zshahid.netlify.com/entries/2019-08-29/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zshahid.netlify.com/categories/work/</loc>
+    <lastmod>2019-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zshahid.netlify.com/entries/template/</loc>
+  </url>
+  
+</urlset>

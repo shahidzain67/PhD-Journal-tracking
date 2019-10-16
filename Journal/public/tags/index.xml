@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Drizzy</title>
+    <link>https://zshahid.netlify.com/tags/</link>
+    <description>Recent content in Tags on Drizzy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>Zain Shahid: PhD Doctoral Candidate in Prosthetics and Orthotics: https://gitlab.com/shahidzain67/phd-journal-tracking</copyright>
+    <lastBuildDate>Sun, 30 Aug 2099 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zshahid.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>setup</title>
+      <link>https://zshahid.netlify.com/tags/setup/</link>
+      <pubDate>Sun, 30 Aug 2099 00:00:00 +0000</pubDate>
+      
+      <guid>https://zshahid.netlify.com/tags/setup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2019</title>
+      <link>https://zshahid.netlify.com/tags/2019/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zshahid.netlify.com/tags/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codethink</title>
+      <link>https://zshahid.netlify.com/tags/codethink/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zshahid.netlify.com/tags/codethink/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

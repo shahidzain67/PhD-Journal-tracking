@@ -1,11 +1,11 @@
 
 baseURL = "https://zshahid.netlify.com"
 theme = "terminal"
-paginate = 5
+paginate = 100
 DefaultContentLanguage = "en"
 copyright = "Zain Shahid: PhD Doctoral Candidate in Prosthetics and Orthotics: https://gitlab.com/shahidzain67/phd-journal-tracking"
 defaultContentLanguageInSubdir = true
-
+preserveTaxonomyNames = true
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -13,13 +13,13 @@ defaultContentLanguageInSubdir = true
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "orange"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 0
   # show selector to switch language
   showLanguageSelector = false
   # set theme to full screen width
-  fullWidthTheme = false 
+  fullWidthTheme = true 
   # center theme with default width
-  centerTheme = true
+  centerTheme = false
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
 

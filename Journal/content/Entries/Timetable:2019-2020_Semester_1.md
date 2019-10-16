@@ -30,8 +30,8 @@ aliases = ["migrate-from-jekyl"]
 >
 > Wednesday 16/10/2019: 
 >
-> * 09.00 : 11:00 @ PO37 -> Anatomy and Physiology
-> * 13:00 : 14:30 @ PO35 -> Rocker Soles
+> * ~~09.00 : 11:00 @ PO37 -> Anatomy and Physiology~~
+> * ~~13:00 : 14:30 @ PO35 -> Rocker Soles~~
 > 
 > Thursday 17/10/2019:
 >

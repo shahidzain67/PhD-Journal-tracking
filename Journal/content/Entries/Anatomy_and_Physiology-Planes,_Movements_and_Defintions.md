@@ -1,6 +1,6 @@
 +++
 author = ""
-title = "Anatomy and Physiology Week 3"
+title = "Anatomy and Physiology - Planes, Movements and Defintions"
 date = "2019-10-03"
 description = "Anatomy and Physiology Tutorial 1"
 tags = ["Masters"]
@@ -250,3 +250,25 @@ Common words to describe the position of anatomical structures:
 * Lateral (external) knee rotation.
 
 {{<figure src="/2019-10-03/Transverse_plane_lateral.jpg" class="post-cover">}} 
+
+------
+<br/><br/>
+
+<font size="+4" color="gree"><center> Movements of the Foot </center></font>
+
+
+* **Dorsiflexion (Extension):** - ‘Bringing the dorsum of the foot towards the anterior surface of the leg’.
+
+* **Plantarflexion (Flexion):** - ‘Moving the top (dorsum) of the foot away from the anterior surface of the leg’.
+
+* **Pronation:**: - Pronation of the foot is turning of the sole outwards, so that weight is borne on the medial part of the foot.
+
+* **Supination:** - Supination of the foot is turning of the sole of the foot inwards, shifting weight to the lateral edge.
+
+{{<figure src="/2019-10-03/Sup_Pro.png" class="post-cover">}} 
+
+* **Eversion:** - Tilting the foot away from the midline of the body.
+
+* **Inversion:** - Tilting the foot towards the midline of the body. 
+
+{{<figure src="/2019-10-03/Eversion_and_inversion.jpg" class="post-cover">}} 
