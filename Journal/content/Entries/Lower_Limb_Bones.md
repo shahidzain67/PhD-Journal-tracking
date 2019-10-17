@@ -3,8 +3,8 @@ author = ""
 title = "Lower Limb Bones"
 date = "2019-10-14"
 description = "Description of all of the lower limb bones"
-tags = ["Masters"]
-categories = ["Masters"]
+tags = ["Masters", "Fundamentals of Prosthetics and Orthotics"]
+categories = ["Masters", "Fundamentals of Prosthetics and Orthotics"]
 series = ["University Journal"]
 aliases = ["migrate-from-jekyl"]
 +++

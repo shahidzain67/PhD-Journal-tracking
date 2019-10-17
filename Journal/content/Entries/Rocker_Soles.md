@@ -1,10 +1,10 @@
 +++
 author = ""
-title = "Fundamentals of Prosthetics and Orthotics - Week 4"
+title = "Rocker Soles"
 date = "2019-10-16"
 description = "Fundamentals of Prosthetics and Orthotics - Week 4"
-tags = ["Masters"]
-categories = ["Masters"]
+tags = ["Masters", "Fundamentals of Prosthetics and Orthotics"]
+categories = ["Masters", "Fundamentals of Prosthetics and Orthotics"]
 series = ["University Journal"]
 aliases = ["migrate-from-jekyl"]
 +++

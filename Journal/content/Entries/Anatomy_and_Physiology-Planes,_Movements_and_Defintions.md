@@ -3,8 +3,8 @@ author = ""
 title = "Anatomy and Physiology - Planes, Movements and Defintions"
 date = "2019-10-03"
 description = "Anatomy and Physiology Tutorial 1"
-tags = ["Masters"]
-categories = ["Masters"]
+tags = ["Masters", "Fundamentals of Prosthetics and Orthotics"]
+categories = ["Masters", "Fundamentals of Prosthetics and Orthotics"]
 series = ["University Journal"]
 aliases = ["migrate-from-jekyl"]
 +++
