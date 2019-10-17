@@ -35,9 +35,14 @@ aliases = ["migrate-from-jekyl"]
 > 
 > Thursday 17/10/2019:
 >
-> * 13:00 : 15:00 @ MS2.58 -> Systematic Review 1
-> * 15:00 : 16.30 @ MS2.58 -> Scoping Literature
- 
+> * ~~13:00 : 15:00 @ MS2.58 -> Systematic Review 1~~
+> * ~~15:00 : 16.30 @ MS2.58 -> Scoping Literature~~
+>
+> Friday 18/10/2019:
+>
+> * 09:00 : 10:00 @ PO37 -> PhD Catchup
+> * 10:00 : 11:00 @ A218 -> MDC Tutorial
+
 > # <mark>Week 5</mark>
 > Wednesday 23/10/2019: 
 >
