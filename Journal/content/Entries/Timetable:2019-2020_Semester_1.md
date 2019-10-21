@@ -40,21 +40,24 @@ aliases = ["migrate-from-jekyl"]
 >
 > Friday 18/10/2019:
 >
-> * 09:00 : 10:00 @ PO37 -> PhD Catchup
-> * 10:00 : 11:00 @ A218 -> MDC Tutorial
+> * ~~09:00 : 10:00 @ PO37 -> PhD Catchup~~
+> * ~~10:00 : 11:00 @ A218 -> MDC Tutorial~~
 
 > # <mark>Week 5</mark>
 > Wednesday 23/10/2019: 
 >
-> * 09.00 : 11:00 @ PO37 -> Rheumatology
+> * 10.00 : 12:00 @ PO37 -> Rheumatology
 > * 13:00 : 15:00 @ PO35 -> Common foot treatment
-
 
 > Friday 25/10/2019:
 >
 > * 13:00 : 15:00 @ PO37 -> Anatomy and Physiology
 
 > # <mark>Week 6</mark>
+> Tuesday   29/10/2019:
+>
+> * 14:00 : 15:00 @ Chapman1 -> International ethics
+>
 > Wednesday 30/10/2019: 
 >
 > * 10:00 : 12:00 @ MS329 -> Pressure Reduction
@@ -82,6 +85,9 @@ aliases = ["migrate-from-jekyl"]
 
 > Thursday 07/11/2019:
 > * 15:00 : 16:30 @ MS2.58 -> Practical research
+
+> Friday 08/11/2019:
+> * 13:00 : 15:00 @PO37 -> Neurological conditions 
 
 > # <mark>Week 8</mark>
 > Wednesday 13/11/2019: 
@@ -133,6 +139,10 @@ aliases = ["migrate-from-jekyl"]
 --- 
 
 > # <mark>Week 11</mark>
+> Tuesday 03/12/2019:
+>
+> * 14:00 : 16:00 @ Chapman 1 -> Social media & personal branding for your career
+
 > Wednesday 04/12/2019: 
 >
 > * 10:00 : 12:00 @ PO37 -> Running
@@ -146,13 +156,14 @@ aliases = ["migrate-from-jekyl"]
 > Friday 06/12/2019:
 >
 > * 10:00 : 12:30 @ PO37 -> Revision
+> * 13:00 : 15:00 @ Gait lab -> Gait Analysis
 
 
 > # <mark>Week 12</mark>
 > Wednesday 11/12/2019: 
 >
 > * 09:00 : 12:00 @ PO37 -> Footwear
-> * TBC   : TBC   @ TBC  -> TBC
+> * 14:00 : 17:00 @ PO37 -> Design Considerations
 
 > Thursday 12/12/2019:
 >
