@@ -13,4 +13,4 @@ showFullContent = true
 +++
 
 <!-- Change to edit frontpage gif/image -->
-<img src="/covers/dog.jpg" class="post-cover">
+<img src="/covers/13.gif" class="post-cover">
