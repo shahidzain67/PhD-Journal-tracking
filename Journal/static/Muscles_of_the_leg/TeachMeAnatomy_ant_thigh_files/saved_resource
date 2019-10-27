@@ -1,0 +1,150 @@
+// Run only once on the page if possible
+if (typeof ehs_config == "undefined") {
+// Load GPT
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.cmd.push(function() {
+});
+(function () {
+var gads = document.createElement("script");
+gads.async = true;
+gads.type = "text/javascript";
+var useSSL = "https:" == document.location.protocol;
+gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+var node = document.getElementsByTagName("script")[0];
+node.parentNode.insertBefore(gads, node);
+})();
+
+// Set config to true
+var ehs_config = true;
+}
+
+(function () {
+var ehs_kv=[],ehs_adid="teachme-teachmeanatomy-1",ehs_site="ehs.pro.teachme.teachmeanatomy",ehs_zone="",ehs_size="300x250",ehs_vpos="t",ehs_hpos="l",ehs_puid="";ehs_kv.push("iprof=md;");ehs_kv.push("ims1=o27;");var ehs_contkv='ccat1=ru88;ccon1=a9a;ccon1=h17;cms1=h17;';// Initialize all vars
+var ehs_zonepat = /^[A-z]{1}[A-z0-9_-]{1,30}$/i,
+ehs_kvpat = /^([A-z]{1}[A-z0-9_-]{1,11}=[A-z0-9_-]{1,241})$/i,
+ehs_sitea = ehs_site.split("."),
+ehs_class = "class=" + ehs_sitea[1] + ";",
+ehs_pub = "pub=" + ehs_sitea[2] + ";",
+ehs_sn = "sn=" + ehs_sitea[3] + ";",
+ehs_zn = "zn=" + ehs_zone + ";",
+ehs_path = document.location.pathname,
+ehs_patha = ehs_path.split("/"),
+ehs_query = document.location.search,
+ehs_pgq = ehs_query.replace(/[^A-z0-9_-]/g, "_"),
+ehs_i = 0,
+ehs_r = Math.random() * 1e16,
+ehs_ord = Math.random() * 1e16,
+ehs_protocol = document.location.protocol == "https:" ? "https://" : "http://",
+ehs_target = "/6913/" + ehs_site,
+cclookup = (typeof cclookup === 'undefined')?"":cclookup,
+ehs_contkv = (typeof ehs_contkv === 'undefined')?"":ehs_contkv,
+ehs_z3 = (typeof ehs_z3 === 'undefined')?"":ehs_z3;
+// Get puid from URL if publisher doesn't provide
+if (ehs_puid == "" && ehs_query.indexOf("puid=") > -1) {
+ehs_puid = ehs_query.substring(ehs_query.indexOf("puid=") + 5);
+}
+
+// Start pushing all Key-Values into array
+//ehs_kv.push(cclookup);
+ehs_kv.push(ehs_contkv);
+//ehs_kv.push(ehs_z3);
+ehs_kv.push(ehs_class, ehs_pub, ehs_sn, ehs_zn);
+
+// Run through page path and push page key-values into pgp
+var ehs_len = ehs_patha.length;
+for (ehs_i = 0; ehs_i < ehs_len; ehs_i++) {
+if (ehs_patha[ehs_i] != "") {
+ehs_pgp = "pgp=" + ehs_patha[ehs_i].replace(/[^A-z0-9_-]/g, "_") + ";";
+ehs_kv.push(ehs_pgp);
+}
+}
+
+// Push page query key-value into pgq
+ehs_pgq = ehs_pgq.length <= 250 ? "pgq=" + ehs_pgq.substring(1) + ";" : "pgq=" + ehs_pgq.substring(1, 250) + ";";
+ehs_kv.push(ehs_pgq);
+if (ehs_protocol == "https://") {
+ehs_kv.push("ssl=1;");
+}
+
+// Add zone to target
+ehs_target += ehs_zonepat.test(ehs_zone) ? "/" + ehs_zone : "";
+
+// Filter and join all key-values into one string
+ehs_len = ehs_kv.length;
+for (ehs_i = 0; ehs_i < ehs_len; ehs_i++) {
+if (typeof ehs_kv[ehs_i] != "undefined") {
+ehs_kv[ehs_i] = ehs_kv[ehs_i].replace(/[^A-z0-9_\-=;]/g, "_");
+if (ehs_kv[ehs_i].slice(-1) != ";")
+ehs_kv[ehs_i] += ";";
+}
+}
+var ehs_kvstring = ehs_kv.join("");
+
+// Create array of all eligible (not empty or null) key-values in the format: a[key]="value1,value2,value3,...";
+var ehs_kva = ehs_kvstring.split(";");
+ehs_len = ehs_kva.length;
+var ehs_kvarray = [];
+for (ehs_i = 0; ehs_i < ehs_len; ehs_i++) {
+if (ehs_kva[ehs_i].match(/[a-zA-Z0-9_\-]+=[a-zA-Z0-9_\-]+/g)) {
+var ehs_temp = ehs_kva[ehs_i].split("=");
+if (ehs_kvarray[ehs_temp[0]] === undefined && ehs_temp[1] != "null" && ehs_temp[1] != "")
+ehs_kvarray[ehs_temp[0]] = ehs_temp[1];
+else if (ehs_temp[1] != "null" && ehs_temp[1] != "") {
+if (ehs_kvarray[ehs_temp[0]].indexOf(ehs_temp[1]) == -1)
+ehs_kvarray[ehs_temp[0]] += "," + ehs_temp[1];
+}
+}
+}
+
+// Define size for GPT
+var dima = ehs_size.split(",");
+ehs_len = dima.length;
+var dim = [];
+for (ehs_i = 0; ehs_i < ehs_len; ehs_i++) {
+    dima1 = dima[ehs_i].split("x");
+    var ehs_width = parseInt(dima1[0]);
+    var ehs_height = parseInt(dima1[1]);
+    dim.push([ehs_width, ehs_height]);
+}
+
+if (ehs_size == "inter") {
+    // Start GPT
+    googletag.cmd.push(function () {
+        googletag.defineOutOfPageSlot(ehs_target, ehs_adid).addService(googletag.pubads());
+        for (var ehs_kvkey in ehs_kvarray) {
+            if (ehs_kvarray.hasOwnProperty(ehs_kvkey)) {
+                var ehs_kvvalue = ehs_kvarray[ehs_kvkey];
+                googletag.pubads().setTargeting(ehs_kvkey, ehs_kvvalue);
+            }
+        }
+        googletag.pubads().setTargeting('adid', ehs_adid);
+        googletag.enableServices();
+    });
+    // Display ad
+    googletag.cmd.push(function () {
+        googletag.display(ehs_adid);
+    });
+}
+else {
+    // Start GPT
+    googletag.cmd.push(function () {
+        googletag.defineSlot(ehs_target, dim, ehs_adid).addService(googletag.pubads());
+        for (var ehs_kvkey in ehs_kvarray) {
+            if (ehs_kvarray.hasOwnProperty(ehs_kvkey)) {
+                var ehs_kvvalue = ehs_kvarray[ehs_kvkey];
+                googletag.pubads().setTargeting(ehs_kvkey, ehs_kvvalue);
+            }
+        }
+        googletag.pubads().setTargeting('adid', ehs_adid);
+        googletag.pubads().setTargeting('vp', ehs_vpos);
+        googletag.pubads().setTargeting('hp', ehs_hpos);
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+    // Display ad
+    googletag.cmd.push(function () {
+        googletag.display(ehs_adid);
+    });
+}
+})();

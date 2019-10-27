@@ -1,0 +1,9 @@
+(function () {
+var x="https://ads.ehealthcaresolutions.com/tne/?aid=110309&r=2108281017526321.2&url=https%3A%2F%2Fteachmeanatomy.info%2Flower-limb%2Fmuscles%2Fthigh%2Fanterior-compartment%2F";
+var y=document.createElement("script");
+y.type="text/javascript";
+y.async=true;
+y.src=x;
+var z=document.getElementsByTagName("script")[0];
+z.parentNode.insertBefore(y, z);
+})();

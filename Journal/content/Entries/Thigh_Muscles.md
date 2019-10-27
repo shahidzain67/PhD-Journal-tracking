@@ -1,13 +1,22 @@
 +++
 author = ""
-title = "Lower Limb Muscles"
+title = "Thigh Muscles"
 date = "2019-10-16"
-description = "Muscles of the Thigh, Leg and Foot"
+description = "Muscles of the Thigh"
 tags = ["Masters", "Fundamentals of Prosthetics and Orthotics"]
 categories = ["Masters"]
 series = ["University Journal"]
 aliases = ["migrate-from-jekyl"]
 +++
+
+<font size="+7" color="orange"><center> Lower Limb Anatomy Lecture </center></font>
+---
+
+{{< youtube nFsHdkr9b9g >}}
+
+---
+<br><br>
+
 <font size="+7" color="orange"><center> The Fascia Lata </center></font>
 ---
 
@@ -192,111 +201,3 @@ All the medial thigh muscles are innervated by the obturator nerve, which arises
 {{<figure src="/Muscles_of_the_leg/Medial_thigh.jpg" class="post-cover" align="centre">}}
 
 {{<figure src="/Muscles_of_the_leg/Cross_section3.jpg" class="post-cover" align="centre">}}
-
----
-<br><br>
-
-<font size="+7" color="orange"><center> Lower Leg Anterior Compartment Muscles </center></font>
----
-
-There are four muscles in the anterior compartment of the leg; tibialis anterior, extensor digitorum longus, extensor hallucis longus and fibularis tertius.
-
-Collectively, they act to dorsiflex and invert the foot at the ankle joint.  The extensor digitorum longus and extensor hallucis longus also extend the toes. The muscles in this compartment are innervated by the deep fibular nerve (L4-S1), and blood is supplied via the anterior tibial artery.
-
-**<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/muscles/leg/anterior-compartment/)<mark>**
-
-
-| Muscle                    | Attachments                                                                                                              | Actions                                                           | Innervation         |
-|---------------------------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------|
-| Tibialis Anterior         | Originates from the lateral surface of the tibia, attaches to the medial cuneiform and the base of metatarsal 1.         | Dorsiflexion and inversion of the foot.                           | Deep fibular nerve. |
-| Extensor Digitorum Longus | Originates from the lateral condyle of the tibia and the medial surface of the fibula.                                   | Extension of the lateral four toes, and dorsiflexion of the foot. | Deep fibular nerve. |
-| Extensor Hallucis Longus  | Originates from the medial surface of the fibular shaft and attaches to the base of the distal phalanx of the great toe. | Extension of the great toe and dorsiflexion of the foot.          | Deep fibular nerve. |
-| Fibularis Tertius         | Originates with the extensor digitorum longus from the medial surface of the fibula and attaches to metatarsal 5.        | Eversion and dorsiflexion of the foot.                            | Deep fibular nerve. |
-
-{{<figure src="/Muscles_of_the_leg/Anterior.jpg" class="post-cover" align="centre">}}
-
-{{<figure src="/Muscles_of_the_leg/Anterior_foot.jpg" class="post-cover" align="centre">}}
-
----
-<br><br>
-
-<font size="+7" color="orange"><center> Lower Leg Posterior Compartment Muscles </center></font>
----
-
-The posterior compartment of the leg contains seven muscles, organised into two layers – superficial and deep. The two layers are separated by a band of fascia.
-
-The posterior leg is the largest of the three compartments. Collectively, the muscles in this area plantarflex and invert the foot. They are innervated by the tibial nerve, a terminal branch of the sciatic nerve.
-
-**<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/muscles/leg/posterior-compartment/)<mark>**
-
-| Muscle                  | Layer       | Attachments                                                                                                                                                                      | Actions                                                                                          | Innervation   |
-|-------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------|
-| Gastrocnemius           | Superficial | The lateral head originates from the lateral femoral condyle, and medial head from the medial femoral condyle. They attach to the calcaneus.                                     | It plantarflexes at the ankle joint, and because it crosses the knee, it is a flexor there.      | Tibial nerve. |
-| Plantaris               | Superficial | Originates from the lateral supracondylar line of the femur and attaches to the calcaneus.                                                                                       | It plantarflexes at the ankle joint, and because it crosses the knee, it is a flexor there.      | Tibial nerve. |
-| Soleus                  | Superficial | Originates from the soleal line of the tibia and proximal fibular area and attaches to the calcaneus.                                                                            | Plantarflexes the foot at the ankle joint.                                                       | Tibial Nerve. |
-| Popliteus               | Deep        | Originates from the lateral condyle of the femur and the posterior horn of the lateral meniscus and insterts above the origin of the soleus muscle.                              | Laterally rotates the femur on the tibia – ‘unlocking’ the knee joint so that flexion can occur. | Tibial nerve. |
-| Tibialis Posterior      | Deep        | Originates from the interosseous membrane between the tibia and fibula, and posterior surfaces of the two bones and attaches to the plantar surfaces of the medial tarsal bones. | Inverts and plantarflexes the foot, maintains the medial arch of the foot.                       | Tibial nerve. |
-| Flexor Digitorum Longus | Deep        | Originates from the medial surface of the tibia, attaches to the plantar surfaces of the lateral four digits.                                                                    | Flexes the lateral four toes.                                                                    | Tibial nerve. |
-| Flexor Hallucis Longus  | Deep        | Originates from the posterior surface of the fibula, attaches to the plantar surface of the phalanx of the great toe.                                                            | Flexes the great toe.                                                                            | Tibial nerve. |
-
-{{<figure src="/Muscles_of_the_leg/Superficial_posterior.jpg" class="post-cover" align="centre">}}
-
-{{<figure src="/Muscles_of_the_leg/Deep_posterior.jpg" class="post-cover" align="centre">}}
-
-{{<figure src="/Muscles_of_the_leg/Posterior_foot.jpg" class="post-cover" align="centre">}}
-
----
-<br><br>
-
-<font size="+7" color="orange"><center> Lower Leg Lateral Compartment Muscles </center></font>
----
-
-There are two muscles in the lateral compartment of the leg; the fibularis longus and brevis (also known as peroneal longus and brevis).
-
-The common function of the muscles is eversion – turning the sole of the foot outwards. They are both innervated by the superficial fibular nerve.
-
-**<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/muscles/leg/lateral-compartment/)<mark>**
-
-| Muscle           | Attachments                                                                                                                                                                       | Actions                                                                                               | Innervation                                  |
-|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| Fibularis Longus | The fibularis longus originates from the superior and lateral surface of the fibula and the lateral tibial condyle. It attaches to the medial cuneiform and base of metatarsal 1. | Eversion and plantarflexion of the foot. Also supports the lateral and transverse arches of the foot. | Superficial fibular (peroneal) nerve, L4-S1. |
-| Fibularis Brevis | Originates from the inferolateral surface of the fibular shaft and attcachesto a tubercle on metatarsal 5.                                                                        | Eversion of the foot.                                                                                 | Superficial fibular (peroneal) nerve, L4-S1. |
-
-{{<figure src="/Muscles_of_the_leg/Lateral.jpg" class="post-cover" align="centre">}}
-
----
-<br><br>
-
-<font size="+7" color="orange"><center> Foot Muscles </center></font>
----
-
-The muscles acting on the foot can be divided into two distinct groups; extrinsic and intrinsic muscles.
-
-- The extrinsic muscles arise from the anterior, posterior and lateral compartments of the leg. They are mainly responsible for actions such as eversion, inversion, plantarflexion and dorsiflexion of the foot.
-
-- The intrinsic muscles are located within the foot and are responsible for the fine motor actions of the foot, for example movement of individual digits.
-
-**<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/muscles/foot/)<mark>**
-
-| Compartment    | Muscles                     | Layer        | Attachments                                                                                                                                                                                                                                                  | Actions                                                                                                                      | Innervation                                                                                                                           | Notes                                                                                                                                                                                                       |
-|----------------|-----------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dorsal Aspect  | Extensor Digitorum Brevis   |              | Originates from the calcaneus, the interosseous talocalcaneal ligament and the inferior extensor retinaculum. It attaches to the long extensor tendons of the four lateral digits.                                                                           | Aids the extensor digitorum longus in extending the lateral four toes at the metatarsophalangeal and interphalangeal joints. | Deep fibular nerve.                                                                                                                   | The extensor digitorum brevis muscle lies deep to the tendon of the extensor digitorum longus.                                                                                                              |
-|                | Extensor Hallucis Brevis    |              | Originates from the calcaneus, the interosseous talocalcaneal ligament and the inferior extensor retinaculum. It attaches to the base of the proximal phalanx of the great toe.                                                                              | Aids the extensor hallucis longus in extending the great toe at the metatarsophalangeal joint.                               | Deep fibular nerve.                                                                                                                   | Some texts consider the extensor hallucis brevis to be merely the medial part of the extensor digitorum brevis                                                                                              |
-| Plantar Aspect | Abductor Hallucis           | First Layer  | Originates from the medial tubercle of the calcaneus, the flexor retinaculum and the plantar aponeurosis. It attaches to the medial base of the proximal phalanx of the great toe.                                                                           | Abducts and flexes the great toe.                                                                                            | Medial plantar nerve.                                                                                                                 | The abductor hallucis muscle is located on the medial side of the sole, where it contributes to a small soft tissue bulge.                                                                                  |
-|                | Flexor Digitorum Brevis     | First Layer  | Originates from the medial tubercle of the calcaneus and the plantar aponeurosis. It attaches to the middle phalanges of the lateral four digits.                                                                                                            | Flexes the lateral four digits at the proximal interphalangeal joints.                                                       | Medial plantar nerve.                                                                                                                 | The flexor digitorum brevis muscle is located laterally to the abductor hallucis. It sits in the centre of the sole, sandwiched between the plantar aponeurosis and the tendons of flexor digitorum longus. |
-|                | Abductor Digiti Minimi      | First Layer  | Originates from the medial and lateral tubercles of the calcaneus and the plantar aponeurosis. It attaches to the lateral base of the proximal phalanx of the 5th digit.                                                                                     | Abducts and flexes the 5th digit.                                                                                            | Lateral plantar nerve.                                                                                                                | The abductor digiti minimi muscle is located on the lateral side of the foot. It is homologous with the abductor digiti minimi of the hand.                                                                 |
-|                | Quadratus Plantae           | Second Layer | Originates from the medial and lateral plantar surface of the calcaneus. It attaches to the tendons of flexor digitorum longus.                                                                                                                              | Assists flexor digitorum longus in flexing the lateral four digits.                                                          | Lateral plantar nerve.                                                                                                                | The quadratus plantae muscle is located superior to the flexor digitorum longus tendons. It is separated from the first layer of muscles by the lateral plantar vessels and nerve.                          |
-|                | Lumbricals                  | Second Layer | Originates from the tendons of flexor digitorum longus. Attaches to the extensor hoods of the lateral four digits.                                                                                                                                           | Flexes at the metatarsophalangeal joints, while extending the interphalangeal joints.                                        | The most medial lumbrical is innervated by the medial plantar nerve. The remaining three are innervated by the lateral plantar nerve. | There are four lumbrical muscles in the foot. They are each located medial to their respective tendon of the flexor digitorum longus.                                                                       |
-|                | Flexor Hallucis Brevis      | Third Layer  | Originates from the plantar surfaces of the cuboid and lateral cuneiforms, and from the tendon of the posterior tibialis tendon. Attaches to the base of the proximal phalanx of the great toe.                                                              | Flexes the proximal phalanx of the great toe at the metatarsophalangeal joint.                                               | Medial plantar nerve.                                                                                                                 | The flexor hallucis brevis muscle is located on the medial side of the foot. It originates from two places on the sole of the foot.                                                                         |
-|                | Adductor Hallucis           | Third Layer  | The oblique head originates from the bases of the 2nd, 3rd and 4th metatarsals. The transverse head originates from the plantar ligaments of the metatarsophalangeal joints. Both heads attach to the lateral base of the proximal phalanx of the great toe. | Adduct the great toe. Assists in forming the transverse arch of the foot.                                                    | Deep branch of lateral plantar nerve.                                                                                                 | The adductor hallucis muscle is located laterally to the flexor hallucis brevis. It consists of an oblique and transverse head.                                                                             |
-|                | Flexor Digiti Minimi Brevis | Third Layer  | Originates from the base of the fifth metatarsal. Attaches to the base of the proximal phalanx of the fifth digit.                                                                                                                                           | Flexes the proximal phalanx of the fifth digit.                                                                              | Superficial branch of lateral plantar nerve.                                                                                          | The flexor digiti minimi brevis muscle is located on the lateral side of the foot, underneath the metatarsal of the little toe. It resembles the interossei in structure.                                   |
-|                | Plantar Interossei          | Fourth Layer | Originates from the medial side of metatarsals three to five. Attaches to the medial sides of the phalanges of digits three to five.                                                                                                                         | Adduct digits three to five and flex the metatarsophalangeal joints.                                                         | Lateral plantar nerve.                                                                                                                | There are three plantar interossei, which are located between the metatarsals. Each arises from a single metatarsal.                                                                                        |
-|                | Dorsal Interossei           | Fourth Layer | Originates from the sides of metatarsals one to five. The first muscle attaches to the medial side of the proximal phalanx of the second digit. The second to fourth interossei attach to the lateral sides of the proximal phalanxes of digits two to four. | Abduct digits two to four and flex the metatarsophalangeal joints.                                                           | Lateral plantar nerve.                                                                                                                | There are four dorsal interossei, which are located between the metatarsals. Each arises from two metatarsals.                                                                                              |
-
-{{<figure src="/Muscles_of_the_leg/first_layer.jpg" class="post-cover" align="centre">}}
-
-{{<figure src="/Muscles_of_the_leg/second_layer.jpg" class="post-cover" align="centre">}}
-
-{{<figure src="/Muscles_of_the_leg/third_layer.jpg" class="post-cover" align="centre">}}
-
-{{<figure src="/Muscles_of_the_leg/fourth_layer.png" class="post-cover" align="centre">}}

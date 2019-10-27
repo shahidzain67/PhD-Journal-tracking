@@ -46,12 +46,12 @@ aliases = ["migrate-from-jekyl"]
 > # <mark>Week 5</mark>
 > Wednesday 23/10/2019: 
 >
-> * 10.00 : 12:00 @ PO37 -> Rheumatology
-> * 13:00 : 15:00 @ PO35 -> Common foot treatment
+> * ~~10.00 : 12:00 @ PO37 -> Rheumatology~~
+> * ~~13:00 : 15:00 @ PO35 -> Common foot treatment~~
 
 > Friday 25/10/2019:
 >
-> * 13:00 : 15:00 @ PO37 -> Anatomy and Physiology
+> * ~~13:00 : 15:00 @ PO37 -> Anatomy and Physiology~~
 
 > # <mark>Week 6</mark>
 > Tuesday   29/10/2019:
@@ -84,9 +84,11 @@ aliases = ["migrate-from-jekyl"]
 > * 13:15 : 15:00 @ PO37 -> User Acceptance
 
 > Thursday 07/11/2019:
+>
 > * 15:00 : 16:30 @ MS2.58 -> Practical research
 
 > Friday 08/11/2019:
+>
 > * 13:00 : 15:00 @PO37 -> Neurological conditions 
 
 > # <mark>Week 8</mark>

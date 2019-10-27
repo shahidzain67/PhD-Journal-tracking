@@ -12,6 +12,8 @@ aliases = ["migrate-from-jekyl"]
 <font size="+7" color="orange"><center> 1. Os Coxae (Coxal) </center></font>  
 ---
 
+**<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/bones-of-the-foot-tarsals-metatarsals-and-phalanges/)<mark>**
+
 {{<figure src="/2019-10-14/Coxal.jpg" class="post-cover" align="centre">}}
 
 |   Bone   |     Structure     |                         Description                        |                                                                                                          Notes                                                                                                          |
@@ -71,6 +73,8 @@ aliases = ["migrate-from-jekyl"]
 <font size="+7" color="orange"><center> 5. Femur </center></font>  
 ---
 
+**<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/femur/)<mark>**
+
 {{<figure src="/2019-10-14/Femur.jpg" class="post-cover" align="centre">}}
 
 |  Bone |        Structure        |                                                           Description                                                          |                                                                                                                                                                       Notes                                                                                                                                                                       |
@@ -91,7 +95,20 @@ aliases = ["migrate-from-jekyl"]
 
 ---
 
-<font size="+7" color="orange"><center> 6. Tibia </center></font>  
+<font size="+7" color="orange"><center> 6. Patella </center></font>  
+---
+
+**<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/patella/)<mark>**
+
+{{<figure src="/2019-10-14/Patella.jpg" class="post-cover" align="centre">}}
+
+| Item    | Bony Landmarks                                                                                                                                                                                                                           | Function                     | Notes                                                                                                                                                                                                                    |
+|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Patella | The posterior surface of the patella articulates with the femur, and is marked by two facets: - Medial facet -> articulates with the medial condyle of the femur.   -Lateral facet –> articulates with the lateral condyle of the femur. | Leg extension and protection | The patella (knee-cap) is located at the front of the knee joint, within the patellofemoral groove of the femur. Its superior aspect is attached to the quadriceps tendon, and inferior aspect to the patellar ligament. |
+
+---
+
+<font size="+7" color="orange"><center> 7. Tibia </center></font>  
 ---
 
 {{<figure src="/2019-10-14/Tibia.jpg" class="post-cover" align="centre">}}
@@ -107,7 +124,7 @@ aliases = ["migrate-from-jekyl"]
 
 ---
 
-<font size="+7" color="orange"><center> 7. Fibula </center></font>  
+<font size="+7" color="orange"><center> 8. Fibula </center></font>  
 ---
 
 {{<figure src="/2019-10-14/Fibula.jpg" class="post-cover" align="centre">}}
@@ -120,8 +137,10 @@ aliases = ["migrate-from-jekyl"]
 
 ---
 
-<font size="+7" color="orange"><center> 8. Tarsal Bones </center></font>  
+<font size="+7" color="orange"><center> 9. Tarsal Bones </center></font>  
 ---
+
+**<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/bones-of-the-foot-tarsals-metatarsals-and-phalanges/)<mark>**
 
 {{<figure src="/2019-10-14/Tarsals.jpg" class="post-cover" align="centre">}}
 
@@ -132,7 +151,7 @@ aliases = ["migrate-from-jekyl"]
 
 ---
 
-<font size="+7" color="orange"><center> 9. Talus </center></font>  
+<font size="+7" color="orange"><center> 10. Talus </center></font>  
 ---
 
 {{<figure src="/2019-10-14/Talus.png" class="post-cover" align="centre">}}
@@ -148,7 +167,7 @@ aliases = ["migrate-from-jekyl"]
 
 ---
 
-<font size="+7" color="orange"><center> 10. Calcaneus </center></font>  
+<font size="+7" color="orange"><center> 11. Calcaneus </center></font>  
 ---
 
 {{<figure src="/2019-10-14/Calcaneus.jpg" class="post-cover" align="centre">}}
@@ -161,7 +180,7 @@ aliases = ["migrate-from-jekyl"]
 
 ---
 
-<font size="+7" color="orange"><center> 11. Navicular </center></font>  
+<font size="+7" color="orange"><center> 12. Navicular </center></font>  
 ---
 
 {{<figure src="/2019-10-14/Navicular.jpg" class="post-cover" align="centre">}}
@@ -172,7 +191,7 @@ aliases = ["migrate-from-jekyl"]
 
 ---
 
-<font size="+7" color="orange"><center> 12. Medial Cuneiform </center></font>  
+<font size="+7" color="orange"><center> 13. Medial Cuneiform </center></font>  
 ---
 
 {{<figure src="/2019-10-14/Cuneiform_medial.jpg" class="post-cover" align="centre">}}
@@ -183,7 +202,7 @@ aliases = ["migrate-from-jekyl"]
 
 ---
 
-<font size="+7" color="orange"><center> 13. Middle Cuneiform </center></font>  
+<font size="+7" color="orange"><center> 14. Middle Cuneiform </center></font>  
 ---
 
 {{<figure src="/2019-10-14/Cuneiform_middle.jpg" class="post-cover" align="centre">}}
@@ -194,7 +213,7 @@ aliases = ["migrate-from-jekyl"]
 
 ---
 
-<font size="+7" color="orange"><center> 14. Lateral Cuneiform </center></font>  
+<font size="+7" color="orange"><center> 15. Lateral Cuneiform </center></font>  
 ---
 
 {{<figure src="/2019-10-14/Cuneiform_lateral.jpg" class="post-cover" align="centre">}}
@@ -205,7 +224,7 @@ aliases = ["migrate-from-jekyl"]
 
 ---
 
-<font size="+7" color="orange"><center> 15. Cuboid </center></font>  
+<font size="+7" color="orange"><center> 16. Cuboid </center></font>  
 ---
 
 {{<figure src="/2019-10-14/Cuboid.jpg" class="post-cover" align="centre">}}
@@ -216,7 +235,7 @@ aliases = ["migrate-from-jekyl"]
 
 ---
 
-<font size="+7" color="orange"><center> 16. Metatarsals </center></font>  
+<font size="+7" color="orange"><center> 17. Metatarsals </center></font>  
 ---
 
 {{<figure src="/2019-10-14/Metatarsals.png" class="post-cover" align="centre">}}
@@ -230,7 +249,7 @@ aliases = ["migrate-from-jekyl"]
 
 ---
 
-<font size="+7" color="orange"><center> 17. Phalanx (Phalanges) </center></font>  
+<font size="+7" color="orange"><center> 18. Phalanx (Phalanges) </center></font>  
 ---
 
 {{<figure src="/2019-10-14/Phalanx.jpg" class="post-cover" align="centre">}}
@@ -241,6 +260,3 @@ aliases = ["migrate-from-jekyl"]
 |                     | base      | the proximal end of the phalanx                         | the base of the proximal phalanx articulates with the head of the corresponding metatarsal bone; the base of the middle or distal phalanx articulates with the head of the next most proximal phalanx                       |
 |                     | body      | the slender shaft of the phalanx                        | also known as the diaphysis; the body of the distal phalanx is very short                                                                                                                                                   |
 |                     | head      | the distal end of the phalanx                           | the proximal, middle and distal phalanges each have a head; the head of a proximal or middle phalanx articulates with the base of the next most distal phalanx                                                              |
-
----
-

@@ -39,3 +39,9 @@ preserveTaxonomyNames = true
 [taxonomies]
    tag = "tags"
    category = "categories"
+
+[[menu.main]]
+  name = "GitLab"
+  weight = 0
+  identifier = "GitLab"
+  url = "https://gitlab.com/shahidzain67/phd-journal-tracking"
