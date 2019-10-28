@@ -34,9 +34,9 @@ Collectively, they act to dorsiflex and invert the foot at the ankle joint.  The
 | Extensor Hallucis Longus  | Originates from the medial surface of the fibular shaft and attaches to the base of the distal phalanx of the great toe. | Extension of the great toe and dorsiflexion of the foot.          | Deep fibular nerve. |
 | Fibularis Tertius         | Originates with the extensor digitorum longus from the medial surface of the fibula and attaches to metatarsal 5.        | Eversion and dorsiflexion of the foot.                            | Deep fibular nerve. |
 
-{{<figure src="/Muscles_of_the_leg/Anterior.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/Anterior.jpg" position="center" style="border-radius: 8px;" caption="Anterior Muscles of the Leg" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Muscles_of_the_leg/Anterior_foot.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/Anterior_foot.jpg" position="center" style="border-radius: 8px;" caption="Anterior Muscles of the Foot" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 <br><br>
@@ -60,11 +60,11 @@ The posterior leg is the largest of the three compartments. Collectively, the mu
 | Flexor Digitorum Longus | Deep        | Originates from the medial surface of the tibia, attaches to the plantar surfaces of the lateral four digits.                                                                    | Flexes the lateral four toes.                                                                    | Tibial nerve. |
 | Flexor Hallucis Longus  | Deep        | Originates from the posterior surface of the fibula, attaches to the plantar surface of the phalanx of the great toe.                                                            | Flexes the great toe.                                                                            | Tibial nerve. |
 
-{{<figure src="/Muscles_of_the_leg/Superficial_posterior.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/Superficial_posterior.jpg" position="center" style="border-radius: 8px;" caption="Superficial Posterior Muscles of the Leg" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Muscles_of_the_leg/Deep_posterior.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/Deep_posterior.jpg" position="center" style="border-radius: 8px;" caption="Deep Posterior Muscles of the Leg" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Muscles_of_the_leg/Posterior_foot.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/Posterior_foot.jpg" position="center" style="border-radius: 8px;" caption=" Posterior Muscles of the Foot" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 <br><br>
@@ -83,4 +83,4 @@ The common function of the muscles is eversion – turning the sole of the foot 
 | Fibularis Longus | The fibularis longus originates from the superior and lateral surface of the fibula and the lateral tibial condyle. It attaches to the medial cuneiform and base of metatarsal 1. | Eversion and plantarflexion of the foot. Also supports the lateral and transverse arches of the foot. | Superficial fibular (peroneal) nerve, L4-S1. |
 | Fibularis Brevis | Originates from the inferolateral surface of the fibular shaft and attcachesto a tubercle on metatarsal 5.                                                                        | Eversion of the foot.                                                                                 | Superficial fibular (peroneal) nerve, L4-S1. |
 
-{{<figure src="/Muscles_of_the_leg/Lateral.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/Lateral.jpg" position="center" style="border-radius: 8px;" caption=" Lateral Muscles of the Leg" captionPosition="center" captionStyle="color: white;" >}}

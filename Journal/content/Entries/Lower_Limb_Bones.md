@@ -45,9 +45,9 @@ It consists of a head and neck, and two bony processes – the greater and lesse
 
 - Intertrochanteric crest – like the intertrochanteric line, this is a ridge of bone that connects the two trochanters. It is located on the posterior surface of the femur. There is a rounded tubercle on its superior half called the quadrate tubercle; where quadratus femoris attaches.
 
-{{<figure src="/2019-10-14/Anterior-Surface-of-the-Proximal-Portion-of-the-Femur-Bony-Landmarks.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Anterior-Surface-of-the-Proximal-Portion-of-the-Femur-Bony-Landmarks.jpg" position="center" style="border-radius: 8px;" caption="Anterior Surface of the Proximal Portion of the Femur" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/2019-10-14/Posterior-Surface-of-the-Proximal-Portion-of-the-Femur-Bony-Landmarks-624x533.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Posterior-Surface-of-the-Proximal-Portion-of-the-Femur-Bony-Landmarks-624x533.jpg" position="center" style="border-radius: 8px;" caption="Posterior Surface of the Proximal Portion of the Femur" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -64,7 +64,7 @@ Proximally, the medial border of the linea aspera becomes the pectineal line. Th
 
 Distally, the linea aspera widens and forms the floor of the popliteal fossa, the medial and lateral borders form the medial and lateral supracondylar lines. The medial supracondylar line ends at the adductor tubercle, where the adductor magnus attaches.
 
-{{<figure src="/2019-10-14/Posterior-Surface-of-the-Shaft-of-the-Femur-431x1024.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Posterior-Surface-of-the-Shaft-of-the-Femur-431x1024.jpg" position="center" style="border-radius: 8px;" caption="Posterior Surface of the Shaft of the Femur" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -82,9 +82,9 @@ The distal end of the femur is characterised by the presence of the medial and l
 
 - Intercondylar fossa – a deep notch on the posterior surface of the femur, between the two condyles. It contains two facets for attachment of intracapsular knee ligaments; the anterior cruciate ligament (ACL) attaches to the medial aspect of the lateral condyle and the posterior cruciate ligament (PCL) to the lateral aspect of the medial condyle.
 
-{{<figure src="/2019-10-14/Anterior-Surface-of-the-Distal-Portion-of-the-Femur-600x461.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Anterior-Surface-of-the-Distal-Portion-of-the-Femur-600x461.jpg" position="center" style="border-radius: 8px;" caption="Anterior Surface of the Distal Portion of the Femur" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/2019-10-14/Posterior-Surface-of-the-Distal-Portion-of-the-Femur.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Posterior-Surface-of-the-Distal-Portion-of-the-Femur.jpg" position="center" style="border-radius: 8px;" caption="Posterior Surface of the Distal Portion of the Femur" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -111,7 +111,7 @@ The posterior surface of the patella articulates with the femur, and is marked b
 - Medial facet – articulates with the medial condyle of the femur.
 - Lateral facet – articulates with the lateral condyle of the femur.
 
-{{<figure src="/2019-10-14/Anterior-and-Posterior-Surfaces-of-the-Patella-600x239.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Anterior-and-Posterior-Surfaces-of-the-Patella-600x239.jpg" position="center" style="border-radius: 8px;" caption="Anterior and Posterior Surfaces of the Patella" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -138,7 +138,7 @@ It expands at its proximal and distal ends; articulating at the knee and ankle j
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/tibia/)<mark>**
 
-{{<figure src="/2019-10-14/Overview-of-the-Tibia-300x300.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Overview-of-the-Tibia-300x300.jpg" position="center" style="border-radius: 8px;" caption="Overview of the Tibia" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -151,7 +151,7 @@ The proximal tibia is widened by the medial and lateral condyles, which aid in w
 
 Located between the condyles is a region called the intercondylar eminence – this projects upwards on either side as the medial and lateral intercondylar tubercles. This area is the main site of attachment for the ligaments and the menisci of the knee joint. The intercondylar tubercles of the tibia articulate with the intercondylar fossa of the femur.
 
-{{<figure src="/2019-10-14/Tibial-Plateau-Articulating-Condyles-of-the-Tibia-at-the-Knee-Joint-300x221.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Tibial-Plateau-Articulating-Condyles-of-the-Tibia-at-the-Knee-Joint-300x221.jpg" position="center" style="border-radius: 8px;" caption="Condyles of the Tibia" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -168,7 +168,7 @@ The shaft of the tibia is prism-shaped, with three borders and three surfaces; a
 
 - Lateral border – also known as the interosseous border. It gives attachment to the interosseous membrane that binds the tibia and the fibula together.
 
-{{<figure src="/2019-10-14/Anterior-and-Posterior-Surfaces-of-the-Tibia.png" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Anterior-and-Posterior-Surfaces-of-the-Tibia.png" position="center" style="border-radius: 8px;" caption="Anterior and Posterior Surfaces of the Tibia" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -200,7 +200,7 @@ It has three main articulations:
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/the-fibula/)<mark>**
 
-{{<figure src="/2019-10-14/Overview-of-the-Fibula.png" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Overview-of-the-Fibula.png" position="center" style="border-radius: 8px;" caption="Overview of the Fibula" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -240,7 +240,7 @@ The foot can also be divided up into three regions:
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/bones-of-the-foot-tarsals-metatarsals-and-phalanges/)<mark>**
 
-{{<figure src="/2019-10-14/Overview-of-the-Bones-of-the-Human-Foot.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Overview-of-the-Bones-of-the-Human-Foot.jpg" position="center" style="border-radius: 8px;" caption="Overview of the Bones of the Human Foot" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -278,7 +278,7 @@ The calcaneus is the largest tarsal bone and lies underneath the talus where it 
 
 It protrudes posteriorly and takes the weight of the body as the heel hits the ground when walking. The posterior aspect of the calcaneus is marked by calcaneal tuberosity, to which the Achilles tendon attaches.
 
-{{<figure src="/2019-10-14/The-Tarsal-Bones-of-the-Foot-600x467.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/The-Tarsal-Bones-of-the-Foot-600x467.jpg" position="center" style="border-radius: 8px;" caption="Tarsal Bones of the Human Foot" captionPosition="center" captionStyle="color: white;" >}}
 
 <br>
 

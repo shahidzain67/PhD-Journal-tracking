@@ -30,7 +30,7 @@ The posterior surface of the patella articulates with the femur, and is marked b
 - Medial facet – articulates with the medial condyle of the femur.
 - Lateral facet – articulates with the lateral condyle of the femur.
 
-{{<figure src="/2019-10-14/Anterior-and-Posterior-Surfaces-of-the-Patella-600x239.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Anterior-and-Posterior-Surfaces-of-the-Patella-600x239.jpg" position="center" style="border-radius: 8px;" caption="Anterior and Posterior Surfaces of the Patella" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 

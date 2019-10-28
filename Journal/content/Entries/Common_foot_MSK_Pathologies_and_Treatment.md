@@ -63,7 +63,7 @@ condition each year (PHE, 2019)
 
 - Inflammatory joint conditions
 
-{{<figure src="/MSK/Foot.png" class="post-cover" align="centre">}}
+{{<figure src="/MSK/Foot.png" position="center" style="border-radius: 8px;" caption="MSK and the Foot" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -71,7 +71,7 @@ condition each year (PHE, 2019)
 
 <font size="+3" color="gree"><center> MSK Pain and Podiatry </center></font>  
 
-{{<figure src="/MSK/PandP.png" class="post-cover" align="centre">}}
+{{<figure src="/MSK/PandP.png" position="center" style="border-radius: 8px;" caption="Pain and Podiatry" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -108,7 +108,7 @@ thickened plantar fascia,(McMillan et al.2009)
 injection. Loss of medial arch profile. May be
 partial/complete.
 
-{{<figure src="/MSK/rupture.png" class="post-cover" align="centre">}}
+{{<figure src="/MSK/PandP.png" position="center" style="border-radius: 8px;" caption="Plantar Fascia Rupture" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -308,7 +308,7 @@ surfaces)
         - 98% U/S sensitivity 
         - 90% MRI sensitivity 88%
 
-{{<figure src="/MSK/Mortons.png" class="post-cover" align="centre">}}
+{{<figure src="/MSK/Mortons.png" position="center" style="border-radius: 8px;" caption="Morton's Plantar digital neuritis" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -346,7 +346,7 @@ surfaces)
 - Halstead (2005) relationship between
 hallux dorsiflexion and heel eversion 
 
-{{<figure src="/MSK/Hallux.png" class="post-cover" align="centre">}}
+{{<figure src="/MSK/Mortons.png" position="center" style="border-radius: 8px;" caption="Hallux Limitus" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 

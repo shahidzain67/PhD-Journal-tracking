@@ -16,7 +16,7 @@ The knee joint is a hinge type synovial joint, which mainly allows for flexion a
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/joints/knee-joint/)<mark>**
 
-{{<figure src="/Ligaments-and-joints/Bony-Surfaces-of-the-Knee-Joint.png" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Bony-Surfaces-of-the-Knee-Joint.png" position="center" style="border-radius: 8px;" caption="The Knee Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -33,7 +33,7 @@ The knee joint consists of two articulations – tibiofemoral and patellofemoral
 
 As the patella is both formed and resides within the quadriceps femoris tendon, it provides a fulcrum to increase power of the knee extensor, and serves as a stabilising structure that reduces frictional forces placed on femoral condyles.
 
-{{<figure src="/Ligaments-and-joints/Articulating-Surfaces-of-the-Femur-and-Tibia-at-the-Knee-Joint.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Articulating-Surfaces-of-the-Femur-and-Tibia-at-the-Knee-Joint.jpg"  position="center" style="border-radius: 8px;" caption="Articulating Surfaces" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -65,9 +65,9 @@ In addition to the intercondylar attachment, the medial meniscus is fixed to the
 
 The lateral meniscus is smaller and does not have any extra attachments, rendering it fairly mobile.
 
-{{<figure src="/Ligaments-and-joints/The-Menisci-of-the-Knee-Joint-Posterior-View-300x283.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/The-Menisci-of-the-Knee-Joint-Posterior-View-300x283.jpg"  position="center" style="border-radius: 8px;" caption="Posterior View of the Menisci of the Knee Joint" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Ligaments-and-joints/The-Menisci-of-the-Knee-Joint-Superior-View.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/The-Menisci-of-the-Knee-Joint-Superior-View.jpg" position="center" style="border-radius: 8px;" caption="Superior View of the Menisci of the Knee Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -86,7 +86,7 @@ A bursa is synovial fluid filled sac, found between moving structures in a joint
 
 - Semimembranosus bursa – Located posteriorly in the knee joint, between the semimembranosus muscle and the medial head of the gastrocnemius.
 
-{{<figure src="/Ligaments-and-joints/Sagittal-View-of-the-Knee-Joint-Diagram-of-the-Knee-Bursae.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Sagittal-View-of-the-Knee-Joint-Diagram-of-the-Knee-Bursae.jpg" position="center" style="border-radius: 8px;" caption="Sagittal View of the Knee Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -109,7 +109,7 @@ The major ligaments in the knee joint are:
 
     - Posterior cruciate ligament– attaches at the posterior intercondylar region of the tibia, and ascends anteriorly to attach to the anteromedial femoral condyle. It prevents posterior dislocation of the tibia onto the femur.
 
-{{<figure src="/Ligaments-and-joints/Ligaments-of-the-Knee-Joint-Collateral-Cruciate-Menisci-600x497.jpgg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Ligaments-of-the-Knee-Joint-Collateral-Cruciate-Menisci-600x497.jpg" position="center" style="border-radius: 8px;" caption="Ligaments of the Knee Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 

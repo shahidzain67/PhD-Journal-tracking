@@ -20,7 +20,7 @@ In this article, we shall look at the anatomy of the muscles that make up the in
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/pelvis/muscles/pelvic-floor/)<mark>**
 
-{{<figure src="/2019-10-14/Overview-of-the-Pelvic-Cavity-and-the-Pelvic-Floor-Muscles.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Overview-of-the-Pelvic-Cavity-and-the-Pelvic-Floor-Muscles.jpg" position="center" style="border-radius: 8px;" caption="Pelvic Cavity and Pelvic Floor Muscles" captionPosition="center" captionStyle="color: white;" >}}
 
 *Note – some texts consider the pelvic floor to include the perineal membrane and deep perineal pouch. We have considered these as a distinct and separate structures.*
 
@@ -96,7 +96,7 @@ The main function of this thick muscle is to maintain faecal continence – duri
 
 Some fibers of the puborectalis muscle (pre-rectal fibers) form another U-shaped sling that flank the urethra in the male and the urethra and vagina in the female (in some textbooks they appear as pubovaginalis or sphincter urethrae / vaginae). These fibers are very important in preserving urinary continence, especially during abrupt increase of the intra-abdominal pressure i.e. during sneezing.
 
-{{<figure src="/2019-10-14/Muscles-of-the-Pelvic-Floor.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Muscles-of-the-Pelvic-Floor.jpg" position="center" style="border-radius: 8px;" caption="Pelvic Floor Muscles" captionPosition="center" captionStyle="color: white;" >}}
 
 <br><br>
 
@@ -127,4 +127,4 @@ The coccygeus (or ischiococcygeus) is the smaller, and most posterior pelvic flo
 
 It originates from the ischial spines and travels to the lateral aspect of the sacrum and coccyx, along the sacrospinous ligament.
 
-{{<figure src="/2019-10-14/The-Muscles-of-the-Pelvic-Floor-Levator-Ani-and-Coccygeus-2.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/The-Muscles-of-the-Pelvic-Floor-Levator-Ani-and-Coccygeus-2.jpg" position="center" style="border-radius: 8px;" caption="Coccygeus" captionPosition="center" captionStyle="color: white;" >}}

@@ -18,7 +18,7 @@ Functionally, it is a hinge type joint, permitting dorsiflexion and plantarflexi
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/joints/ankle-joint/))<mark>**
 
-{{<figure src="/Ligaments-and-joints/Bones-of-the-Ankle-Joint-Tibia-Fibula-and-Talus.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Bones-of-the-Ankle-Joint-Tibia-Fibula-and-Talus.jpg" position="center" style="border-radius: 8px;" caption="Bones of the Ankle Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -36,9 +36,9 @@ The body of the talus fits snugly into the mortise formed by the bones of the le
 - Dorsiflexion – the anterior part of the talus is held in the mortise, and the joint is more stable.
 - Plantarflexion – the posterior part of the talus is held in the mortise, and the joint is less stable.
 
-{{<figure src="/Ligaments-and-joints/Diagram-of-the-Bracket-or-Mortise-Structure-of-the-Ankle-Joint-600x529.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Diagram-of-the-Bracket-or-Mortise-Structure-of-the-Ankle-Joint-600x529.jpg" position="center" style="border-radius: 8px;" caption="Bones of the Ankle Joint" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Ligaments-and-joints/The-Talus-in-the-Ankle-Joint.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/The-Talus-in-the-Ankle-Joint.jpg" position="center" style="border-radius: 8px;" caption="The Talus in the Ankle Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -63,7 +63,7 @@ It resists over-inversion of the foot, and is comprised of three distinct and se
 - Posterior talofibular – spans between the lateral malleolus and the posterior aspect of the talus.
 - Calcaneofibular – spans between the lateral malleolus and the calcaneus.
 
-{{<figure src="/Ligaments-and-joints/Ligaments-of-the-Ankle-Joint.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Ligaments-of-the-Ankle-Joint.jpg" position="center" style="border-radius: 8px;" caption="Ligaments of the Ankle Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 

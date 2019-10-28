@@ -37,7 +37,7 @@ It can be thought of as a rectangular shaped compartment with four borders and a
 
 The opening to the femoral canal is located at its superior border, known as the femoral ring. The femoral ring is closed by a connective tissue layer – the femoral septum. This septum is pierced by the lymphatic vessels exiting the canal.
 
-{{<figure src="/Anatomical_Areas/Borders-of-the-Femoral-Canal-624x321.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Borders-of-the-Femoral-Canal-624x321.jpg" position="center" style="border-radius: 8px;" caption="Borders of the Femoral Canal" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -58,4 +58,4 @@ The femoral canal contains:
 
 The empty space allows distension of the adjacent femoral vein, so it can cope with increased venous return, or increased intra-abdominal pressure.
 
-{{<figure src="/Anatomical_Areas/Contents-of-the-Femoral-Traingle-600x433 (1).jpg" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Contents-of-the-Femoral-Traingle-600x433 (1).jpg" position="center" style="border-radius: 8px;" caption="Contents of the Femoral Triangle" captionPosition="center" captionStyle="color: white;" >}}

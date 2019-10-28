@@ -45,9 +45,9 @@ It consists of a head and neck, and two bony processes – the greater and lesse
 
 - Intertrochanteric crest – like the intertrochanteric line, this is a ridge of bone that connects the two trochanters. It is located on the posterior surface of the femur. There is a rounded tubercle on its superior half called the quadrate tubercle; where quadratus femoris attaches.
 
-{{<figure src="/2019-10-14/Anterior-Surface-of-the-Proximal-Portion-of-the-Femur-Bony-Landmarks.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Anterior-Surface-of-the-Proximal-Portion-of-the-Femur-Bony-Landmarks.jpg" position="center" style="border-radius: 8px;" caption="Anterior Surface of the Proximal Portion of the Femur" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/2019-10-14/Posterior-Surface-of-the-Proximal-Portion-of-the-Femur-Bony-Landmarks-624x533.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Posterior-Surface-of-the-Proximal-Portion-of-the-Femur-Bony-Landmarks-624x533.jpg" position="center" style="border-radius: 8px;" caption="Posterior Surface of the Proximal Portion of the Femur" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -64,7 +64,7 @@ Proximally, the medial border of the linea aspera becomes the pectineal line. Th
 
 Distally, the linea aspera widens and forms the floor of the popliteal fossa, the medial and lateral borders form the medial and lateral supracondylar lines. The medial supracondylar line ends at the adductor tubercle, where the adductor magnus attaches.
 
-{{<figure src="/2019-10-14/Posterior-Surface-of-the-Shaft-of-the-Femur-431x1024.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Posterior-Surface-of-the-Shaft-of-the-Femur-431x1024.jpg" position="center" style="border-radius: 8px;" caption="Posterior Surface of the Shaft of the Femur" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -82,6 +82,6 @@ The distal end of the femur is characterised by the presence of the medial and l
 
 - Intercondylar fossa – a deep notch on the posterior surface of the femur, between the two condyles. It contains two facets for attachment of intracapsular knee ligaments; the anterior cruciate ligament (ACL) attaches to the medial aspect of the lateral condyle and the posterior cruciate ligament (PCL) to the lateral aspect of the medial condyle.
 
-{{<figure src="/2019-10-14/Anterior-Surface-of-the-Distal-Portion-of-the-Femur-600x461.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Anterior-Surface-of-the-Distal-Portion-of-the-Femur-600x461.jpg" position="center" style="border-radius: 8px;" caption="Anterior Surface of the Distal Portion of the Femur" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/2019-10-14/Posterior-Surface-of-the-Distal-Portion-of-the-Femur.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Posterior-Surface-of-the-Distal-Portion-of-the-Femur.jpg" position="center" style="border-radius: 8px;" caption="Posterior Surface of the Distal Portion of the Femur" captionPosition="center" captionStyle="color: white;" >}}

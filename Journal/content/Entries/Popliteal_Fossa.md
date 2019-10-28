@@ -35,7 +35,7 @@ The popliteal fossa is diamond shaped with four borders. These borders are forme
 
 The popliteal fossa also has a floor and a roof. The floor is formed by the posterior surface of the knee joint capsule and by the posterior surface of the femur. The roof is made of up two layers; popliteal fascia and skin. The popliteal fascia is continuous with the fascia lata of the leg.
 
-{{<figure src="/Anatomical_Areas/Borders-of-the-Popliteal-Fossa.png" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Borders-of-the-Popliteal-Fossa.png" position="center" style="border-radius: 8px;" caption="Borders of the Popliteal Fossa" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -60,4 +60,4 @@ The small saphenous vein pierces the popliteal fascia of the popliteal fossa to 
 
 In the popliteal fossa, the deepest structure is the popliteal artery. It is a continuation of the femoral artery, and travels into the leg to supply it with blood.
 
-{{<figure src="/Anatomical_Areas/Contents-of-the-Popliteal-Fossa-TeachMeAnatomy.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Contents-of-the-Popliteal-Fossa-TeachMeAnatomy.jpg" position="center" style="border-radius: 8px;" caption="Contents of the Popliteal Fossa" captionPosition="center" captionStyle="color: white;" >}}

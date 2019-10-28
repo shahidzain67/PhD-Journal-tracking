@@ -12,7 +12,7 @@ aliases = ["migrate-from-jekyl"]
 <font size="+7" color="Orange"><center> Pelvic Girdle </center></font>  
 ---
 
-{{<figure src="/Ligaments_and_joints/Pelvis.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments_and_joints/Pelvis.jpg" position="center" style="border-radius: 8px;" caption="The Pelvis" captionPosition="center" captionStyle="color: white;" >}}
 
 | Ligament Group      | Ligament           | Description                                                                                                                                                                                                   | Notes                                                                                                                                                                                                                                            |
 |---------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -33,7 +33,7 @@ aliases = ["migrate-from-jekyl"]
 <font size="+7" color="orange"><center> Hip Joint </center></font>  
 ---
 
-{{<figure src="/Ligaments_and_joints/Hip.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments_and_joints/Hip.jpg" position="center" style="border-radius: 8px;" caption="The Hip" captionPosition="center" captionStyle="color: white;" >}}
 
 | Ligament Group                      | Ligament          | Description                                                                                                                                                       | Notes                                                                                               |
 |-------------------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -50,9 +50,9 @@ aliases = ["migrate-from-jekyl"]
 <font size="+7" color="orange"><center> Knee and Tibiofibular Joints </center></font>  
 ---
 
-{{<figure src="/Ligaments_and_joints/Knee.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments_and_joints/Knee.jpg" position="center" style="border-radius: 8px;" caption="The Knee" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Ligaments_and_joints/leg.png" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments_and_joints/leg.png" position="center" style="border-radius: 8px;" caption="The Leg" captionPosition="center" captionStyle="color: white;" >}}
 
 | Ligament Group                  | Ligament          | Description                                                                                                                                                           | Notes                                                                                                                 |
 |---------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -72,7 +72,7 @@ aliases = ["migrate-from-jekyl"]
 <font size="+7" color="orange"><center> Ankle Joint and Foot </center></font>  
 ---
 
-{{<figure src="/Ligaments_and_joints/ankle.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments_and_joints/ankle.jpg" position="center" style="border-radius: 8px;" caption="The Ankle" captionPosition="center" captionStyle="color: white;" >}}
 
 | Ligament Group                  | Ligament          | Description                                                                                                                                                           | Notes                                                                                                                 |
 |---------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|

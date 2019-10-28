@@ -30,7 +30,7 @@ aliases = ["migrate-from-jekyl"]
 
 - This overview will focus on most commonly presented RMDs e.g. Osteoarthritis and Rheumatoid Arthritis, whilst touching upon a few others
 
-{{<figure src="/RMDs/Joint_disease.jpg" class="post-cover" align="centre">}}
+{{<figure src="/RMDs/Joint_disease.jpg" position="center" style="border-radius: 8px;" caption="Joint Disease" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -77,9 +77,9 @@ Changes in the individual tissues of the joint affect the functional cooperation
 
 <br>
 
-{{<figure src="/RMDs/osteo.jpg" class="post-cover" align="centre">}}
+{{<figure src="/RMDs/osteo.jpg" position="center" style="border-radius: 8px;" caption="Osteoarthritis" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/RMDs/osteo2.jpg" class="post-cover" align="centre">}}
+{{<figure src="/RMDs/osteo2.jpg" position="center" style="border-radius: 8px;" caption="Osteoarthritis" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -229,7 +229,7 @@ However, except for intra-articular (IA) corticosteroid or surgery, the effect s
 
 - Management should always contain the core elements of education and information access, exercise and weight loss if overweight or obese, together with any adjuncts that are thought appropriate. Such a ‘core plus option’ approach has been emphasised particularly by NICE (2014) 
 
-{{<figure src="/RMDs/management.jpg" class="post-cover" align="centre">}}
+{{<figure src="/RMDs/management.jpg" position="center" style="border-radius: 8px;" caption="Managment of Osteoarthritis" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -237,7 +237,7 @@ However, except for intra-articular (IA) corticosteroid or surgery, the effect s
 
 <font size="+3" color="gree"><center> Exercise Recommendations for Hand OA</center></font> 
 
-{{<figure src="/RMDs/exercise.jpg" class="post-cover" align="centre">}}
+{{<figure src="/RMDs/exercise.jpg" position="center" style="border-radius: 8px;" caption="Exercise Recommendations" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -364,7 +364,7 @@ The Latin root word is **rheumaticus**, "troubled with rheum," and **rheum** its
 
 - Because of these comorbidities, uncontrolled RA is associated with a reduction in life-expectancy (Avina-Zubieta et al, 2008). 
 
-{{<figure src="/RMDs/RA.jpg" class="post-cover" align="centre">}}
+{{<figure src="/RMDs/RA.jpg" position="center" style="border-radius: 8px;" caption="Rheumatoid Arthritis" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -379,7 +379,7 @@ The Latin root word is **rheumaticus**, "troubled with rheum," and **rheum** its
 - Endothelial damage
     - A common and early event in cardiovascular disease (CVD) happens when damage occurs to the vascular endothelium, the thin layer of cells that lines blood vessels. This damage impairs the function of the endothelium, a condition called endothelial dysfunction.
 
-{{<figure src="/RMDs/hand_RA.jpg" class="post-cover" align="centre">}}
+{{<figure src="/RMDs/hand_RA.jpg" position="center" style="border-radius: 8px;" caption="Hand Arthritis" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -439,7 +439,7 @@ The Latin root word is **rheumaticus**, "troubled with rheum," and **rheum** its
 
 - The systemic component may cause several extra-articular manifestations, including sicca syndrome, vasculitis, scleritis, pericarditis, pleuritis and interstitial lung disease, which are associated with increased mortality (Young & Koduri, 2007). 
 
-{{<figure src="/RMDs/hand_RA2.jpg" class="post-cover" align="centre">}}
+{{<figure src="/RMDs/hand_RA2.jpg" position="center" style="border-radius: 8px;" caption="Hand Arthritis" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -448,7 +448,7 @@ The Latin root word is **rheumaticus**, "troubled with rheum," and **rheum** its
 <font size="+7" color="Orange"><center> Seronegative Spondyloarthropathies </center></font>  
 ---
 
-{{<figure src="/RMDs/types.jpg" class="post-cover" align="centre">}}
+{{<figure src="/RMDs/hand_RA2.jpg" position="center" style="border-radius: 8px;" caption="Types of RMDs" captionPosition="center" captionStyle="color: white;" >}}
 
 Inflammatory disorders originating at entheses
 
@@ -474,7 +474,7 @@ Inflammatory disorders originating at entheses
 
 - Genetic link with HLA B27
 
-{{<figure src="/RMDs/spondyloarthropathies.jpg" class="post-cover" align="centre">}}
+{{<figure src="/RMDs/spondyloarthropathies.jpg" position="center" style="border-radius: 8px;" caption="Spondyloarthropathies" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -688,7 +688,7 @@ Polymyositis is one of the inflammatory myopathies, a group of muscle diseases t
 - Marginal erosions 
     - Pannus eroding into bone
 
-{{<figure src="/RMDs/erosion.jpg" class="post-cover" align="centre">}}
+{{<figure src="/RMDs/erosion.jpg" position="center" style="border-radius: 8px;" caption="Joint Erosion" captionPosition="center" captionStyle="color: white;" >}}
 
 <br>
 
@@ -702,7 +702,7 @@ Polymyositis is one of the inflammatory myopathies, a group of muscle diseases t
 
 - Can detect bone oedema ( build-up of fluid in the bone marrow).
 
-{{<figure src="/RMDs/MRI.jpg" class="post-cover" align="centre">}}
+{{<figure src="/RMDs/MRI.jpg" position="center" style="border-radius: 8px;" caption="MRI Image" captionPosition="center" captionStyle="color: white;" >}}
 
 <br>
 
@@ -717,7 +717,7 @@ Polymyositis is one of the inflammatory myopathies, a group of muscle diseases t
 - Role in both diagnosis and monitoring disease
 Observer dependant
 
-{{<figure src="/RMDs/ultrasound.jpg" class="post-cover" align="centre">}}
+{{<figure src="/RMDs/ultrasound.jpg" position="center" style="border-radius: 8px;" caption="Ultrasound Image" captionPosition="center" captionStyle="color: white;" >}}
 
 <br>
 
@@ -746,7 +746,7 @@ Observer dependant
 
     - Combinations of Methotrexate plus Biologic agents
 
-{{<figure src="/RMDs/steps.jpg" class="post-cover" align="centre">}}
+{{<figure src="/RMDs/ultrasound.jpg" position="center" style="border-radius: 8px;" caption="Management Steps" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 

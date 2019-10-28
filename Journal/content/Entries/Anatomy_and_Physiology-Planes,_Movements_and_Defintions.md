@@ -123,6 +123,7 @@ Common words to describe the position of anatomical structures:
 <font size="+7" color="orange"><center> Anatomical Terminalogy relating to Bones </center></font>
 ---  
 --- 
+
 * **Condyle:** - a round protuberance that occurs at the end of some bones.
 
 --- 
@@ -175,7 +176,8 @@ Common words to describe the position of anatomical structures:
 
 --- 
 * **Transverse Plane:** - can be seen when you stand above or below someone.
-{{<figure src="/2019-10-03/planes_of_movement.jpg" class="post-cover">}}
+
+{{<figure src="/2019-10-03/planes_of_movement.jpg" position="center" style="border-radius: 8px;" caption="Planes of Movement" captionPosition="center" captionStyle="color: white;" >}}
 
 --- 
 <br/><br/>
@@ -195,7 +197,7 @@ Common words to describe the position of anatomical structures:
 * Ankle flexion    
 * Plantarflexion.   
 
-{{<figure src="/2019-10-03/Sagittal_plane_flexion.jpg" class="post-cover">}}
+{{<figure src="/2019-10-03/Sagittal_plane_flexion.jpg" position="center" style="border-radius: 8px;" caption="Sagittal Plane Flexion" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -205,7 +207,8 @@ Common words to describe the position of anatomical structures:
 * Knee extension
 * Ankle extension
 * Dorsiflexion.
-{{<figure src="/2019-10-03/Sagittal_plane_extension.jpg" class="post-cover">}} 
+
+{{<figure src="/2019-10-03/Sagittal_plane_extension.jpg" position="center" style="border-radius: 8px;" caption="Sagittal Plane Extension" captionPosition="center" captionStyle="color: white;" >}}
 
 --- 
 <br/><br/>
@@ -218,7 +221,7 @@ Common words to describe the position of anatomical structures:
 * Knee abduction
 * Ankle abduction.
 
-{{<figure src="/2019-10-03/Coronal_plane_abduction.jpg" class="post-cover">}} 
+{{<figure src="/2019-10-03/Coronal_plane_abduction.jpg" position="center" style="border-radius: 8px;" caption="Coronal Plane Abduction" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 **Adduction:** - ‘The movement of a body segment in a coronal plane such that it moves towards the midline of the body’ (Palastanga & Soames, 2012, p3).
@@ -227,7 +230,7 @@ Common words to describe the position of anatomical structures:
 * Knee adduction
 * Ankle adduction
 
-{{<figure src="/2019-10-03/Coronal_plane_adduction.jpg" class="post-cover">}} 
+{{<figure src="/2019-10-03/Coronal_plane_adduction.jpg" position="center" style="border-radius: 8px;" caption="Coronal Plane Adduction" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 <br/><br/>
@@ -239,17 +242,16 @@ Common words to describe the position of anatomical structures:
 * Medial (internal) hip rotation
 * Medial (internal) knee rotation.
 
-{{<figure src="/2019-10-03/Transverse_plane_medial.jpg" class="post-cover">}} 
+{{<figure src="/2019-10-03/Transverse_plane_medial.jpg" position="center" style="border-radius: 8px;" caption="Transverse Plane Medial" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
-
 
 **Lateral rotation:** - ‘Rotation of a limb segment about its longitudinal axis so that the anterior surface faces away from the midline’ (Palastanga & Soames, 2012, p3).
 
 * Lateral (external) hip rotation
 * Lateral (external) knee rotation.
 
-{{<figure src="/2019-10-03/Transverse_plane_lateral.jpg" class="post-cover">}} 
+{{<figure src="/2019-10-03/Transverse_plane_lateral.jpg" position="center" style="border-radius: 8px;" caption="Transverse Plane Lateral" captionPosition="center" captionStyle="color: white;" >}}
 
 ------
 <br/><br/>
@@ -265,10 +267,10 @@ Common words to describe the position of anatomical structures:
 
 * **Supination:** - Supination of the foot is turning of the sole of the foot inwards, shifting weight to the lateral edge.
 
-{{<figure src="/2019-10-03/Sup_Pro.png" class="post-cover">}} 
+{{<figure src="/2019-10-03/Sup_Pro.png" position="center" style="border-radius: 8px;" caption="Supination and Pronation" captionPosition="center" captionStyle="color: white;" >}}
 
 * **Eversion:** - Tilting the foot away from the midline of the body.
 
 * **Inversion:** - Tilting the foot towards the midline of the body. 
 
-{{<figure src="/2019-10-03/Eversion_and_inversion.jpg" class="post-cover">}} 
+{{<figure src="/2019-10-03/Eversion_and_inversion.jpg" position="center" style="border-radius: 8px;" caption="Eversion and Inversion" captionPosition="center" captionStyle="color: white;" >}}

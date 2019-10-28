@@ -16,7 +16,7 @@ The femoral triangle is a hollow area in the anterior thigh. Many large neurovas
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/areas/femoral-triangle/)<mark>**
 
-{{<figure src="/Anatomical_Areas/Surface-Anatomy-of-the-Femoral-Triangle-300x241.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Surface-Anatomy-of-the-Femoral-Triangle-300x241.jpg" position="center" style="border-radius: 8px;" caption="Surface Anatomy of the Femoral Triangle" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -43,7 +43,7 @@ It also has a floor and a roof:
 
 The inguinal ligament acts as a flexor retinaculum, supporting the contents of the femoral triangle during flexion at the hip.
 
-{{<figure src="/Anatomical_Areas/Borders-of-the-Femoral-Triangle.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Borders-of-the-Femoral-Triangle.jpg" position="center" style="border-radius: 8px;" caption="Borders of the Femoral Triangle" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -64,7 +64,7 @@ The femoral triangle contains some of the major neurovascular structures of the 
 
 The femoral artery, vein and canal are contained within a fascial compartment – known as the femoral sheath.
 
-{{<figure src="/Anatomical_Areas/Contents-of-the-Femoral-Traingle-600x433.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Contents-of-the-Femoral-Traingle-600x433.jpg" position="center" style="border-radius: 8px;" caption="Contents of the Femoral Triangle" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -113,7 +113,7 @@ It can be thought of as a rectangular shaped compartment with four borders and a
 
 The opening to the femoral canal is located at its superior border, known as the femoral ring. The femoral ring is closed by a connective tissue layer – the femoral septum. This septum is pierced by the lymphatic vessels exiting the canal.
 
-{{<figure src="/Anatomical_Areas/Borders-of-the-Femoral-Canal-624x321.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Borders-of-the-Femoral-Canal-624x321.jpg" position="center" style="border-radius: 8px;" caption="Borders of the Femoral Canal" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -134,7 +134,7 @@ The femoral canal contains:
 
 The empty space allows distension of the adjacent femoral vein, so it can cope with increased venous return, or increased intra-abdominal pressure.
 
-{{<figure src="/Anatomical_Areas/Contents-of-the-Femoral-Traingle-600x433 (1).jpg" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Contents-of-the-Femoral-Traingle-600x433 (1).jpg" position="center" style="border-radius: 8px;" caption="Borders of the Femoral Triangle" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -166,7 +166,7 @@ The adductor canal is bordered by muscular structures:
 
 The adductor canal runs from the apex of the femoral triangle to the adductor hiatus – a gap between the adductor and hamstring attachments of the adductor magnus muscle.
 
-{{<figure src="/Anatomical_Areas/Borders-and-Contents-of-the-Adductor-Canal..jpg" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Borders-and-Contents-of-the-Adductor-Canal..jpg" position="center" style="border-radius: 8px;" caption="Borders of the Adductor Canal" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -211,7 +211,7 @@ The popliteal fossa is diamond shaped with four borders. These borders are forme
 
 The popliteal fossa also has a floor and a roof. The floor is formed by the posterior surface of the knee joint capsule and by the posterior surface of the femur. The roof is made of up two layers; popliteal fascia and skin. The popliteal fascia is continuous with the fascia lata of the leg.
 
-{{<figure src="/Anatomical_Areas/Borders-of-the-Popliteal-Fossa.png" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Borders-of-the-Popliteal-Fossa.png" position="center" style="border-radius: 8px;" caption="Borders of the Popliteal Fossa" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -236,4 +236,4 @@ The small saphenous vein pierces the popliteal fascia of the popliteal fossa to 
 
 In the popliteal fossa, the deepest structure is the popliteal artery. It is a continuation of the femoral artery, and travels into the leg to supply it with blood.
 
-{{<figure src="/Anatomical_Areas/Contents-of-the-Popliteal-Fossa-TeachMeAnatomy.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Contents-of-the-Popliteal-Fossa-TeachMeAnatomy.jpg" position="center" style="border-radius: 8px;" caption="Contents of the Popliteal Fossa" captionPosition="center" captionStyle="color: white;" >}}

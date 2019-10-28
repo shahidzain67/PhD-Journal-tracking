@@ -16,7 +16,7 @@ The femoral triangle is a hollow area in the anterior thigh. Many large neurovas
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/areas/femoral-triangle/)<mark>**
 
-{{<figure src="/Anatomical_Areas/Surface-Anatomy-of-the-Femoral-Triangle-300x241.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Surface-Anatomy-of-the-Femoral-Triangle-300x241.jpg" position="center" style="border-radius: 8px;" caption="Surface Anatomy of the Femoral Triangle" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -43,7 +43,7 @@ It also has a floor and a roof:
 
 The inguinal ligament acts as a flexor retinaculum, supporting the contents of the femoral triangle during flexion at the hip.
 
-{{<figure src="/Anatomical_Areas/Borders-of-the-Femoral-Triangle.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Borders-of-the-Femoral-Triangle.jpg" position="center" style="border-radius: 8px;" caption="Borders of the Femoral Triangle" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -64,7 +64,7 @@ The femoral triangle contains some of the major neurovascular structures of the 
 
 The femoral artery, vein and canal are contained within a fascial compartment – known as the femoral sheath.
 
-{{<figure src="/Anatomical_Areas/Contents-of-the-Femoral-Traingle-600x433.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Contents-of-the-Femoral-Traingle-600x433.jpg" position="center" style="border-radius: 8px;" caption="Contents of the Femoral Triangle" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 

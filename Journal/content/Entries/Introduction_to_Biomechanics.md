@@ -83,7 +83,7 @@ We need to take into account the following key components at the ankle joint:
 <font size="+7" color="orange"><center> Rigid Body Mechanics </center></font>  
 ---  
 
-{{<figure src="/Rigid_Body_Mechanics/RBM.png" class="post-cover" align="centre">}}
+{{<figure src="/Rigid_Body_Mechanics/RBM.png" position="center" style="border-radius: 8px;" caption="Rigid Body mechanics" captionPosition="center" captionStyle="color: white;" >}}
 
 <br>
 

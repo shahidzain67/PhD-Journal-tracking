@@ -34,7 +34,7 @@ Both the acetabulum and head of femur are covered in articular cartilage, which 
 
 The capsule of the hip joint attaches to the edge of the acetabulum proximally. Distally, it attaches to the intertrochanteric line anteriorly and the femoral neck posteriorly.
 
-{{<figure src="/Ligaments-and-joints/Bony-Surfaces-of-the-Hip-Joint-Head-of-Femur-and-Acetabulum..jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Bony-Surfaces-of-the-Hip-Joint-Head-of-Femur-and-Acetabulum..jpg"  position="center" style="border-radius: 8px;" caption="Structures of the Hip Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -79,7 +79,7 @@ The artery to head of femur and the superior/inferior gluteal arteries provide s
 
 The hip joint is innervated primarily by the sciatic, femoral and obturator nerves. These same nerves innervate the knee, which explains why pain can be referred to the knee from the hip and vice versa.
 
-{{<figure src="/Ligaments-and-joints/Overview-of-the-Arterial-Supply-to-the-Thigh-Femoral-Artery-600x470.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Overview-of-the-Arterial-Supply-to-the-Thigh-Femoral-Artery-600x470.jpg"  position="center" style="border-radius: 8px;" caption="Neurovascular Supply" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -102,7 +102,7 @@ In addition, the muscles and ligaments work in a reciprocal fashion at the hip j
 
 - Posteriorly, where the ligaments are weakest, the medial rotators are greater in number and stronger – they effectively ‘pull’ the head of the femur into the acetabulum.
 
-{{<figure src="/Ligaments-and-joints/Extracapsular-Ligaments-of-the-Hip-Joint.-1.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Extracapsular-Ligaments-of-the-Hip-Joint.-1.jpg" position="center" style="border-radius: 8px;" caption="Extracapsular Ligaments of the Hip Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -135,7 +135,7 @@ The knee joint is a hinge type synovial joint, which mainly allows for flexion a
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/joints/knee-joint/)<mark>**
 
-{{<figure src="/Ligaments-and-joints/Bony-Surfaces-of-the-Knee-Joint.png" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Bony-Surfaces-of-the-Knee-Joint.png" position="center" style="border-radius: 8px;" caption="Bony Surfaces of the Knee Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -152,7 +152,7 @@ The knee joint consists of two articulations – tibiofemoral and patellofemoral
 
 As the patella is both formed and resides within the quadriceps femoris tendon, it provides a fulcrum to increase power of the knee extensor, and serves as a stabilising structure that reduces frictional forces placed on femoral condyles.
 
-{{<figure src="/Ligaments-and-joints/Articulating-Surfaces-of-the-Femur-and-Tibia-at-the-Knee-Joint.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Articulating-Surfaces-of-the-Femur-and-Tibia-at-the-Knee-Joint.jpg" position="center" style="border-radius: 8px;" caption="Articulating Surfaces" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -184,9 +184,9 @@ In addition to the intercondylar attachment, the medial meniscus is fixed to the
 
 The lateral meniscus is smaller and does not have any extra attachments, rendering it fairly mobile.
 
-{{<figure src="/Ligaments-and-joints/The-Menisci-of-the-Knee-Joint-Posterior-View-300x283.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/The-Menisci-of-the-Knee-Joint-Posterior-View-300x283.jpg" position="center" style="border-radius: 8px;" caption="Posterior View of the Menisci of the Knee Joint" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Ligaments-and-joints/The-Menisci-of-the-Knee-Joint-Superior-View.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/The-Menisci-of-the-Knee-Joint-Superior-View.jpg" position="center" style="border-radius: 8px;" caption="Superior View of the Menisci of the Knee Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -205,7 +205,7 @@ A bursa is synovial fluid filled sac, found between moving structures in a joint
 
 - Semimembranosus bursa – Located posteriorly in the knee joint, between the semimembranosus muscle and the medial head of the gastrocnemius.
 
-{{<figure src="/Ligaments-and-joints/Sagittal-View-of-the-Knee-Joint-Diagram-of-the-Knee-Bursae.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Sagittal-View-of-the-Knee-Joint-Diagram-of-the-Knee-Bursae.jpg" position="center" style="border-radius: 8px;" caption="Sagittal View of the Knee Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -228,7 +228,7 @@ The major ligaments in the knee joint are:
 
     - Posterior cruciate ligament– attaches at the posterior intercondylar region of the tibia, and ascends anteriorly to attach to the anteromedial femoral condyle. It prevents posterior dislocation of the tibia onto the femur.
 
-{{<figure src="/Ligaments-and-joints/Ligaments-of-the-Knee-Joint-Collateral-Cruciate-Menisci-600x497.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Ligaments-of-the-Knee-Joint-Collateral-Cruciate-Menisci-600x497.jpg"position="center" style="border-radius: 8px;" caption="Ligaments of the Knee Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -260,7 +260,7 @@ The proximal and distal tibiofibular joints refer to two articulations between t
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/joints/tibiofibular-joints/))<mark>**
 
-{{<figure src="/Ligaments-and-joints/The-Proximal-and-Distal-Tibiofibular-Joints-600x730.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/The-Proximal-and-Distal-Tibiofibular-Joints-600x730.jpg" position="center" style="border-radius: 8px;" caption="Tibiofibular Joints" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -290,7 +290,7 @@ The arterial supply to the proximal tibiofibular joint is via the inferior genic
 
 The joint is innervated by branches of the common fibular nerve and the nerve to the popliteus (a branch of the tibial nerve).
 
-{{<figure src="/Ligaments-and-joints/Proximal-Tibiofibular-Joint-768x470.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Proximal-Tibiofibular-Joint-768x470.jpg" position="center" style="border-radius: 8px;" caption="The Proximal Tibiofibular Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -313,7 +313,7 @@ The distal tibiofibular joint is supported by:
 
 As it is a fibrous joint, the distal tibiofibular joint does not have a joint capsule (only synovial joints have a joint capsule).
 
-{{<figure src="/Ligaments-and-joints/Distal-Tibiofibular-Joint.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Distal-Tibiofibular-Joint.jpg" position="center" style="border-radius: 8px;" caption="The Distal Tibiofibular Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -339,7 +339,7 @@ Functionally, it is a hinge type joint, permitting dorsiflexion and plantarflexi
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/joints/ankle-joint/))<mark>**
 
-{{<figure src="/Ligaments-and-joints/Bones-of-the-Ankle-Joint-Tibia-Fibula-and-Talus.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Bones-of-the-Ankle-Joint-Tibia-Fibula-and-Talus.jpg" position="center" style="border-radius: 8px;" caption="Bones of the Ankle Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -357,9 +357,9 @@ The body of the talus fits snugly into the mortise formed by the bones of the le
 - Dorsiflexion – the anterior part of the talus is held in the mortise, and the joint is more stable.
 - Plantarflexion – the posterior part of the talus is held in the mortise, and the joint is less stable.
 
-{{<figure src="/Ligaments-and-joints/Diagram-of-the-Bracket-or-Mortise-Structure-of-the-Ankle-Joint-600x529.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Diagram-of-the-Bracket-or-Mortise-Structure-of-the-Ankle-Joint-600x529.jpg" position="center" style="border-radius: 8px;" caption="Bracket/Mortise Structure in the Ankle Joint" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Ligaments-and-joints/The-Talus-in-the-Ankle-Joint.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/The-Talus-in-the-Ankle-Joint.jpg" position="center" style="border-radius: 8px;" caption="The Talus in the Ankle Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -384,7 +384,7 @@ It resists over-inversion of the foot, and is comprised of three distinct and se
 - Posterior talofibular – spans between the lateral malleolus and the posterior aspect of the talus.
 - Calcaneofibular – spans between the lateral malleolus and the calcaneus.
 
-{{<figure src="/Ligaments-and-joints/Ligaments-of-the-Ankle-Joint.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Ligaments-of-the-Ankle-Joint.jpg" position="center" style="border-radius: 8px;" caption="Ligaments of the Ankle Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -437,7 +437,7 @@ As is typical for a synovial joint, these surfaces are covered by articular cart
 
 *Note: Some texts will refer to the talocalcaneal part of the talocalcaneonavicular joint as being part of the subtalar joint. Although this forms part of the functional joint, the true anatomical subtalar joint consists only of the surfaces mentioned above.*
 
-{{<figure src="/Ligaments-and-joints/The-Subtalar-Joints-and-Ligament.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/The-Subtalar-Joints-and-Ligament.jpg" position="center" style="border-radius: 8px;" caption="The Subtalar Joints and Ligaments" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 

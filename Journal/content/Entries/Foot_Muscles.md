@@ -43,10 +43,10 @@ The muscles acting on the foot can be divided into two distinct groups; extrinsi
 |                | Plantar Interossei          | Fourth Layer | Originates from the medial side of metatarsals three to five. Attaches to the medial sides of the phalanges of digits three to five.                                                                                                                         | Adduct digits three to five and flex the metatarsophalangeal joints.                                                         | Lateral plantar nerve.                                                                                                                | There are three plantar interossei, which are located between the metatarsals. Each arises from a single metatarsal.                                                                                        |
 |                | Dorsal Interossei           | Fourth Layer | Originates from the sides of metatarsals one to five. The first muscle attaches to the medial side of the proximal phalanx of the second digit. The second to fourth interossei attach to the lateral sides of the proximal phalanxes of digits two to four. | Abduct digits two to four and flex the metatarsophalangeal joints.                                                           | Lateral plantar nerve.                                                                                                                | There are four dorsal interossei, which are located between the metatarsals. Each arises from two metatarsals.                                                                                              |
 
-{{<figure src="/Muscles_of_the_leg/first_layer.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/first_layer.jpg" position="center" style="border-radius: 8px;" caption="First layer of Muscles of the Leg" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Muscles_of_the_leg/second_layer.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/second_layer.jpg" position="center" style="border-radius: 8px;" caption="Second layer of Muscles of the Leg" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Muscles_of_the_leg/third_layer.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/third_layer.jpg" position="center" style="border-radius: 8px;" caption="Third layer of Muscles of the Leg" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Muscles_of_the_leg/fourth_layer.png" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/fourth_layer.png" position="center" style="border-radius: 8px;" caption="Fourth layer of Muscles of the Leg" captionPosition="center" captionStyle="color: white;" >}}

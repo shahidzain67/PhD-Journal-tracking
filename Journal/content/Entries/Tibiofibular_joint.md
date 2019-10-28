@@ -69,7 +69,7 @@ The distal tibiofibular joint is supported by:
 
 As it is a fibrous joint, the distal tibiofibular joint does not have a joint capsule (only synovial joints have a joint capsule).
 
-{{<figure src="/Ligaments-and-joints/Distal-Tibiofibular-Joint.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Distal-Tibiofibular-Joint.jpg" position="center" style="border-radius: 8px;" caption="Distal Tibiofibular Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 

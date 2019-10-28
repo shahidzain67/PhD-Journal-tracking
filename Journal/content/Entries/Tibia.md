@@ -18,7 +18,7 @@ It expands at its proximal and distal ends; articulating at the knee and ankle j
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/tibia/)<mark>**
 
-{{<figure src="/2019-10-14/Overview-of-the-Tibia-300x300.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Overview-of-the-Tibia-300x300.jpg" position="center" style="border-radius: 8px;" caption="Overview of the Tibia" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -31,7 +31,7 @@ The proximal tibia is widened by the medial and lateral condyles, which aid in w
 
 Located between the condyles is a region called the intercondylar eminence – this projects upwards on either side as the medial and lateral intercondylar tubercles. This area is the main site of attachment for the ligaments and the menisci of the knee joint. The intercondylar tubercles of the tibia articulate with the intercondylar fossa of the femur.
 
-{{<figure src="/2019-10-14/Tibial-Plateau-Articulating-Condyles-of-the-Tibia-at-the-Knee-Joint-300x221.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Tibial-Plateau-Articulating-Condyles-of-the-Tibia-at-the-Knee-Joint-300x221.jpg" position="center" style="border-radius: 8px;" caption="Condyles of the Tibia" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -48,7 +48,7 @@ The shaft of the tibia is prism-shaped, with three borders and three surfaces; a
 
 - Lateral border – also known as the interosseous border. It gives attachment to the interosseous membrane that binds the tibia and the fibula together.
 
-{{<figure src="/2019-10-14/Anterior-and-Posterior-Surfaces-of-the-Tibia.png" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Anterior-and-Posterior-Surfaces-of-the-Tibia.png" position="center" style="border-radius: 8px;" caption="Anterior and Posterior Surfaces of the Tibia" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 

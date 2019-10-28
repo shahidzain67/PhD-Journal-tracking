@@ -38,7 +38,7 @@ The coccyx consists of an apex, base, anterior surface, posterior surface and tw
 
 The coccygeal cornua of Co1 are the largest of the small articular processes of the coccygeal vertebrae. They project upwards to articulate with the sacral cornua.
 
-{{<figure src="/2019-10-14/Bony-Landmarks-of-the-Coccyx.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Gynaecoid-Pelvis-vs-Android-Pelvis.jpg" position="center" style="border-radius: 8px;" caption="Bony Landmarks of the Coccyx" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 

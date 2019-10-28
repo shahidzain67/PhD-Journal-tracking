@@ -35,13 +35,7 @@ The adductor canal is bordered by muscular structures:
 
 The adductor canal runs from the apex of the femoral triangle to the adductor hiatus – a gap between the adductor and hamstring attachments of the adductor magnus muscle.
 
-{{<figure src="/Anatomical_Areas/Borders-and-Contents-of-the-Adductor-Canal..jpg" position="center" style="border-radius: 8px;">}}
-
-{{<picture/picture
-    path="/Anatomical_Areas" file="Borders-and-Contents-of-the-Adductor-Canal..jpg"
-    alt="">}}
-
-{{<figure src="/Anatomical_Areas/Borders-and-Contents-of-the-Adductor-Canal..jpg" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Borders-and-Contents-of-the-Adductor-Canal..jpg" position="center" style="border-radius: 8px;" caption="Borders and Contents of the Adductor Canal" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 

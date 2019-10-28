@@ -28,7 +28,7 @@ The foot can also be divided up into three regions:
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/bones-of-the-foot-tarsals-metatarsals-and-phalanges/)<mark>**
 
-{{<figure src="/2019-10-14/Overview-of-the-Bones-of-the-Human-Foot.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Overview-of-the-Bones-of-the-Human-Foot.jpg" position="center" style="border-radius: 8px;" caption="Bones of the Human Foot" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -66,7 +66,7 @@ The calcaneus is the largest tarsal bone and lies underneath the talus where it 
 
 It protrudes posteriorly and takes the weight of the body as the heel hits the ground when walking. The posterior aspect of the calcaneus is marked by calcaneal tuberosity, to which the Achilles tendon attaches.
 
-{{<figure src="/2019-10-14/The-Tarsal-Bones-of-the-Foot-600x467.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/The-Tarsal-Bones-of-the-Foot-600x467.jpg" position="center" style="border-radius: 8px;" caption="The Tarsal Bones" captionPosition="center" captionStyle="color: white;" >}}
 
 <br>
 

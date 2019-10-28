@@ -54,7 +54,7 @@ The intermediate sacral crests are formed by the fusion of the sacral articular 
 
 Finally, the transverse processes of the five sacral bones fuse to form the lateral sacral crests, which offers a point of attachment to the posterior sacroiliac ligaments as well as the sacrotuberous ligament. The fusion of these processes is not complete, allowing the sacral nerve fibres to enter and leave the central canal by way of the four pairs of posterior sacral foramina.
 
-{{<figure src="/2019-10-14/The-Posterior-Dorsal-Surface-of-the-Pelvis-1024x465.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/The-Posterior-Dorsal-Surface-of-the-Pelvis-1024x465.jpg" position="center" style="border-radius: 8px;" caption="Posterior Dorsal Surface of the Pelvis" captionPosition="center" captionStyle="color: white;" >}}
 
 <br><br>
 
@@ -64,7 +64,7 @@ The pelvic surface of the sacrum is less remarkable than the dorsal surface. In 
 
 Superiorly, there is an anterior projection of bone, known as the sacral promontory. It forms the posterior margin of the pelvic inlet and as a result, it is serially continuous with the margin of the ala of the sacrum, arcuate line of the ilium, and the pectin pubis and pubic crest of the pubic bone.
 
-{{<figure src="/2019-10-14/The-Anterior-Pelvic-Surface-of-the-Sacrum-1024x526.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/The-Anterior-Pelvic-Surface-of-the-Sacrum-1024x526.jpg" position="center" style="border-radius: 8px;" caption="Anterior Surface of the Pelvis" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -85,7 +85,7 @@ Both the anterior and posterior surfaces of the sacrum serve as points of origin
 
 - Iliacus – although it primarily arises from the iliac fossa, it also has fibres originating at the ala of the sacrum. Its distal attachment to the lesser trochanter of the femur allows it to flex the thigh at the hips and stabilize the hip joint.
 
-{{<figure src="/2019-10-14/The-Deep-Intrinsic-Muscles-of-the-Back-Multifidus-and-Semispinalis-600x986.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/The-Deep-Intrinsic-Muscles-of-the-Back-Multifidus-and-Semispinalis-600x986.jpg" position="center" style="border-radius: 8px;" caption="Anterior Surface" captionPosition="center" captionStyle="color: white;" >}}
 
 <br><br>
 
@@ -112,7 +112,7 @@ The central canal of the sacrum is home to the sacral fibres of the cauda equina
 
 The filum terminale (a continuation of the pia mater from the conus medullaris of the spinal cord) is joined by the arachnoid and dura mater at the level of S2 and continues inferiorly through the sacrum as the coccygeal ligament to its attachment at the coccyx.
 
-{{<figure src="/2019-10-14/Distal-End-of-the-Spinal-Cord-The-Lumbar-Cistern.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Distal-End-of-the-Spinal-Cord-The-Lumbar-Cistern.jpg" position="center" style="border-radius: 8px;" caption="Spinal Cord" captionPosition="center" captionStyle="color: white;" >}}
 
 <br><br>
 

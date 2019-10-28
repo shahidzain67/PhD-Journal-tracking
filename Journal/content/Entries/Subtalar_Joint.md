@@ -31,7 +31,7 @@ As is typical for a synovial joint, these surfaces are covered by articular cart
 
 *Note: Some texts will refer to the talocalcaneal part of the talocalcaneonavicular joint as being part of the subtalar joint. Although this forms part of the functional joint, the true anatomical subtalar joint consists only of the surfaces mentioned above.*
 
-{{<figure src="/Ligaments-and-joints/The-Subtalar-Joints-and-Ligament.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/The-Subtalar-Joints-and-Ligament.jpg" position="center" style="border-radius: 8px;" caption="Subtalar Joints and Ligaments" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 

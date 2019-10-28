@@ -15,7 +15,7 @@ Their shape allows them to act in the same way as a spring, bearing the weight o
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/misc/foot-arches/)<mark>**
 
-{{<figure src="/Anatomical_Areas/Overview-of-the-Arches-of-the-Foot-600x862.png" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Overview-of-the-Arches-of-the-Foot-600x862.png" position="center" style="border-radius: 8px;" caption="Arches of the Foot" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -48,7 +48,7 @@ The lateral arch is the flatter of the two longitudinal arches, and lies on the 
 
 - Other: Plantar aponeurosis.
 
-{{<figure src="/Anatomical_Areas/Supporting-Structures-of-the-Foot-Arches-600x481.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Anatomical_Areas/Supporting-Structures-of-the-Foot-Arches-600x481.jpg" position="center" style="border-radius: 8px;" caption="Supporting Structures of the Foot Arches" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 

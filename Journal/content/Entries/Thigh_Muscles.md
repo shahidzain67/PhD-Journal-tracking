@@ -9,14 +9,6 @@ series = ["University Journal"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-<font size="+7" color="orange"><center> Lower Limb Anatomy Lecture </center></font>
----
-
-{{< youtube nFsHdkr9b9g >}}
-
----
-<br><br>
-
 <font size="+7" color="orange"><center> The Fascia Lata </center></font>
 ---
 
@@ -60,7 +52,7 @@ The property of TFL tightening the fascia lata is analogous to hoisting an elast
 
 An additional property of tensing the fascia lata is that it makes muscle contraction more efficient in compressing deep veins, which ensures adequate venous return to the heart from the lower limbs.
 
-{{<figure src="/Muscles_of_the_leg/TFL.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/TFL.jpg" position="center" style="border-radius: 8px;" caption="Tensor Fascia Lata" captionPosition="center" captionStyle="color: white;" >}}
 
 <br>
 
@@ -122,9 +114,9 @@ The arterial supply to these muscles is mostly via the superior and inferior glu
 |                     | The Gemelli – Superior and Inferior | The superior gemellus muscle originates from the ischial spine, the inferior from the ischial tuberosity. They both attach to the greater trochanter of the femur.                                                  | Lateral rotation and abduction.                                                                                                                        | The superior gemellus muscle is innervated by the nerve to obturator internus, the inferior gemellus is innervated by the nerve to quadratus femoris. | The gemelli are two narrow and triangular muscles. They are separated by the obturator internus tendon.                                                                                                 |
 |                     | Quadratus Femoris                   | It originates from the lateral side of the ischial tuberosity, and attaches to the quadrate tuberosity on the intertrochanteric crest.                                                                              | Lateral rotation.                                                                                                                                      | Nerve to quadratus femoris.                                                                                                                           | The quadratus femoris is a flat, square-shaped muscle. It is the most inferior of the deep gluteal muscles, located below the gemelli and obturator internus.                                           |
 
-{{<figure src="/Muscles_of_the_leg/Superficial_gluteal.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/Superficial_gluteal.jpg" position="center" style="border-radius: 8px;" caption="Superficial Gluteal Muscle" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Muscles_of_the_leg/deep_gluteal.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/deep_gluteal.jpg" position="center" style="border-radius: 8px;" caption="Deep Gluteal Muscle" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 <br><br>
@@ -149,11 +141,11 @@ There are three major muscles in the anterior thigh – the pectineus, sartorius
 | Sartorius          |                    | Originates from the anterior superior iliac spine, and attaches to the superior, medial surface of the tibia.                                                                               | At the hip joint, it is a flexor, abductor and lateral rotator. At the knee joint, it is also a flexor.                                       | Femoral nerve.                                                     | The sartorius is the longest muscle in the body. It is long and thin, running across the thigh in a inferomedial direction. The sartorius is positioned more superficially than the other muscles in the leg.            |
 | Pectineus          |                    | It originates from the pectineal line on the anterior surface of the pelvis, and attaches to the pectineal line on the posterior side of the femur, just inferior to the lesser trochanter. | Adduction and flexion at the hip joint.                                                                                                       | Femoral nerve. May also receive a branch from the obturator nerve. | The pectineus muscle is a flat muscle that forms the base of the femoral triangle. It has a dual innervation, and thus can be considered a transitional muscle between the anterior thigh and medial thigh compartments. |
 
-{{<figure src="/Muscles_of_the_leg/Anterior_thigh.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/Anterior_thigh.jpg" position="center" style="border-radius: 8px;" caption="Anterior Thigh Muscle" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Muscles_of_the_leg/Quadraceps.png" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/Quadraceps.png" position="center" style="border-radius: 8px;" caption="Quadraceps Muscle" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Muscles_of_the_leg/Cross_section.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/Cross_section.jpg" position="center" style="border-radius: 8px;" caption="Cross Section of the Leg" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 <br><br>
@@ -173,9 +165,9 @@ As group, these muscles act to extend at the hip, and flex at the knee. They are
 | Semitendinosus  | It originates from the ischial tuberosity of the pelvis, and attaches to the medial surface of the tibia.                                                                                                                            | Flexion of the leg at the knee joint. Extension of thigh at the hip. Medially rotates the thigh at the hip joint and the leg at the knee joint. | Tibial part of the sciatic nerve.                                                                                                                   | The semitendinosus is a largely tendinous muscle. It lies medially to the biceps femoris, and covers the majority of the semimembranosus.                                |
 | Semimembranosus | It originates from the ischial tuberosity, but does so more superiorly than the semitendinosus and biceps femoris. It attaches to the medial tibial condyle.                                                                         | Flexion of the leg at the knee joint. Extension of thigh at the hip. Medially rotates the thigh at the hip joint and the leg at the knee joint. | Tibial part of the sciatic nerve.                                                                                                                   | The semimembranosus muscle is flattened and broad. It is located underneath the semitendinosus.                                                                          |
 
-{{<figure src="/Muscles_of_the_leg/Posterior_thigh.png" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/Posterior_thigh.png" position="center" style="border-radius: 8px;" caption="Posterior Thigh Muscles" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Muscles_of_the_leg/Cross_section2.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/Cross_section2.jpg" position="center" style="border-radius: 8px;" caption="Cross Section of the Leg" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 <br><br>
@@ -198,6 +190,6 @@ All the medial thigh muscles are innervated by the obturator nerve, which arises
 | Obturator Externus |           | It originates from the membrane of the obturator foramen, and adjacent bone. It passes under the neck of femur, attaching to the posterior aspect of the greater trochanter.                                          | Adduction and lateral rotation of the thigh.                           | Obturator nerve (L2-L4).                                                           | This is one of the smaller muscles of the medial thigh, and it is located most superiorly.                                                                                                                         |
 | Gracilis           |           | It originates from the inferior rami of the pubis, and the body of the pubis. It attaches to the medial surface of the tibia, between the tendons of the sartorius (anteriorly) and the semitendinosus (posteriorly). | Adduction of the thigh at the hip, and flexion of the leg at the knee. | Obturator nerve (L2-L4).                                                           | The gracilis is the most superficial and medial of the muscles in this compartment. It crosses at both the hip and knee joints. It is sometimes transplanted into the hand or forearm to replace a damaged muscle. |
 
-{{<figure src="/Muscles_of_the_leg/Medial_thigh.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/Medial_thigh.jpg" position="center" style="border-radius: 8px;" caption="Medial Thigh Muscles" captionPosition="center" captionStyle="color: white;" >}}
 
-{{<figure src="/Muscles_of_the_leg/Cross_section3.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Muscles_of_the_leg/Cross_section3.jpg" position="center" style="border-radius: 8px;" caption="Cross Section of the Leg" captionPosition="center" captionStyle="color: white;" >}}

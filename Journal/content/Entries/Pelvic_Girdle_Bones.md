@@ -32,7 +32,7 @@ There are four articulations within the pelvis:
 - Pubic symphysis – between the pubis bodies of the two hip bones.
 - Ligaments attach the lateral border of the sacrum to various bony landmarks on the bony pelvis to aid stability.
 
-{{<figure src="/2019-10-14/The-Parts-of-the-Pelvic-Girdle-Hip-Bones-Sacrum-and-Coccyx.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/The-Parts-of-the-Pelvic-Girdle-Hip-Bones-Sacrum-and-Coccyx.jpg" position="center" style="border-radius: 8px;" caption="Structure of the Pelvic Girdle" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -60,7 +60,7 @@ The osteology of the pelvic girdle allows the pelvic region to be divided into t
 - Lesser pelvis (true pelvis) – located inferiorly. Within the lesser pelvis reside the pelvic cavity and pelvic viscera.
 The junction between the greater and lesser pelvis is known as the pelvic inlet. The outer bony edges of the pelvic inlet are called the pelvic brim.
 
-{{<figure src="/2019-10-14/Greater-and-Lesser-Pelvis-Divided-by-the-Pelvic-Brim.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Greater-and-Lesser-Pelvis-Divided-by-the-Pelvic-Brim.jpg" position="center" style="border-radius: 8px;" caption="The Greater and Lesser Pelvis" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -83,7 +83,7 @@ Some alternative descriptive terminology can be used in describing the pelvic in
 - Linea terminalis – the combined pectineal line, arcuate line and sacral promontory.
 - Iliopectineal line – the combined arcuate and pectineal lines. This represents the lateral border of the pelvic inlet.
 
-{{<figure src="/2019-10-14/Borders-of-the-Pelvic-Inlet-The-Pelvic-Brim.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Borders-of-the-Pelvic-Inlet-The-Pelvic-Brim.jpg" position="center" style="border-radius: 8px;" caption="Pelvic Inlet" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -101,7 +101,7 @@ Its borders are:
 - Anterior: The pubic arch (the inferior border of the ischiopubic rami).
 The angle beneath the pubic arch is known as the sub-pubic angle and is of a greater size in women.
 
-{{<figure src="/2019-10-14/Borders-of-the-Pelvic-Outlet.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Borders-of-the-Pelvic-Outlet.jpg" position="center" style="border-radius: 8px;" caption="Pelvic Outlet" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -119,4 +119,4 @@ The majority of women have a gynaecoid pelvis, as opposed to the male android pe
 - A sacrum which is shorter, more curved and with a less pronounced sacral promontory.
 In addition to the bony adaptations, the sacrotuberous and sacrospinous ligaments can stretch under the influence of progesterone and increase the size of the outlet further.
 
-{{<figure src="/2019-10-14/Gynaecoid-Pelvis-vs-Android-Pelvis.jpg" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Gynaecoid-Pelvis-vs-Android-Pelvis.jpg" position="center" style="border-radius: 8px;" caption="Pelvic Adaptation for Childbirth" captionPosition="center" captionStyle="color: white;" >}}

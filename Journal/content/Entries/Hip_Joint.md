@@ -34,7 +34,7 @@ Both the acetabulum and head of femur are covered in articular cartilage, which 
 
 The capsule of the hip joint attaches to the edge of the acetabulum proximally. Distally, it attaches to the intertrochanteric line anteriorly and the femoral neck posteriorly.
 
-{{<figure src="/Ligaments-and-joints/Bony-Surfaces-of-the-Hip-Joint-Head-of-Femur-and-Acetabulum..jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Bony-Surfaces-of-the-Hip-Joint-Head-of-Femur-and-Acetabulum..jpg"  position="center" style="border-radius: 8px;" caption="Structures of the Hip Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -79,7 +79,7 @@ The artery to head of femur and the superior/inferior gluteal arteries provide s
 
 The hip joint is innervated primarily by the sciatic, femoral and obturator nerves. These same nerves innervate the knee, which explains why pain can be referred to the knee from the hip and vice versa.
 
-{{<figure src="/Ligaments-and-joints/Overview-of-the-Arterial-Supply-to-the-Thigh-Femoral-Artery-600x470.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Overview-of-the-Arterial-Supply-to-the-Thigh-Femoral-Artery-600x470.jpg"   position="center" style="border-radius: 8px;" caption="Neurovascular Supply" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -102,7 +102,7 @@ In addition, the muscles and ligaments work in a reciprocal fashion at the hip j
 
 - Posteriorly, where the ligaments are weakest, the medial rotators are greater in number and stronger – they effectively ‘pull’ the head of the femur into the acetabulum.
 
-{{<figure src="/Ligaments-and-joints/Extracapsular-Ligaments-of-the-Hip-Joint.-1.jpg" class="post-cover" align="centre">}}
+{{<figure src="/Ligaments-and-joints/Extracapsular-Ligaments-of-the-Hip-Joint.-1.jpg"   position="center" style="border-radius: 8px;" caption="Ligaments of the Hip Joint" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 

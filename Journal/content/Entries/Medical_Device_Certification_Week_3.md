@@ -229,7 +229,8 @@ Common words to describe the position of anatomical structures:
 
 --- 
 * **Transverse Plane:** - can be seen when you stand above or below someone.
-{{<figure src="/2019-10-03/planes_of_movement.jpg" class="post-cover">}}
+
+{{<figure src="/2019-10-03/planes_of_movement.jpg" position="center" style="border-radius: 8px;" caption="Planes of Movement" captionPosition="center" captionStyle="color: white;" >}}
 
 --- 
 <br/><br/>
@@ -249,7 +250,7 @@ Common words to describe the position of anatomical structures:
 * Ankle flexion    
 * Plantarflexion.   
 
-{{<figure src="/2019-10-03/Sagittal_plane_flexion.jpg" class="post-cover">}}
+{{<figure src="/2019-10-03/Sagittal_plane_flexion.jpg" position="center" style="border-radius: 8px;" caption="Sagittal Plane Flexion" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -259,7 +260,8 @@ Common words to describe the position of anatomical structures:
 * Knee extension
 * Ankle extension
 * Dorsiflexion.
-{{<figure src="/2019-10-03/Sagittal_plane_extension.jpg" class="post-cover">}} 
+
+{{<figure src="/2019-10-03/Sagittal_plane_extension.jpg" position="center" style="border-radius: 8px;" caption="Sagittal Plane Extension" captionPosition="center" captionStyle="color: white;" >}}
 
 --- 
 <br/><br/>
@@ -272,7 +274,7 @@ Common words to describe the position of anatomical structures:
 * Knee abduction
 * Ankle abduction.
 
-{{<figure src="/2019-10-03/Coronal_plane_abduction.jpg" class="post-cover">}} 
+{{<figure src="/2019-10-03/Coronal_plane_abduction.jpg" position="center" style="border-radius: 8px;" caption="Coronal Plane Abduction" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 **Adduction:** - ‘The movement of a body segment in a coronal plane such that it moves towards the midline of the body’ (Palastanga & Soames, 2012, p3).
@@ -281,7 +283,7 @@ Common words to describe the position of anatomical structures:
 * Knee adduction
 * Ankle adduction
 
-{{<figure src="/2019-10-03/Coronal_plane_adduction.jpg" class="post-cover">}} 
+{{<figure src="/2019-10-03/Coronal_plane_adduction.jpg" position="center" style="border-radius: 8px;" caption="Coronal Plane Adduction" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 <br/><br/>
@@ -293,7 +295,7 @@ Common words to describe the position of anatomical structures:
 * Medial (internal) hip rotation
 * Medial (internal) knee rotation.
 
-{{<figure src="/2019-10-03/Transverse_plane_medial.jpg" class="post-cover">}} 
+{{<figure src="/2019-10-03/Transverse_plane_medial.jpg" position="center" style="border-radius: 8px;" caption="Transverse Plane Medial" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
@@ -303,8 +305,7 @@ Common words to describe the position of anatomical structures:
 * Lateral (external) hip rotation
 * Lateral (external) knee rotation.
 
-{{<figure src="/2019-10-03/Transverse_plane_lateral.jpg" class="post-cover">}} 
-
+{{<figure src="/2019-10-03/Transverse_plane_lateral.jpg" position="center" style="border-radius: 8px;" caption="Transverse Plane Lateral" captionPosition="center" captionStyle="color: white;" >}}
 
 # <mark>Other</mark>
 Lecturer Warren Macdonald - w.macdonald@imperial.ac.uk

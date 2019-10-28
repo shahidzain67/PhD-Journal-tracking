@@ -22,7 +22,7 @@ It has three main articulations:
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/the-fibula/)<mark>**
 
-{{<figure src="/2019-10-14/Overview-of-the-Fibula.png" class="post-cover" align="centre">}}
+{{<figure src="/2019-10-14/Overview-of-the-Fibula.png" position="center" style="border-radius: 8px;" caption="Overview of the Fibula" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
 
