@@ -2,261 +2,299 @@
 author = ""
 title = "Lower Limb Bones"
 date = "2019-10-14"
-description = "Description of all of the lower limb bones"
+description = "Description of the Femur, Patella, Tibia, Fibula and Bones of the Foot"
 tags = ["Masters", "Fundamentals of Prosthetics and Orthotics", "Anatomy"]
 categories = ["Masters", "Fundamentals of Prosthetics and Orthotics"]
 series = ["University Journal"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-<font size="+7" color="orange"><center> 1. Os Coxae (Coxal) </center></font>  
+<font size="+7" color="orange"><center> The Femur </center></font>  
 ---
 
-**<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/bones-of-the-foot-tarsals-metatarsals-and-phalanges/)<mark>**
-
-{{<figure src="/2019-10-14/Coxal.jpg" class="post-cover" align="centre">}}
-
-|   Bone   |     Structure     |                         Description                        |                                                                                                          Notes                                                                                                          |
-|:--------:|:-----------------:|:----------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| os coxae |                   | the two coxal bones and sacrum form the pelvis             | paired; the os coxae forms the lateral part of the pelvis; it is formed by three fused bones: ischium, ilium & pubis; also known as the innominate bone                                                                 |
-|          | obturator foramen | a large foramen formed by the pubic and ischial rami       | obturator means to occlude or stop up, a reference to the fact that the obturator membrane closes the obturator foramen almost completely; a site of attachment for the obturator externus m. and obturator internus m. |
-|          | obturator groove  | groove on the inferior surface of the superior pubic ramus | marks the area of passage of the obturator vessels and n. in the obturator canal                                                                                                                                        |
-
----
-
-<font size="+7" color="orange"><center> 2. Ilium </center></font>  
----
-
-{{<figure src="/2019-10-14/Ilium.jpg" class="post-cover" align="centre">}}
-
-|  Bone |            Structure           |                                       Description                                      |                                                                                Notes                                                                                |
-|:-----:|:------------------------------:|:--------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ilium |                                | fan-shaped bone that forms the lateral prominence of the pelvis                        | one of three bones that form the os coxae: ilium, ischium, pubis                                                                                                    |
-|       | arcuate line                   | ridge running from anteroinferior to posterosuperior on the inner surface of the ilium | inferior boundary of the iliac fossa; marks the plane of transition from abdominal cavity to pelvic cavity; part of the iliopectineal line (Latin, arcuate = bowed) |
-|       | anterior inferior iliac spine  | inferior to anterior superior iliac spine                                              | attachment site of straight head of rectus femoris m.                                                                                                               |
-|       | anterior superior iliac spine  | spine at the anterior end of the iliac crest                                           | lateral attachment of the inguinal ligament                                                                                                                         |
-|       | greater sciatic notch          | the notch on the inferior portion of ilium located posteromedial to the ischial spine  | the greater sciatic notch is converted to the greater sciatic foramen by the sacrospinous ligament and the sacrotuberous ligament                                   |
-|       | iliac crest                    | arching superior margin of the ilium that forms the rim of the "fan"                   | attachment for abdominal wall muscles                                                                                                                               |
-|       | iliac tubercle                 | roughened area along the outer edge of the iliac crest                                 |                                                                                                                                                                     |
-|       | posterior superior iliac spine | spine at the posterior end of the iliac crest                                          | position marked by a dimpling of the skin                                                                                                                           |
-
-<font size="+7" color="orange"><center> 3. Ischium </center></font>  
----
-
-{{<figure src="/2019-10-14/Ischium.jpg" class="post-cover" align="centre">}}
-
-|   Bone  |       Structure      |                                       Description                                      |                                                                                                                                                  Notes                                                                                                                                                  |
-|:-------:|:--------------------:|:--------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ischium |                      | the "V"-shaped bone that forms the posteroinferior part of the pelvis                  | one of the three bones that form the os coxae: ilium, ischium, pubis                                                                                                                                                                                                                                    |
-|         | ischial spine        | the spine that arises just superior to the lesser sciatic notch                        | it is the site of attachment of the sacrospinous ligament and the site of origin of the superior gemellus m. (Greek, ischion = hip joint)                                                                                                                                                               |
-|         | ischial tuberosity   | the roughened projection that protrudes posteroinferiorly from the body of the ischium | it is the site of attachment of the sacrotuberous ligament; it is the site of origin of the inferior gemellus m., quadratus femoris m. and the hamstring mm. (semitendinosus, semimembranosus, long head of biceps femoris, ischiocondylar portion of the adductor magnus) (Greek, ischion = hip joint) |
-|         | lesser sciatic notch | the notch located between the ischial tuberosity and the ischial spine                 | the lesser sciatic notch is converted to the lesser sciatic foramen by the sacrospinous and sacrotuberous ligaments                                                                                                                                                                                     |
-
----
-
-<font size="+7" color="orange"><center> 4. Pubis </center></font>  
----
-
-{{<figure src="/2019-10-14/Pubis.png" class="post-cover" align="centre">}}
-
-|  Bone |    Structure   |                              Description                             |                                                                                                                                               Notes                                                                                                                                               |
-|:-----:|:--------------:|:--------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| pubis |                | an angulated bone that forms the anterior part of the pelvis         | one of three bones that form the os coxae: ilium, ischium, pubis; its body forms 1/5 of the acetabulum; its symphyseal surface unites with the pubis of the opposite side to form the pubic symphysis; the superior and inferior pubic rami participate in the formation of the obturator foramen |
-|       | body           | superolateral portion of the pubis                                   | the body of the pubis forms about 1/5 of the acetabulum                                                                                                                                                                                                                                           |
-|       | inferior ramus | inferior "limb" that passes inferolaterally from the pubic symphysis | articulates with the ischial ramus to form the ischiopubic ramus; attachment site for the root of the penis/clitoris (Latin, ramus = a branch)                                                                                                                                                    |
-|       | pecten         | ridge on superior surface of the superior pubic ramus                | attachment point of the pectineal ligament                                                                                                                                                                                                                                                        |
-|       | pubic crest    | ridge on the superior border of the superior ramus                   | attachment of rectus abdominis & pyramidalis mm.                                                                                                                                                                                                                                                  |
-|       | pubic tubercle | process at the lateral end of pubic crest                            | attachment point of the medial end of the inguinal ligament                                                                                                                                                                                                                                       |
-
----
-
-<font size="+7" color="orange"><center> 5. Femur </center></font>  
----
+The femur is the only bone in the thigh and the longest bone in the body. It acts as the site of origin and attachment of many muscles and ligaments, and can be divided into three parts; proximal, shaft and distal.
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/femur/)<mark>**
 
-{{<figure src="/2019-10-14/Femur.jpg" class="post-cover" align="centre">}}
+---
 
-|  Bone |        Structure        |                                                           Description                                                          |                                                                                                                                                                       Notes                                                                                                                                                                       |
-|:-----:|:-----------------------:|:------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| femur |                         | the bone of the thigh                                                                                                          | the femur is the longest and strongest bone in the body                                                                                                                                                                                                                                                                                           |
-|       | head                    | smooth, rounded proximal end                                                                                                   | the head of the femur articulates with the acetabulum of the pelvis                                                                                                                                                                                                                                                                               |
-|       | neck                    | the constricted area distal to the head of the femur                                                                           | most of the blood supply to the head of the femur courses along the surface of the neck; fractures of the neck of the femur may result in avascular necrosis of the head                                                                                                                                                                          |
-|       | greater trochanter      | a large process that projects superiorly from the junction of the neck and shaft of the femur                                  | the greater trochanter is the insertion site of the gluteus medius m., gluteus minimus m., piriformis m. and obturator internus m. (Greek, trochanter = a runner or roller, from trochos, a wheel. Originally used for the head of the femur, which turns like a wheel in its socket. Eventually it came to mean the bony processes of the femur) |
-|       | lesser trochanter       | a large process that projects from the posteromedial surface of the femur just distal to neck                                  | it is the insertion site of the common tendon of the psoas major and iliacus mm. (iliopsoas m.) (Greek, trochanter = a runner or roller, from trochos, a wheel. Originally used for the head of the femur, which turns like a wheel in its socket. Eventually it came to mean the bony processes of the femur)                                    |
-|       | trochanteric fossa      | a depression on the medial side of the greater trochanter on its posterior surface where the greater trochanter joins the neck | it is the insertion site of the obturator externus m.                                                                                                                                                                                                                                                                                             |
-|       | intertrochanteric crest | a heavy ridge on the posterior surface of the femur that connects the greater and lesser trochanters                           | the quadratus femoris m. inserts on the intertrochanteric crest                                                                                                                                                                                                                                                                                   |
-|       | gluteal tuberosity      | a roughened area located on the posterior surface of the femur at the superior end of the lateral lip of the linea aspera      | it is one of the insertion sites of the gluteus maximus m.                                                                                                                                                                                                                                                                                        |
-|       | adductor tubercle       | a process that projects superior to the medial epicondyle of the femur                                                         | it is the insertion site of the ischiocondylar part of the adductor magnus m.                                                                                                                                                                                                                                                                     |
-|       | linea aspera            | a vertical ridge on posterior surface of the femur                                                                             | it is the insertion site of the medial (adductor) group of thigh muscles and the origin of the vastus intermedius m. and the short head of the biceps femoris m. (Latin, linea aspera = rough line, the linea aspera is a roughed longitudinal line on the posterior surface of the shaft of the femur which gives attachment to several muscles) |
-|       | pectineal line          | a prominent intermediate ridge extending from the central part of the linea aspera to the base of the lesser trochanter        |                                                                                                                                                                                                                                                                                                                                                   |
-|       | lateral epicondyle      | the enlargement of bone on the lateral side of the femur just superior to the lateral condyle                                  | it is the attachment site of the fibular collateral ligament and the site of origin of the popliteus m. (Greek, kondylos = the knob formed by the knuckle of any joint)                                                                                                                                                                           |
-|       | medial epicondyle       | the enlargement of bone on the medial side of the femur just superior to the medial condyle                                    | it is the attachment site of the tibial collateral ligament of the knee joint (Greek, kondylos = the knob formed by the knuckle of any joint)                                                                                                                                                                                                     |
+<br><br>
+
+<font size="+7" color="orange"><center> Proximal </center></font>  
+---
+
+The proximal aspect of the femur articulates with the acetabulum of the pelvis to form the hip joint.
+
+It consists of a head and neck, and two bony processes – the greater and lesser trochanters. There are also two bony ridges connecting the two trochanters; the intertrochanteric line anteriorly and the trochanteric crest posteriorly.
+
+- Head – articulates with the acetabulum of the pelvis to form the hip joint. It has a smooth surface, covered with articular cartilage (except for a small depression – the fovea – where ligamentum teres attaches).
+
+- Neck – connects the head of the femur with the shaft. It is cylindrical, projecting in a superior and medial direction. It is set at an angle of approximately 135 degrees to the shaft. This angle of projection allows for an increased range of movement at the hip joint.
+
+- Greater trochanter – the most lateral palpable projection of bone that originates from the anterior aspect, just lateral to the neck.
+    - It is the site of attachment for many of the muscles in the gluteal region, such as gluteus medius, gluteus minimus and piriformis. The vastus lateralis originates from this site.
+
+    - An avulsion fracture of the greater trochanter can occur as a result of forceful contraction of the gluteus medius.
+
+- Lesser trochanter – smaller than the greater trochanter. It projects from the posteromedial side of the femur, just inferior to the neck-shaft junction.
+    - It is the site of attachment for iliopsoas (forceful contraction of which can cause an avulsion fracture of the lesser trochanter).
+
+- Intertrochanteric line – a ridge of bone that runs in an inferomedial direction on the anterior surface of the femur, spanning between the two trochanters. After it passes the lesser trochanter on the posterior surface, it is known as the pectineal line.
+    - It is the site of attachment for the iliofemoral ligament (the strongest ligament of the hip joint).
+    - It also serves as the anterior attachment of the hip joint capsule.
+
+- Intertrochanteric crest – like the intertrochanteric line, this is a ridge of bone that connects the two trochanters. It is located on the posterior surface of the femur. There is a rounded tubercle on its superior half called the quadrate tubercle; where quadratus femoris attaches.
+
+{{<figure src="/2019-10-14/Anterior-Surface-of-the-Proximal-Portion-of-the-Femur-Bony-Landmarks.jpg" class="post-cover" align="centre">}}
+
+{{<figure src="/2019-10-14/Posterior-Surface-of-the-Proximal-Portion-of-the-Femur-Bony-Landmarks-624x533.jpg" class="post-cover" align="centre">}}
 
 ---
 
-<font size="+7" color="orange"><center> 6. Patella </center></font>  
+<br><br>
+
+<font size="+7" color="orange"><center> The Shaft </center></font>  
 ---
+
+The shaft of the femur descends in a slight medial direction. This brings the knees closer to the body’s centre of gravity, increasing stability. A cross section of the shaft in the middle is circular but flattened posteriorly at the proximal and distal aspects.
+
+On the posterior surface of the femoral shaft, there are roughened ridges of bone, called the linea aspera (Latin for rough line). These split inferiorly to form the medial and lateral supracondylar lines. The flat popliteal surface lies between them.
+
+Proximally, the medial border of the linea aspera becomes the pectineal line. The lateral border becomes the gluteal tuberosity, where the gluteus maximus attaches.
+
+Distally, the linea aspera widens and forms the floor of the popliteal fossa, the medial and lateral borders form the medial and lateral supracondylar lines. The medial supracondylar line ends at the adductor tubercle, where the adductor magnus attaches.
+
+{{<figure src="/2019-10-14/Posterior-Surface-of-the-Shaft-of-the-Femur-431x1024.jpg" class="post-cover" align="centre">}}
+
+---
+
+<br><br>
+
+<font size="+7" color="orange"><center> Distal </center></font>  
+---
+
+The distal end of the femur is characterised by the presence of the medial and lateral condyles, which articulate with the tibia and patella to form the knee joint.
+
+- Medial and lateral condyles – rounded areas at the end of the femur. The posterior and inferior surfaces articulate with the tibia and menisci of the knee, while the anterior surface articulates with the patella. The more prominent lateral condyle helps prevent the natural lateral movement of the patella; a flatter condyle is more likely to result in patellar dislocation.
+
+- Medial and lateral epicondyles – bony elevations on the non-articular areas of the condyles. The medial epicondyle is the larger.
+    - The medial and lateral collateral ligaments of the knee originate from their respective epicondyles.
+
+- Intercondylar fossa – a deep notch on the posterior surface of the femur, between the two condyles. It contains two facets for attachment of intracapsular knee ligaments; the anterior cruciate ligament (ACL) attaches to the medial aspect of the lateral condyle and the posterior cruciate ligament (PCL) to the lateral aspect of the medial condyle.
+
+{{<figure src="/2019-10-14/Anterior-Surface-of-the-Distal-Portion-of-the-Femur-600x461.jpg" class="post-cover" align="centre">}}
+
+{{<figure src="/2019-10-14/Posterior-Surface-of-the-Distal-Portion-of-the-Femur.jpg" class="post-cover" align="centre">}}
+
+---
+
+<br><br>
+
+<font size="+7" color="Gree"><center> The Patella </center></font>  
+---
+
+The patella (knee-cap) is located at the front of the knee joint, within the patellofemoral groove of the femur. Its superior aspect is attached to the quadriceps tendon, and inferior aspect to the patellar ligament.
+
+It is classified as a sesamoid type bone due to its position within the quadriceps tendon, and is the largest sesamoid bone in the body.
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/patella/)<mark>**
 
-{{<figure src="/2019-10-14/Patella.jpg" class="post-cover" align="centre">}}
+<br><br>
 
-| Item    | Bony Landmarks                                                                                                                                                                                                                           | Function                     | Notes                                                                                                                                                                                                                    |
-|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Patella | The posterior surface of the patella articulates with the femur, and is marked by two facets: - Medial facet -> articulates with the medial condyle of the femur.   -Lateral facet –> articulates with the lateral condyle of the femur. | Leg extension and protection | The patella (knee-cap) is located at the front of the knee joint, within the patellofemoral groove of the femur. Its superior aspect is attached to the quadriceps tendon, and inferior aspect to the patellar ligament. |
+<font size="+7" color="Gree"><center> Bony Landmarks </center></font>  
+---
+
+The patella has a triangular shape, with anterior and posterior surfaces. The apex of the patella is situated inferiorly, and is connected to the tibial tuberosity by the patella ligament. The base forms the superior aspect of the bone, and provides the attachment area for the quadriceps tendon.
+
+The posterior surface of the patella articulates with the femur, and is marked by two facets:
+
+- Medial facet – articulates with the medial condyle of the femur.
+- Lateral facet – articulates with the lateral condyle of the femur.
+
+{{<figure src="/2019-10-14/Anterior-and-Posterior-Surfaces-of-the-Patella-600x239.jpg" class="post-cover" align="centre">}}
 
 ---
 
-<font size="+7" color="orange"><center> 7. Tibia </center></font>  
+<br><br>
+
+<font size="+7" color="Gree"><center> Functions </center></font>  
 ---
 
-{{<figure src="/2019-10-14/Tibia.jpg" class="post-cover" align="centre">}}
+The patella has two main functions:
 
-|  Bone |     Structure     |                                              Description                                             |                                                                                                                    Notes                                                                                                                   |
-|:-----:|:-----------------:|:----------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| tibia |                   | the bone on the medial side of the leg                                                               | the tibia is the weight-bearing bone of the leg (Latin, tibia = a pipe or flute, or the large shin bone. Primitive musical instruments were made from reeds, horns, and other things, including the shin bones of birds and other animals) |
-|       | soleal line       | a ridge of bone that descends obliquely from lateral to medial on the posterior surface of the tibia | it is the site of origin of the soleus m.                                                                                                                                                                                                  |
-|       | lateral condyle   | the heavy prominence on the lateral side of the proximal end of the tibia                            | the lateral condyle articulates with the lateral condyle of the femur and with the head of the fibula (Greek, kondylos = the knob formed by the knuckle of any joint)                                                                      |
-|       | medial condyle    | the heavy prominence on the medial side of the proximal end of the tibia                             | the medial condyle articulates with the medial condyle of the femur; it is larger than the lateral condyle of the tibia (Greek, kondylos = the knob formed by the knuckle of any joint)                                                    |
-|       | medial malleolus  | the large bony prominence on the medial side of the ankle                                            | the medial malleolus of the tibia forms the medial side of the ankle joint; it articulates with the medial surface of the talus (Latin, malleus = hammer)                                                                                  |
-|       | tibial tuberosity | the roughened protuberance on the anterior surface of the tibia located just distal to the condyles  | it is the attachment site of the patellar ligament, which represents the insertion of the quadriceps femoris tendon                                                                                                                        |
+- Leg extension – Enhances the leverage that the quadriceps tendon can exert on the femur, increasing the efficiency of the muscle.
+- Protection – Protects the anterior aspect of the knee joint from physical trauma.
+
+--
+
+<br><br>
+
+<font size="+7" color="Blue"><center> The Tibia </center></font>  
+---
+
+The tibia is the main bone of the lower leg, forming what is more commonly known as the shin.
+
+It expands at its proximal and distal ends; articulating at the knee and ankle joints respectively. The tibia is the second largest bone in the body and it is a key weight-bearing structure.
+
+**<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/tibia/)<mark>**
+
+{{<figure src="/2019-10-14/Overview-of-the-Tibia-300x300.jpg" class="post-cover" align="centre">}}
 
 ---
 
-<font size="+7" color="orange"><center> 8. Fibula </center></font>  
+<br><br>
+
+<font size="+7" color="Blue"><center> Proximal </center></font>  
 ---
 
-{{<figure src="/2019-10-14/Fibula.jpg" class="post-cover" align="centre">}}
+The proximal tibia is widened by the medial and lateral condyles, which aid in weight-bearing. The condyles form a flat surface, known as the tibial plateau. This structure articulates with the femoral condyles to form the key articulation of the knee joint.
 
-|  Bone  | Structure |                               Description                               |                                                               Notes                                                              |
-|:------:|:---------:|:-----------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------:|
-| fibula |           | the slender bone on the lateral side of the leg                         | the fibula is not a weight-bearing bone, it is a muscle attachment bone                                                          |
-|        | head      | the enlarged proximal end of the fibula                                 | it articulates with the lateral condyle of tibia; the fibular collateral ligament of the knee attaches to the head of the fibula |
-|        | neck      | the constricted portion of the fibula located just inferior to the head | fractures of the neck of the fibula can injure the common fibular n.                                                             |
+Located between the condyles is a region called the intercondylar eminence – this projects upwards on either side as the medial and lateral intercondylar tubercles. This area is the main site of attachment for the ligaments and the menisci of the knee joint. The intercondylar tubercles of the tibia articulate with the intercondylar fossa of the femur.
+
+{{<figure src="/2019-10-14/Tibial-Plateau-Articulating-Condyles-of-the-Tibia-at-the-Knee-Joint-300x221.jpg" class="post-cover" align="centre">}}
 
 ---
 
-<font size="+7" color="orange"><center> 9. Tarsal Bones </center></font>  
+<br><br>
+
+<font size="+7" color="Blue"><center> Shaft </center></font>  
 ---
+
+The shaft of the tibia is prism-shaped, with three borders and three surfaces; anterior, posterior and lateral. For brevity, only the anatomically and clinically important borders/surfaces are mentioned here.
+
+- Anterior border – palpable subcutaneously down the anterior surface of the leg as the shin. The proximal aspect of the anterior border is marked by the tibial tuberosity; the attachment site for the patella ligament.
+
+- Posterior surface – marked by a ridge of bone known as soleal line. This line is the site of origin for part of the soleus muscle, and extends inferomedially, eventually blending with the medial border of the tibia. There is usually a nutrient artery proximal to the soleal line.
+
+- Lateral border – also known as the interosseous border. It gives attachment to the interosseous membrane that binds the tibia and the fibula together.
+
+{{<figure src="/2019-10-14/Anterior-and-Posterior-Surfaces-of-the-Tibia.png" class="post-cover" align="centre">}}
+
+---
+
+<br><br>
+
+<font size="+7" color="Blue"><center> Distal </center></font>  
+---
+
+The distal end of the tibia widens to assist with weight-bearing.
+
+The medial malleolus is a bony projection continuing inferiorly on the medial aspect of the tibia. It articulates with the tarsal bones to form part of the ankle joint. On the posterior surface of the tibia, there is a groove through which the tendon of tibialis posterior passes.
+
+Laterally is the fibular notch, where the fibula is bound to the tibia – forming the tibiofibular joint.
+
+---
+
+<br><br>
+
+<font size="+7" color="Red"><center> Fibula </center></font>  
+---
+
+The fibula is a bone located within the lateral aspect of the leg. Its main function is to act as an attachment for muscles, and not as a weight-bearer.
+
+It has three main articulations:
+
+- Proximal tibiofibular joint – articulates with the lateral condyle of the tibia.
+- Distal tibiofibular joint – articulates with the fibular notch of the tibia.
+- Ankle joint – articulates with the talus bone of the foot.
+
+**<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/the-fibula/)<mark>**
+
+{{<figure src="/2019-10-14/Overview-of-the-Fibula.png" class="post-cover" align="centre">}}
+
+---
+
+<br><br>
+
+<font size="+7" color="Red"><center> Bony Landmarks </center></font>  
+---
+
+**<mark>Proximal<mark>**
+At the proximal end, the fibula has an enlarged head, which contains a facet for articulation with the lateral condyle of the tibia. On the posterior and lateral surface of the fibular neck, the common fibular nerve can be found.
+
+<mark>Shaft<mark>
+The fibular shaft has three surfaces – anterior, lateral and posterior. The leg is split into three compartments, and each surface faces its respective compartment e.g anterior surface faces the anterior compartment of the leg.
+
+<mark>Distal<mark>
+Distally, the lateral surface continues inferiorly, and is called the lateral malleolus. The lateral malleolus is more prominent than the medial malleolus, and can be palpated at the ankle on the lateral side of the leg.
+
+---
+
+<br><br>
+
+<font size="+7" color="Yellow"><center> Bones of the Feet </center></font>  
+---
+
+They can be divided into three groups:
+
+- Tarsals – a set of seven irregularly shaped bones. They are situated proximally in the foot in the ankle area.
+
+- Metatarsals – connect the phalanges to the tarsals. There are five in number – one for each digit.
+
+- Phalanges – the bones of the toes. Each toe has three phalanges – proximal, intermediate and distal (except the big toe, which only has two phalanges).
+
+The foot can also be divided up into three regions: 
+1. **Hindfoot** – talus and calcaneus
+2. **Midfoot** – navicular, cuboid and cuneiforms
+3. **Forefoot** – metatarsals and phalanges.
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/bones/bones-of-the-foot-tarsals-metatarsals-and-phalanges/)<mark>**
 
-{{<figure src="/2019-10-14/Tarsals.jpg" class="post-cover" align="centre">}}
-
-|     Bone     |        Structure        |                                            Description                                           |                                                                         Notes                                                                         |
-|:------------:|:-----------------------:|:------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
-| tarsal bones |                         | the bones of the ankle                                                                           | there are seven tarsal bones: talus, calcaneus, navicular, medial cuneiform, intermediate cuneiform, lateral cuneiform, cuboid                        |
-|              | transverse tarsal joint | formed by the combined talonavicular part of the talocalcaneonavicular and calcaneocuboid joints | synovial joint responsible for inversion/eversion of the foot; transection across this joint is a standard method for surgical amputation of the foot |
+{{<figure src="/2019-10-14/Overview-of-the-Bones-of-the-Human-Foot.jpg" class="post-cover" align="centre">}}
 
 ---
 
-<font size="+7" color="orange"><center> 10. Talus </center></font>  
+<br><br>
+
+<font size="+7" color="Yellow"><center> Tarsals </center></font>  
 ---
 
-{{<figure src="/2019-10-14/Talus.png" class="post-cover" align="centre">}}
+The tarsal bones of the foot are organised into three rows; proximal, intermediate and distal.
 
-|  Bone |    Structure   |                                    Description                                   |                                                                               Notes                                                                              |
-|:-----:|:--------------:|:--------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| talus |                | the most proximal of the tarsal bones                                            | the talus articulates with the medial malleolus of the tibia and the lateral malleolus of the fibula to form the ankle mortise joint (Latin, talus = ankle bone) |
-|       | body           | the proximal part of the talus                                                   | its superior (trochlear) part participates in the ankle joint and its inferior part articulates with the calcaneus                                               |
-|       | subtalar joint | occurs where the talus rests on and articulates with the calcaneus               |                                                                                                                                                                  |
-|       | trochlea       | the superior portion of the body of the talus that lies between the two malleoli | it has a smooth articular surface; it participates in the formation of the ankle joint (Latin, trochlea = pulley)                                                |
-|       | head           | the portion of the talus that projects anteriorly                                | it articulates with the navicular bone                                                                                                                           |
-|       | neck           | the constricted part of the talus located proximal to the head                   |                                                                                                                                                                  |
+## <mark>Proximal Group (Hindfoot)<mark>
+The proximal tarsal bones are the talus and the calcaneus. These comprise the hindfoot, forming the bony framework around the proximal ankle and heel.
 
----
+#### Talus
 
-<font size="+7" color="orange"><center> 11. Calcaneus </center></font>  
----
+The talus is the most superior of the tarsal bones. It transmits the weight of the entire body to the foot. It has three articulations:
 
-{{<figure src="/2019-10-14/Calcaneus.jpg" class="post-cover" align="centre">}}
+- Superiorly – ankle joint – between the talus and the bones of the leg (the tibia and fibula).
 
-|    Bone   |       Structure      |                                          Description                                         |                                                                                      Notes                                                                                      |
-|:---------:|:--------------------:|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| calcaneus |                      | the tarsal bone which forms the heel                                                         | it is the largest and strongest bone in the foot; a fracture of the calcaneus which separates the tuberosity from the body can be a debilitating injury (Latin, calcis = heel)  |
-|           | calcaneal tuberosity | the inferior roughened area of the calcaneus which contacts the ground during weight-bearing | it is the attachment site of the plantar aponeurosis, abductor digiti minimi, flexor digitorum brevis, and the long plantar ligament                                            |
-|           | sustentaculum tali   | the shelf-like medial projection of bone located inferior to the medial malleolus            | it is a shelf of bone that articulates with and supports the talus; it is grooved inferiorly by the tendon of the flexor hallucis longus m. (Latin, sustento = to hold upright) |
+- Inferiorly – subtalar joint – between the talus and calcaneus.
 
----
+- Anteriorly – talonavicular joint – between the talus and the navicular.
 
-<font size="+7" color="orange"><center> 12. Navicular </center></font>  
----
+The main function of the talus is to transmit forces from the tibia to the heel bone (known as the calcaneus). It is wider anteriorly compared to posteriorly which provides additional stability to the ankle.
 
-{{<figure src="/2019-10-14/Navicular.jpg" class="post-cover" align="centre">}}
+Whilst numerous ligaments attach to the talus, no muscles originate from or insert onto it. This means there is a high risk of avascular necrosis as the vascular supply is dependent on fascial structures.
 
-|    Bone   | Structure |                                      Description                                      |                                                                                                                                         Notes                                                                                                                                         |
-|:---------:|:---------:|:-------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| navicular |           | the tarsal bone located distal to the talus and proximal to the three cuneiform bones | it articulates with the head of the talus and all three cuneiform bones; it is the attachment site for an important ligament (plantar calcaneonavicular or "spring" ligament) that supports the medial longitudinal arch of the foot (Latin, navicular = small boat shaped structure) |
+#### Calcaneus
 
----
+The calcaneus is the largest tarsal bone and lies underneath the talus where it constitutes the heel. It has two articulations:
 
-<font size="+7" color="orange"><center> 13. Medial Cuneiform </center></font>  
----
+- Superiorly –  subtalar (talocalcaneal) joint – between the calcaneus and the talus.
 
-{{<figure src="/2019-10-14/Cuneiform_medial.jpg" class="post-cover" align="centre">}}
+- Anteriorly – calcaneocuboid joint – between the calcaneus and the cuboid.
 
-|        Bone       | Structure |                       Description                      |                                                       Notes                                                      |
-|:-----------------:|:---------:|:------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
-| cuneiform, medial |           | the most medial bone in the distal row of tarsal bones | the cuneiform bones articulate with the navicular bone proximally and the bases of the metatarsal bones distally |
+It protrudes posteriorly and takes the weight of the body as the heel hits the ground when walking. The posterior aspect of the calcaneus is marked by calcaneal tuberosity, to which the Achilles tendon attaches.
 
----
+{{<figure src="/2019-10-14/The-Tarsal-Bones-of-the-Foot-600x467.jpg" class="post-cover" align="centre">}}
 
-<font size="+7" color="orange"><center> 14. Middle Cuneiform </center></font>  
----
+<br>
 
-{{<figure src="/2019-10-14/Cuneiform_middle.jpg" class="post-cover" align="centre">}}
+## <mark>Intermediate Group (Midfoot)<mark>
+The intermediate row of tarsal bones contains one bone, the navicular (given its name because it is shaped like a boat).
 
-|        Bone       | Structure |                     Description                    |                                                       Notes                                                      |
-|:-----------------:|:---------:|:--------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
-| cuneiform, middle |           | the intermediate bone of the three cuneiform bones | the cuneiform bones articulate with the navicular bone proximally and the bases of the metatarsal bones distally |
+Positioned medially, it articulates with the talus posteriorly, all three cuneiform bones anteriorly, and the cuboid bone laterally. On the plantar surface of the navicular, there is a tuberosity for the attachment of part of the tibialis posterior tendon.
 
----
+<br>
 
-<font size="+7" color="orange"><center> 15. Lateral Cuneiform </center></font>  
----
+## <mark>Distal Group (Midfoot)<mark>
+In the distal row, there are four tarsal bones – the cuboid and the three cuneiforms. These bones articulate with the metatarsals of the foot
 
-{{<figure src="/2019-10-14/Cuneiform_lateral.jpg" class="post-cover" align="centre">}}
+The cuboid is furthest lateral, lying anterior to the calcaneus and behind the fourth and fifth metatarsals. As its name suggests, it is cuboidal in shape. The inferior (plantar) surface of the cuboid is marked by a groove for the tendon of fibularis longus.
 
-|        Bone        | Structure |                                Description                                |                                                       Notes                                                      |
-|:------------------:|:---------:|:-------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------:|
-| cuneiform, lateral |           | the bone that is located between the middle cuneiform and the cuboid bone | the cuneiform bones articulate with the navicular bone proximally and the bases of the metatarsal bones distally |
+The three cuneiforms (lateral, intermediate (or middle) and medial) are wedge shaped bones. They articulate with the navicular posteriorly, and the metatarsals anteriorly. The shape of the bones helps form a transverse arch across the foot. They are also the attachment point for several muscles:
 
----
-
-<font size="+7" color="orange"><center> 16. Cuboid </center></font>  
----
-
-{{<figure src="/2019-10-14/Cuboid.jpg" class="post-cover" align="centre">}}
-
-|  Bone  | Structure |                       Description                       |                                                     Notes                                                    |
-|:------:|:---------:|:-------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
-| cuboid |           | the most lateral bone in the distal row of tarsal bones | the cuboid bone articulates with the calcaneus proximally and the fourth and fifth metatarsal bones distally |
-
----
-
-<font size="+7" color="orange"><center> 17. Metatarsals </center></font>  
----
-
-{{<figure src="/2019-10-14/Metatarsals.png" class="post-cover" align="centre">}}
-
-|     Bone    | Structure |                          Description                         |                                Notes                                |
-|:-----------:|:---------:|:------------------------------------------------------------:|:-------------------------------------------------------------------:|
-| metatarsals |           | the bones located between the tarsal bones and the phalanges | there are five metatarsal bones in the foot                         |
-|             | base      | the proximal end of the metatarsal                           | it articulates with the distal row of tarsal bones                  |
-|             | body      | the slender shaft of the metatarsal                          | it is also known as the diaphysis                                   |
-|             | head      | the rounded distal end of the metatarsal                     | it articulates with the proximal phalanx of the corresponding digit |
-
----
-
-<font size="+7" color="orange"><center> 18. Phalanx (Phalanges) </center></font>  
----
-
-{{<figure src="/2019-10-14/Phalanx.jpg" class="post-cover" align="centre">}}
-
-|         Bone        | Structure |                       Description                       |                                                                                                            Notes                                                                                                            |
-|:-------------------:|:---------:|:-------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| phalanx (phalanges) |           | the distal two or three bones in the digits of the foot | there are a total of 14 phalanges in the foot; the great toe has two phalanges (proximal and distal) and each of the other four toes has three phalanges (proximal, middle and distal); (Latin, phalanx = line of soldiers) |
-|                     | base      | the proximal end of the phalanx                         | the base of the proximal phalanx articulates with the head of the corresponding metatarsal bone; the base of the middle or distal phalanx articulates with the head of the next most proximal phalanx                       |
-|                     | body      | the slender shaft of the phalanx                        | also known as the diaphysis; the body of the distal phalanx is very short                                                                                                                                                   |
-|                     | head      | the distal end of the phalanx                           | the proximal, middle and distal phalanges each have a head; the head of a proximal or middle phalanx articulates with the base of the next most distal phalanx                                                              |
+- Medial cuneiform – tibialis anterior, (part of) tibialis posterior and fibularis longus
+- Lateral cuneiform – flexor hallucis brevis
