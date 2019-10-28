@@ -20,7 +20,8 @@ They can be divided into three groups:
 
 - Phalanges – the bones of the toes. Each toe has three phalanges – proximal, intermediate and distal (except the big toe, which only has two phalanges).
 
-The foot can also be divided up into three regions: 
+The foot can also be divided up into three regions:
+ 
 1. **Hindfoot** – talus and calcaneus
 2. **Midfoot** – navicular, cuboid and cuneiforms
 3. **Forefoot** – metatarsals and phalanges.
