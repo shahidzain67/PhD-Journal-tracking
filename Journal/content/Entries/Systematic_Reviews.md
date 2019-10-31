@@ -10,6 +10,7 @@ aliases = ["migrate-from-jekyl"]
 +++
 
 <font size="+7" color="orange"><center> Hierarchy of Evidence </center></font>  
+---
 
 1. Meta analysis
 2. Systematic reviews
@@ -19,10 +20,12 @@ aliases = ["migrate-from-jekyl"]
 6. Case studies / reports
 7. Background Info / Expert Opinion
 
+---
+
 <br><br>  
 
----
 <font size="+7" color="orange"><center> Defintions </center></font>  
+---
 
 - “Process of systematically locating, appraising and synthesising evidence from scientific studies in order to obtain a reliable overview” - Helen Worthington
 
@@ -30,10 +33,12 @@ aliases = ["migrate-from-jekyl"]
 
 - “A systematic review can be defined as “a review of a clearly formulated question that uses systematic and explicit methods to identify, select and critically appraise relevant research, and to collect and analyze data from the studies that are included in the review. Statistical methods (meta-analysis) may or may not be  used to analyze and summarize the results of the included studies.” - http://www.cochrane.org/glossary
 
+---
+
 <br><br>
 
----
 <font size="+7" color="orange"><center> Why might a review be needed? </center></font>  
+---
 
 - Is there a need to summarise existing information using an unbiased method?
 
@@ -41,10 +46,12 @@ aliases = ["migrate-from-jekyl"]
 
 - Is evidence needed to inform a research project or answer previous unanswered questions in a topic area?
 
+---
+
 <br><br>
 
----
 <font size="+7" color="orange"><center> Points to Consider Beforehand </center></font> 
+---
 
 - Why is this question being asked?
 
@@ -54,10 +61,12 @@ aliases = ["migrate-from-jekyl"]
 
 - Does the research question now need to be refined?
 
+---
+
 <br><br>
 
----
 <font size="+7" color="orange"><center> Narrative Review vs Systematic Review </center></font> 
+---
 
 - <mark>Narrative Review<mark>
 
@@ -67,10 +76,12 @@ aliases = ["migrate-from-jekyl"]
 
     - Focused research question, rigorous method, searching, appraising, critiquing and then synthesising data (qual and quant)
 
+---
+
 <br><br>
 
----
 <font size="+7" color="orange"><center> Pros and Cons </center></font> 
+---
 
 - <mark>Advantages<mark>
     - Reduces Bias
@@ -86,10 +97,12 @@ aliases = ["migrate-from-jekyl"]
     - Study quality may be poor
     - Can take a long time for evidence to impact practice/policy
 
+---
+
 <br><br>
 
----
 <font size="+7" color="orange"><center> Protocol Development </center></font> 
+---
 
 <font size="+3" color="gree"><center> Check! </center></font> 
 
@@ -214,10 +227,12 @@ aliases = ["migrate-from-jekyl"]
 
 {{<figure src="/Systematic_Review/Stages.jpg" class="post-cover" align="centre">}}
 
+---
+
 <br><br>
 
----
 <font size="+7" color="Orange"><center> Jigsaw Pieces </center></font>
+---
 
 - **Piece 1:** Develop and Conduct comprehensive search
     - MeSH (Medical Sub-Headings)
@@ -227,9 +242,10 @@ aliases = ["migrate-from-jekyl"]
 - **Piece 2:** Screen Titles, Abstracts and Full Papers
     - Inclusion and Exclusion criteria
 
+---
+
 <br><br>
 
----
 <font size="+7" color="Turquoise"><center> Websites to explore: </center></font>
 --- 
 
@@ -249,7 +265,6 @@ aliases = ["migrate-from-jekyl"]
 
 <br><br><br>
 
----
 <font size="+7" color="Orange"><center> Systematic Review vs Non Systematic Review </center></font>
 --- 
 

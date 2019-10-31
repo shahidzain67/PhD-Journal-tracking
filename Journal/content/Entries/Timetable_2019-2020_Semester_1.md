@@ -14,62 +14,68 @@ aliases = ["migrate-from-jekyl"]
 <font size="+7" color="orange"><center> October </center></font>  
 --- 
 
-> # <mark>Week 3</mark>
-> Wednesday 09/10/2019: 
->
-> * ~~09.00 : 11:00 @ PO37  -> Anatomy and Physiology~~ 
-> * ~~13:00 : 15:00 @ MS151 -> Intro to Biomechanics~~ 
 
-> Thursday 10/10/2019:
+
+> # <mark>Week 3</mark>
+> <span style="color:red">~~Wednesday 09/10/2019:~~</span> 
 >
-> * ~~10:00 : 12:00 @ MS1.32 -> Quantitative research~~
-> * ~~13:00 : 15:00 @ MS2.58 -> Case study design~~ 
-> * ~~15:00 : 16:30 @ MS2.58 -> Quantitative research~~ 
+> * <span style="color:red">~~09.00 : 11:00 @ PO37  -> Anatomy and Physiology~~</span>  
+> * <span style="color:red">~~13:00 : 15:00 @ MS151 -> Intro to Biomechanics~~</span> 
+
+> <span style="color:red">~~Thursday 10/10/2019:~~</span>
+
+>
+> * <span style="color:red">~~10:00 : 12:00 @ MS1.32 -> Quantitative research~~</span> 
+> * <span style="color:red">~~13:00 : 15:00 @ MS2.58 -> Case study design~~</span> 
+> * <span style="color:red">~~15:00 : 16:30 @ MS2.58 -> Quantitative research~~</span> 
+
 
 > # <mark>Week 4</mark>
 >
-> Wednesday 16/10/2019: 
+> <span style="color:red">~~Wednesday 16/10/2019:~~</span> 
 >
-> * ~~09.00 : 11:00 @ PO37 -> Anatomy and Physiology~~
-> * ~~13:00 : 14:30 @ PO35 -> Rocker Soles~~
+> * <span style="color:red">~~09.00 : 11:00 @ PO37 -> Anatomy and Physiology~~</span> 
+> * <span style="color:red">~~13:00 : 14:30 @ PO35 -> Rocker Soles~~~</span> 
+
 > 
-> Thursday 17/10/2019:
+> <span style="color:red">~~Thursday 17/10/2019:~~</span>
 >
-> * ~~13:00 : 15:00 @ MS2.58 -> Systematic Review 1~~
-> * ~~15:00 : 16.30 @ MS2.58 -> Scoping Literature~~
+> * <span style="color:red">~~13:00 : 15:00 @ MS2.58 -> Systematic Review 1~~</span>
+> * <span style="color:red">~~15:00 : 16.30 @ MS2.58 -> Scoping Literature~~</span>
 >
-> Friday 18/10/2019:
+> <span style="color:red">~~Friday 18/10/2019:~~</span>
 >
-> * ~~09:00 : 10:00 @ PO37 -> PhD Catchup~~
-> * ~~10:00 : 11:00 @ A218 -> MDC Tutorial~~
+> * <span style="color:red">~~09:00 : 10:00 @ PO37 -> PhD Catchup~~</span>
+> * <span style="color:red">~~10:00 : 11:00 @ A218 -> MDC Tutorial~~</span>
 
 > # <mark>Week 5</mark>
-> Wednesday 23/10/2019: 
+> <span style="color:red">~~Wednesday 23/10/2019:~~</span>
 >
-> * ~~10.00 : 12:00 @ PO37 -> Rheumatology~~
-> * ~~13:00 : 15:00 @ PO35 -> Common foot treatment~~
+> * <span style="color:red">~~10.00 : 12:00 @ PO37 -> Rheumatology~~</span>
+> * <span style="color:red">~~13:00 : 15:00 @ PO35 -> Common foot treatment~~</span>
 
-> Friday 25/10/2019:
+> <span style="color:red">~~Friday 25/10/2019:~~</span>
 >
-> * ~~13:00 : 15:00 @ PO37 -> Anatomy and Physiology~~
+> * <span style="color:red">~~13:00 : 15:00 @ PO37 -> Anatomy and Physiology~~</span>
 
 > # <mark>Week 6</mark>
-> Tuesday   29/10/2019:
+> <span style="color:red">~~Tuesday   29/10/2019:~~</span>
 >
-> * 14:00 : 15:00 @ Chapman1 -> International ethics
+> * <span style="color:red">~~14:00 : 15:00 @ Chapman1 -> International ethics~~</span>
 >
-> Wednesday 30/10/2019: 
+> <span style="color:red">~~Wednesday 30/10/2019:~~</span>
 >
-> * 10:00 : 12:00 @ MS329 -> Pressure Reduction
-> * 13:00 : 15:00 @ MS321 -> Diabetes
+> * <span style="color:red">~~10:00 : 12:00 @ MS329 -> Pressure Reduction~~</span>
+> * <span style="color:red">~~10:00 : 12:00 @ MS329 -> Pressure Reduction~~</span>
 > 
-> Thursday 31/10/2019
+> <span style="color:red">~~Thursday 31/10/2019~~</span>
 >
-> * 10:00 : 12:00 @ MS1.32 -> Systematic Review 2
-> * 13:00 : 15:00 @ MS2.58 -> Mixed methods
+> * <span style="color:red">~~10:00 : 12:00 @ MS1.32 -> Systematic Review 2~~</span>
+> * <span style="color:red">~~13:00 : 15:00 @ MS2.58 -> Mixed methods~~</span>
 
 ---
 <font size="+7" color="orange"><center> November </center></font>  
+
 --- 
 
 > # <mark>Week 6</mark>

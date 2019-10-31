@@ -17,9 +17,9 @@ preserveTaxonomyNames = true
   # show selector to switch language
   showLanguageSelector = false
   # set theme to full screen width
-  fullWidthTheme = true 
+  fullWidthTheme = false 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
 
@@ -45,3 +45,9 @@ preserveTaxonomyNames = true
   weight = 0
   identifier = "GitLab"
   url = "https://gitlab.com/shahidzain67/phd-journal-tracking"
+
+[[menu.main]]
+  name = "Blackboard"
+  weight = 0
+  identifier = "Blackboard"
+  url = "https://blackboard.salford.ac.uk/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1"

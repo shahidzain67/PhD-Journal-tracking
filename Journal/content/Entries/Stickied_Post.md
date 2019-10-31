@@ -13,4 +13,6 @@ showFullContent = true
 +++
 
 <!-- Change to edit frontpage gif/image -->
-<img src="/covers/13.gif" class="post-cover">
+<!-- <img src="/covers/13.gif" class="post-cover"> -->
+
+{{<figure src="/covers/13.gif" class="post-cover" position="center" style="border-radius: 8px;" >}}
