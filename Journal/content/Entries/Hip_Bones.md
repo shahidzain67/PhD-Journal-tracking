@@ -9,7 +9,7 @@ series = ["University Journal"]
 aliases = ["migrate-from-jekyl"]
 +++
 
-<font size="+7" color="orange"><center> The Hip Bones </center></font>  
+<font size="+7" color="orange"><center> The Hip Bone </center></font>  
 ---
 
 The left and right hip bones (innominate bones, pelvic bones) are two irregularly shaped bones that form part of the pelvic girdle – the bony structure that attaches the axial skeleton to the lower limbs.

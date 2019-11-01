@@ -1,4 +1,3 @@
-
 baseURL = "https://zshahid.netlify.com"
 theme = "terminal"
 paginate = 100
@@ -36,9 +35,9 @@ preserveTaxonomyNames = true
     logoText = "Drizzy"
     logoHomeLink = "/"
 
-[taxonomies]
-   tag = "tags"
-   category = "categories"
+# [taxonomies]
+#   tag = "tags"
+#   category = "categories"
 
 [[menu.main]]
   name = "GitLab"
