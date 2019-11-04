@@ -8,7 +8,7 @@ preserveTaxonomyNames = true
 
 [params]
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "Entries"
+  contentTypeName = "content/Entries"
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "orange"
   # if you set this to 0, only submenu trigger will be visible
@@ -50,3 +50,9 @@ preserveTaxonomyNames = true
   weight = 0
   identifier = "Blackboard"
   url = "https://blackboard.salford.ac.uk/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1"
+
+[[menu.main]]
+  name = "Imperial Blackboard"
+  weight = 0
+  identifier = "Imperial Blackboard"
+  url = "https://bb.imperial.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_19745_1&content_id=_1625767_1&mode=reset"
