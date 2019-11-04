@@ -14,7 +14,7 @@ aliases = ["migrate-from-jekyl"]
 
 It is critically important to consider how cardioprotection is achieved in heart diseases because mortality and morbidity of heart diseases have increased all over the world, and the burden from the viewpoint of not only the individual patient but also social and economical aspects is increased as we begin the 21st century. 
 
-To decrease this burden, it is essential to protect the heart against ischemic stress, and there are three different aspects to achieve cardioprotection in ischemic hearts.
+To decrease this burden, it is <mark>essential to protect the heart against ischemic stress</mark>, and there are three different aspects to achieve cardioprotection in ischemic hearts.
 
 <br>
 
@@ -177,4 +177,49 @@ Ischemic preconditioning has received much attention from both basic researchers
 
 <font size="+7" color="Yellow"><center> 2) Acquisition of Cardioprotection during Ischemia and Reperfusion </center></font>  
 ---
+
+There are two different ways to find the method to
+directly decrease ischemia and reperfusion injury. One
+is to find mediators of the infarct size-limiting effect of
+ischemic preconditioning, and the other is to invent
+drugs that attenuate the ischemia and reperfusion injury
+independent of cardioprotection mechanisms of ische-
+mic preconditioning. Because the former was discussed
+briefly above as well as in Chapter 50, the latter strategy
+is mainly discussed here.
+
+---
+
+<br>
+
+<font size="+3" color="Blue"><center> A. Factors That Cause Ischemia and Reperfusion Injury </center></font>  
+---
+
+There are many factors that constitute ischemia and
+reperfusion injury, and these factors seem to synergistically cause cellular injury in the heart.
+<br>
+
+### <mark>1. ATP Depletion<mark>
+
+- Intracellular ATP levels are thought to determine the turning point between reversible and irreversible cellular injury. 
+
+- This is because the maintenance of intracellular homeostasis is energy dependent: Ca2 pump, Ca2 ATPase, and interaction of actin and myosin. 
+
+- A 90% decrease in ATP coincidentally results in the irreversible deterioration of the myocardium (24), leading to the idea that depletion of ATP content in reperfused myocardium may be a critical factor in the process of irreversible injury. 
+
+- However, when adenosine is administered throughout ischemic and reperfusion periods, a 90-fold increase of ATP synthesis is obtained in the reperfused myocardium (25). 
+
+- It is known that (1) adenosine stimulates glycolysis in rat hearts, (2) intracoronary infusion of adenosine increases glucose uptake, and (3) dipyridamole enhances glucose uptake accompanied by an increase in myocardial ATP in the newborn lamb. 
+
+- Thus, enhanced glucose metabolism by adenosine may contribute in part to a decrease in the rate of ATP depletion during ischemia. 
+
+- However, one may argue that the repletion of intracellular ATP via the administration of ribose or adenosine in the reperfused myocardium after the establishment of reperfusion injury does not promote recovery of contractile function, indicating that the recovery of intracellular ATP levels does not necessarily improve contractile function. 
+
+- Adenosine-induced attenuation of contractile dysfunction may not be due to the recovery of ATP levels but rather to adenosine receptor activation. 
+
+- Therefore, there is consensus that decreases in ATP levels are important for the determination of irreversible cellular injury, but may not be important in reversible cellular injury, such as myocardial stunning or hibernation.
+
+<br>
+
+### <mark>2. Ca<sup>2+</sup> Overload<mark>
 
