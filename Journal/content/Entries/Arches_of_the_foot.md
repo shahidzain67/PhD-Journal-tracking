@@ -24,6 +24,9 @@ Their shape allows them to act in the same way as a spring, bearing the weight o
 <font size="+7" color="orange"><center> Longitudinal Arches </center></font>  
 ---
 
+<details>
+  <summary>Expand</summary>
+
 There are two longitudinal arches in the foot – the medial and lateral arches. They are formed between the tarsal bones and the proximal end of the metatarsals.
 
 ### **<mark>Medial Arch<mark>**
@@ -50,12 +53,17 @@ The lateral arch is the flatter of the two longitudinal arches, and lies on the 
 
 {{<figure src="/Anatomical_Areas/Supporting-Structures-of-the-Foot-Arches-600x481.jpg" position="center" style="border-radius: 8px;" caption="Supporting Structures of the Foot Arches" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="orange"><center> Transverse Arch </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The transverse arch is located in the coronal plane of the foot. It is formed by the metatarsal bases, the cuboid and the three cuneiform bones. It has:
 
@@ -66,3 +74,5 @@ The transverse arch is located in the coronal plane of the foot. It is formed by
 - Other support: Plantar aponeurosis.
 
 - Bony support: The wedged shape of the bones of the arch.
+
+</details>

@@ -68,7 +68,7 @@ aliases = ["migrate-from-jekyl"]
 > * <span style="color:red">~~10:00 : 12:00 @ MS329 -> Pressure Reduction~~</span>
 > * <span style="color:red">~~10:00 : 12:00 @ MS329 -> Pressure Reduction~~</span>
 > 
-> <span style="color:red">~~Thursday 31/10/2019~~</span>
+> <span style="color:red">~~Thursday 31/10/2019:~~</span>
 >
 > * <span style="color:red">~~10:00 : 12:00 @ MS1.32 -> Systematic Review 2~~</span>
 > * <span style="color:red">~~13:00 : 15:00 @ MS2.58 -> Mixed methods~~</span>
@@ -79,9 +79,9 @@ aliases = ["migrate-from-jekyl"]
 --- 
 
 > # <mark>Week 6</mark>
-> Friday 01/11/2019: 
+> <span style="color:red">~~Friday 01/11/2019:~~</span>
 >
-> * 13.00 : 15:00 @ PO37 -> Anatomy and Physiology
+> * <span style="color:red">~~13.00 : 15:00 @ PO37 -> Anatomy and Physiology~~</span>
 
 > # <mark>Week 7</mark>
 > Wednesday 06/11/2019: 

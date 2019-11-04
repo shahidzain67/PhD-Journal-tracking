@@ -11,6 +11,8 @@ aliases = ["migrate-from-jekyl"]
 
 <font size="+7" color="orange"><center> Introduction </center></font>  
 ---
+<details>
+  <summary>Expand</summary>
 
 It is critically important to consider how cardioprotection is achieved in heart diseases because mortality and morbidity of heart diseases have increased all over the world, and the burden from the viewpoint of not only the individual patient but also social and economical aspects is increased as we begin the 21st century. 
 
@@ -43,12 +45,17 @@ To decrease this burden, it is <mark>essential to protect the heart against isch
 
 - Angiotensin-converting enzyme (ACE) inhibitors and beta-blockers have been proven to attenuate the mortality and morbidity of chronic heart failure; how ever, we do not believe that these drugs are powerful enough to treat chronic heart failure with full satisfaction.
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="Blue"><center> 1) Acquisition of Cardioprotection before the occurrence of Ischemia </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 > When the effective pretreatment to attenuate the ischemic injury is applied prior to the occurrence of ischemic heart disease in subjects with high-risk factors for acute myocardial infarction, such as hyperlipidemia, smoking, and hypertension, the pretreatment before the onset of myocardial ischemia will become an effective method for the attenuation of ischemia and reperfusion injury. 
 
@@ -58,12 +65,17 @@ Ischemic heart disease is the term given to heart problems caused by narrowed he
 
 > This is similar to the immunization therapy for infectious diseases such as mumps.
 
+</details>
+
 ---
 
 <br>
 
 <font size="+3" color="Blue"><center> A: Plaque Rupture </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 - Since it is well recognized that acute myocardial infarction occurs due to the abrupt plaque rupture followed by the accumulated platelet aggregation, it is critically important to prevent plaque rupture in patients with coronary artery disease. 
 
@@ -83,12 +95,17 @@ Ischemic heart disease is the term given to heart problems caused by narrowed he
 
 - Therefore, oxidative stress at the atheroma attacks fibrous caps, although there is no direct evidence or report of the methods to prevent plaque rupture at present.
 
+</details>
+
 ---
 
 <br>
 
 <font size="+3" color="Blue"><center> B. Collateral Circulation </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 - Development of a collateral circulation from nonischemic myocardium to ischemic myocardium is an important strategy in attenuating the severity of myocardial ischemia when coronary arterial occlusion occurs. 
 
@@ -132,6 +149,8 @@ Ischemic heart disease is the term given to heart problems caused by narrowed he
 
 - Another method used to increase ischemic tolerance is to induce cardioprotection prior to the ischemia of acute myocardial infarction, and one potential way is to induce in advance the infarct size-limiting effect of ischemic preconditioning in patients with coronary artery disease.
 
+</details>
+
 ---
 
 <br>
@@ -139,7 +158,10 @@ Ischemic heart disease is the term given to heart problems caused by narrowed he
 <font size="+3" color="Blue"><center> C. Ischemic Preconditioning </center></font>  
 ---
 
-Ischemic preconditioning has received much attention from both basic researchers and clinicians. This was first described by the research group of Murry et al. (15). 
+<details>
+  <summary>Expand</summary>
+
+- Ischemic preconditioning has received much attention from both basic researchers and clinicians. This was first described by the research group of Murry et al. (15). 
 
 - Results to date have shown that ischemic preconditioning limits infarct size to 10–20% of the risk area in the reperfused ischemic myocardium (16–19). 
 
@@ -171,12 +193,17 @@ Ischemic preconditioning has received much attention from both basic researchers
 
 - Marbe et al. (22) reported that HSP72 induction is important in mediating the infarct size-limiting effect of ischemic preconditioning, and Kuzuya et al. (23) reported that Mn-superoxide dismutase (Mn-SOD) induction may contribute to the cardioprotection in ischemic preconditioning.
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="Yellow"><center> 2) Acquisition of Cardioprotection during Ischemia and Reperfusion </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 There are two different ways to find the method to
 directly decrease ischemia and reperfusion injury. One
@@ -188,22 +215,28 @@ mic preconditioning. Because the former was discussed
 briefly above as well as in Chapter 50, the latter strategy
 is mainly discussed here.
 
+</details>
+
 ---
 
 <br>
 
-<font size="+3" color="Blue"><center> A. Factors That Cause Ischemia and Reperfusion Injury </center></font>  
+<font size="+3" color="Yellow"><center> A. Factors That Cause Ischemia and Reperfusion Injury </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 There are many factors that constitute ischemia and
 reperfusion injury, and these factors seem to synergistically cause cellular injury in the heart.
+
 <br>
 
 ### <mark>1. ATP Depletion<mark>
 
 - Intracellular ATP levels are thought to determine the turning point between reversible and irreversible cellular injury. 
 
-- This is because the maintenance of intracellular homeostasis is energy dependent: Ca2 pump, Ca2 ATPase, and interaction of actin and myosin. 
+- This is because the maintenance of intracellular homeostasis is energy dependent: Ca<sup>2</sup> pump, Ca<sup>2</sup> ATPase, and interaction of actin and myosin. 
 
 - A 90% decrease in ATP coincidentally results in the irreversible deterioration of the myocardium (24), leading to the idea that depletion of ATP content in reperfused myocardium may be a critical factor in the process of irreversible injury. 
 
@@ -223,3 +256,538 @@ reperfusion injury, and these factors seem to synergistically cause cellular inj
 
 ### <mark>2. Ca<sup>2+</sup> Overload<mark>
 
+- Ca<sup>2</sup> overload is thought to disrupt cellular membrane and intracellular homeostasis via the activation of calpain. 
+
+- If this process occurs during ischemia and reperfusion injury, Ca<sup>2</sup> overload may play an important role in ischemia and reperfusion injury. 
+
+- When myocardial ischemia occurs, cellular acidosis increases which activates Na/H exchange via the accumulation of H with resulting increased intracellular Na levels (26). 
+
+- Accumulation of Na causes Ca<sup>2</sup> overload via Na/ Ca<sup>2</sup> exchange. 
+
+- It was shown that ischemia increases intracellular Ca<sup>2</sup> levels in in vitro Langendorff hearts (27). 
+
+- Furthermore, using the integrity of microtubules, Ca<sup>2</sup>-sensitive structures in the cells, as an index, we showed that Ca<sup>2</sup> overload occurs in ischemic canine hearts (28). 
+
+- Therefore, Ca<sup>2</sup> overload is believed to occur in ischemic and reperfused hearts. 
+
+- Because intracellular Na levels are increased before the rise in intracellular Ca<sup>2</sup> levels and the inhibitor of Na/H exchange attenuates the Ca<sup>2</sup> overload, the route of entry of Ca<sup>2</sup> into the cells is thought to be via Na/H and Na/ Ca<sup>2</sup> exchanges. 
+
+- The question is how important Ca<sup>2</sup> overload is for the pathophysiology of ischemia and reperfusion injury. 
+
+- Transient Ca<sup>2</sup> exposure in the ferret Langendorff preparation causes myocardial dysfunction (Fig. 3) (29), and attenuation of Ca<sup>2</sup> overload attenuates the severity of myocardial dysfunction, suggesting that Ca<sup>2</sup> overload may be an important cause of myocardial stunning. 
+
+- However, there is no clear consensus that Ca<sup>2</sup> overload contributes to the cause of myocardial necrosis. 
+
+- Sustained intracellular acidosis, which inhibits Na/Ca<sup>2</sup> exchange and thus Ca<sup>2</sup> overload, is reported to attenuate myocardial ischemia (30), hinting that attenuation of Ca<sup>2</sup> overload may limit myocardial necrosis (31), although intracellular acidosis is beneficial for the ischemia and reperfusion injury aside from the attenuation of Na/Ca<sup>2</sup> exchange.
+
+{{<figure src="/Heart_Pathophysiology/Fig3.jpg" position="center" style="border-radius: 8px;" caption="FIGURE 3 Changes in developed pressure after repeated transient exposure to Ca<sup>2+</sup (10mM) for 5 min separated by 10 min. Ca<sup>2</sup> exposure causes the reduction of developed pressure 10–20 min after exposure. From Kitakaze et al. (29)." captionPosition="center" captionStyle="color: white;" >}}
+
+<br>
+
+### <mark>3. Free Radicals<mark>
+
+- When hearts are reperfused abruptly, oxygenderived free radicals and hydroxyradicals are produced and released from leukocytes and endothelial cells. 
+
+- In the ischemic and reperfused condition, xanthine dehydrogenase changes to xanthine oxidase because xanthine oxidase is activated by protease sensitive to Ca<sup>2</sup> accumulation. 
+
+- These radicals attack the cellular membrane and cause cellular damage via the inactivation of membrane enzymes, pumps, and proteins, such as Na/ K-ATPase, Ca<sup>2</sup> channels, and ecto-5'-nucleotidase (Fig. 4) (32, 33). 
+
+- Gross et al. (34) reported that myocardial contractile dysfunction produced by 15 min oischemia and 3 hr of reperfusion is restored by superoxide dismutase (Fig. 5) (34). 
+
+- Furthermore, Sekili et al. reported that hydroxyradicals are produced within a minute after the onset of reperfusion and that these radicals contribute to the generation of myocardial contractile dysfunction (35). 
+
+- These results suggest that free radicals are important for the development of myocardial stunning; however, there is no clear consensus that free radials generated during ischemia and reperfusion may cause cellular necrosis. 
+
+- Indeed, the clinical trial of the TIMI study revealed that 10 mg/kg of SOD does not attenuate infarct size in 120 patients with acute myocardial infarction (36). 
+
+- This may be attributable to the fact that (1) oxygen-derived free radicals do not contribute to the formation of myocardial necrosis during ischemia and reperfusion or (2) the therapeutic time window of SOD may be narrow in patients with acute myocardial infarction. 
+
+- However, oxidative stress causes vascular remodeling, such as thickening of intima and plaque rupture. 
+
+- These effects may be very important in the genesis of acute myocardial infarction because drugs with antioxidant capability are reported to attenuate vascular events.
+
+{{<figure src="/Heart_Pathophysiology/Fig4.jpg" position="center" style="border-radius: 8px;" caption="FIGURE 4 Staining of ecto-5'-nucleotidase in nonischemic canine endocardium (A). Ischemia following 1 min of coronary occlusion increases ecto-5'-nucleotidase activity (B), and enzyme activity is markedly enhanced when ischemic myocardium is exposed to SOD (C)." captionPosition="center" captionStyle="color: white;" >}}
+
+{{<figure src="/Heart_Pathophysiology/Fig5.jpg" position="center" style="border-radius: 8px;" caption="FIGURE 5 Effects of superoxide dismutase and catalase on myocardial contractile function following 15 min of coronary occlusion. PO, prior to occlusion; OCC, occlusion. From Gross et al. (34)." captionPosition="center" captionStyle="color: white;" >}}
+
+<br>
+
+### <mark>4. Catecholamines<mark>
+
+- When myocardial ischemia occurs, presynaptic vesicles release norepinephrine via the accumulation of Na. 
+
+- Increases in Na levels activate the reverse uptake of norepinephrine (37), which facilitates norepinephrine release. 
+
+- Norepinephrine activates both - and β-adrenoceptors: -adrenoceptor stimulation increases intracellular Ca<sup>2</sup> levels and causes coronary vasoconstriction and β-adrenoceptor stimulation increases myocardial oxygen consumption. 
+
+- These factors may cause deterioration of myocardial contractile and metabolic functions during ischemia and reperfusion. 
+
+- Indeed, many experimental and clinical studies reveal that blockers of β- adrenoceptors are effective in the treatment of ischemic heart disease. 
+
+- Interestingly, the amount of norepinephrine released during ischemia may enhance adenosine production and adenosine-induced coronary vasodilation through 1- and 2-adrenoceptor stimulations (38, 39). 
+
+- Furthermore, -adrenoceptor stimulations are reported to increase myocardial endocardial blood flow at the expense of epicardial blood flow (40). 
+
+- This may be attributable to differences in the sensitivity of endocardial and epicardial arteries during -adrenoceptor stimulation. 
+
+- In this sense, norepinephrine release causes two opposite effects on vascular tone. High norepinephrine concentrations associated with severe prolonged ischemia may mask the adenosine-related cardioprotection and any
+favorable intramyocardial flow redistribution.
+
+<br>
+
+### <mark>5. Microcirculatory Disturbances<mark>
+
+- Even if ischemic myocardium is reperfused by the once occluded coronary artery in acute myocardial infarction, coronary microvasculature does not necessarily receive enough flow. 
+
+- Rather, myocardial perfusion becomes more heterogeneous; some areas receive enough flow, but some areas receive less flow than necessary. 
+
+- This is called the ‘‘no reflow phenomenon’’ (41, 42). 
+
+- The no reflow phenomenon is reported to predict the size of the myocardial necrosis and functional recovery in the chronic phase in patients with acute myocardial infarction (42). 
+
+- The no reflow phenomenon can be caused by myocardial cellular injury, platelet plugging, leukocyte adhesion, and increases in the tone of small coronary vessels. 
+
+- Kloner et al. (41) reported that 90 min of ischemia causes heterogeneous myocardial flow distribution, but that 40 min of ischemia does not. 
+
+- Furthermore, the no reflow area is evident 10–12 sec after the onset of reperfusion, suggesting that the no reflow phenomenon is observed transiently at early phases of reperfusion. 
+
+- Because 40 min of ischemia does not cause the no reflow phenomenon but causes myocardial necrosis, several investigators suggest that the no reflow phenomenon may not be involved in the pathophysiology of reperfusion injury. 
+
+- However, because there are differences in the sensitivity to detect necrosis and the no reflow phenomenon and because there is clinical evidence to consider the no reflow phenomenon as a cause of myocardial injury, the no reflow phenomenon is believed to constitute reperfusion injury in ischemic heart disease.
+
+<br>
+
+### <mark>6. Adhesion Molecule<mark>
+
+- Ischemia and reperfusion activate adhesion between leukocytes and endothelial cells. 
+
+- Adhesion molecules in leukocytes are LFA-1, Mac-1, and the selectin family, and adhesion molecules in endothelial cells are ICAM1 and L-selectin (43). 
+
+- There is contradictory evidence whether attenuation of these adhesion molecules using antibodies does or does not limit infarct size. 
+
+- Therefore, we cannot determine the importance of the activation of adhesion molecules in the pathophysiology of ischemia and reperfusion injury.
+
+<br>
+
+### <mark>7. Endothelin<mark>
+
+- Endothelin (ET) is divided into three subtypes: ET1, ET-2, and ET-3. 
+
+- ET-1 causes potent vasoconstriction and it increases in patients with vasospastic angina and acute myocardial infarction. 
+
+- There are two endothelin receptors, ETA and ETB , and ET-1 activates ETA . 
+
+- Interestingly, when the ETA receptor antagonist is administered before or after the onset of myocardial ischemia, it decreases infarct size to 30–40% (44). 
+
+- This indicates that endothelin plays an important role in the formation of reperfusion injury. 
+
+- However, the mechanisms by which endothelin is deleterious to ischemic hearts, such as coronary vasoconstriction, Ca<sup>2</sup> overload, or leukocyte or platelet activation, are not clear at present
+
+<br>
+
+### <mark>8. Apoptosis<mark>
+
+- Ischemia and reperfusion cause apoptosis, and ischemic preconditioning attenuates the extent of cellular apoptosis during ischemia and reperfusion (45). 
+
+- However, how much of the area of ischemic and reperfused myocardium becomes apoptotic or necrotic and the importance of apoptosis in the pathophysiology of diseased hearts have not yet been clarified.
+
+</details>
+
+---
+
+<br>
+
+<font size="+3" color="Yellow"><center> B. Endogenous Factors That Cause Cardioprotection </center></font>  
+---
+
+<details>
+  <summary>Expand</summary>
+
+<br>
+
+### <mark>1. Adenosine<mark>
+
+- Adenosine, produced not only in cardiomyocytes but also in endothelial cells, is known to be cardioprotective via adenosine receptors (38, 39): 
+    1. Attenuation of the release of catecholamine, β-adrenoceptor-mediated myocardial hypercontraction, and Ca<sup>2</sup> overload via A1 receptors and 
+    2. increase in coronary blood flow and inhibition of platelet and leukocyte activation via A2 receptors. 
+
+- Furthermore, adenosine inhibits renin release and TNF- production in experimental models. 
+
+- It has been thought that the stimulation of adenosine A2 receptors activates adenylate cyclase in the coronary arteries to produce cyclic adenosine monophosphate (cAMP) and relaxes coronary vascular smooth muscle. 
+
+- Increases in cAMP may increase the uptake of Ca<sup>2</sup> into the sarcoplasmic reticulum and cause vasorelaxation. 
+
+- Furthermore, cyclic AMP may open KATP channels and decrease Ca<sup>2</sup> movement inward into smooth muscle cells. Indeed, adenosine-induced coronary vasodilation is attenuated by glibenclamide, an inhibitor of KATP channels (46). 
+
+- In the ischemic heart, thromboembolism in small coronary arteries, which is believed to be one of the causes of the ‘‘no reflow phenomenon’’ of the reperfused myocardium, may worsen the severity of acute myocardial infarction. 
+
+- Small coronary microembolizations are caused by platelet aggregation, and stimulation of adenosine A2 receptors has been reported to inhibit the platelet aggregation induced by norepinephrine in vitro (47, 48). 
+
+- We have investigated whether endogenous adenosine inhibits thromboembolism secondary to platelet aggregation in in vivo ischemic hearts (Fig. 6) (47). 
+
+- We further examined the cellular mechanisms of platelet aggregation when adenosine receptors are inhibited (Fig. 6). 
+
+- The appearance of P-selectin in the platelet increased 8-(sulfophenyl)theophylline treatment, and the inhibitor of P-selectin inhibited platelet aggregation with leukocytes, and thus with endothelial cells (48). 
+
+- Thus, endogenous adenosine released in the ischemic myocardium inhibited the activation of platelet P-selectin and inhibited microembolization in small coronary vessels. 
+
+- Adenosine also inhibits leukocyte chemotaxis (49) and the production of oxygen-derived free radicals through the stimulation of adenosine A2 receptors. 
+
+- This decrease in the inflammatory response may also be cardioprotective. 
+
+- Interestingly, the activation of leukocytes decreases ecto-5'-nucleotidase activity (50), which may decrease adenosine production and activate leukocytes further. 
+
+- These vicious cycles in leukocytes may enhance the injury in ischemic hearts by the release of oxygen-derived free radicals and adhesion to endothelial cells to obstruct small coronary arteries.
+
+<br>
+
+### <mark>2. Nitric Oxide<mark>
+
+- Nitric oxide (NO) activates soluble guanylate cyclase and increases cyclic GMP levels. 
+
+- Increases in cGMP cause several cardiovascular actions. 
+
+- NO relaxes smooth muscles, inhibits platelet aggregation, inhibits the activation of leukocytes, attenuates myocardial contraction, attenuates the presynaptic release of norepinephrine, and inactivates the renin–angiotensin system. 
+
+- NO also attenuates the expression of adhesion molecules. 
+
+- These actions of NO are very similar to those of adenosine, although the cellular signal transduction is different. 
+
+- NO is believed to attenuate ischemia and reperfusion injury as does adenosine. 
+
+- Although NO with oxygen radicals produces peroxymitrite, and peroxymitrite is very harmful to the cells, the consensus is that NO is beneficial to ischemia and reperfusion injury as a whole because the beneficial actions of NO may overcome the deleterious pathway of peroxymitrite.
+
+{{<figure src="/Heart_Pathophysiology/Fig6.jpg" position="center" style="border-radius: 8px;" caption="FIGURE 6 Hypoperfused coronary arteries without (left) and with (right) the intracoronary administration of 8-phenyltheophylline during coronary hypoperfusion (38  2 mm Hg). 8-Phenyltheophylline is a potent antagonist of intracoronary adenosine receptors and induced thrombosis in the small coronary arteries. Tissue was excised following in situ perfusion fixation for 3 min following the onset of ischemia. Bars in the right corner are 50 m (hematoxylin and eosin). From Kitakaze et al. (47)." captionPosition="center" captionStyle="color: white;" >}}
+
+<br>
+
+### <mark>3. ANP and BNP<mark>
+
+- Both ANP and BNP are released from the atrium and ventricle of the heart, which may play an important role in the homeostasis of the cardiovascular system (51). 
+
+- Both ANP and BNP activate particulate guanylate cyclase and increase cellular cyclic GMP levels. 
+
+- ANP and BNP regulate coronary vascular tone. ANP is increased in patients with chronic heart failure, chronic renal failure, systemic hypertension, and paroxysmal artial tachycardia. 
+
+- However, there is no clear consensus whether ANP is involved in the ischemic myocardium. 
+
+- Interestingly and importantly, when ANP was infused into the canine ischemic myocardium, we found that coronary blood flow increases and myocardial contractile and metabolic function recover in canine ischemic hearts. 
+
+- Furthermore, we found that ANP attenuates myocardial necrosis following 90 min of ischemia and 6 hr of reperfusion in open chest dogs. 
+
+- BNP is also increased in the mechanically stressed heart. 
+
+- These data support that either ANP or BNP is cardioprotective against ischemia and reperfusion injury. Of course, ANP and BNP reduce blood volume by increasing urine output and decrease heart size, which mainly favor cardioprotection. 
+
+- There are no clear data whether ANP or BNP affects leukocytes or platelets to reduce myocardial damage further.
+
+<br>
+
+### <mark>4. Acidosis<mark>
+
+- Cellular acidosis is thought to be a natural defense mechanism against myocardial ischemia and reperfusion injury. 
+
+- H blocks Ca<sup>2</sup> channels and Na/Ca<sup>2</sup> exchange and antagonizes Ca<sup>2</sup> overload in the myocardium (30, 31). 
+
+- Furthermore, H increases NO and adenosine production of ischemic myocardium. 
+
+- Indeed, data show that transient cellular acidosis attenuates reperfusion injury, restores myocardial function, and limits cellular necrosis (30, 31). 
+
+- These results indicate that acidosis is a self-protecting mechanism and that the moderate enhancement of cellular acidosis may induce cardioprotection against ischemia and reperfusion injury.
+
+<br>
+
+### <mark>5. Endothelium-Derived Hyperpolarizing Factor (EDHF)<mark>
+
+- Endothelial cells produce not only nitric oxide, but
+also the substance that decreases the membrane potential, i.e. endothelium-derived hyperpolarizing factor.
+
+- EDHF decreases membrane potentials and causes relaxation of the vessels. 
+
+- EDHF has not been identified
+yet, but (1) bradykinin is thought to increase EDHF
+levels and (2) EDHF opens Ca<sup>2</sup> activated K (KCa)
+channels. 
+
+- The inhibitor of KCa channels decreases coronary blood flow and worsens the contractile and metabolic functions of ischemic myocardium and EDHF, or
+the opening of KCa channels, plays an important role in
+the regulation of coronary blood flow in the ischemic
+myocardium (52). 
+
+- Furthermore, the opening of KCa
+channels induces an infarct size-limiting effect (53).
+
+</details>
+
+---
+
+<br><br>
+
+<font size="+7" color="Red"><center> 3) How to mediate Cardioprotection during Ischemia and Reperfusion </center></font>  
+---
+
+<details>
+  <summary>Expand</summary>
+
+- The potential treatment of acute myocardial infarction is to reperfuse the occluded coronary artery. 
+
+- Either percutaneus transluminal coronary angioplasty (PTCA) or percutaneous transluminal coronary recanalization (PTCR) is recognized to be the most effective treatment of acute myocardial infarction in clinical settings. 
+
+- However, our impression is that either PTCA or PTCR limits ischemia and reperfusion injury to a modest extent because of the diminution of a beneficial effect by reperfusion injury, and we need to find the adjunctive therapy to treat ischemia and reperfusion injury directly. 
+
+- Because many factors are involved in ischemia and reperfusion injury, the idea is (1) to use many drugs that inhibit each deleterious factor or (2) to use one drug that inhibits many deleterious factors. 
+
+- The latter seems to be more plausible for clinical settings. 
+
+- The candidates are adenosine, NO, and ANP for treatment. 
+
+- Because adenosine also attenuates reversible and irreversible myocardial cellular injury after reperfusion in various species of animals, intracoronary infusion of adenosine results in a 75% reduction in myocardial infarct size in dogs (54) and attenuates contractile dysfunction in rats. 
+
+- The AMISTAD trial reveals that adenosine administration is effective for the treatment of acute myocardial infarction (55), and we are also planning an ATP administration trial for patients with acute myocardial infarction (COAT trial) (56). 
+
+- Adenosine-related compounds may be effective for cardioprotection against ischemia and reperfusion injury. Vesnarinone, a new inotropic agent, has been reported to inhibit adenosine uptake in immune cells (57), which was also demonstrated in myocytes, endothelial cells, and smooth muscle cells (58). 
+
+- Furthermore, we also observed that vesnarinone activates ecto-5'-nucleotidase via protein kinase C-independent mechanisms. 
+
+- These data suggest that vesnarinone may be effective for acute myocardial infarction. When testing this hypothesis, we observed that vesnarinone limits infarct size, an effect which is blunted by an antagonist of adenosine receptors (59). 
+
+- Furthermore, both methotrexate and sulfasarazine, drugs for rheumatoid arthritis, are reported to attenuate inflammation via adenosine and ecto-5'-nucleotidase (60). 
+
+- We also tested whether a methotrexate analogue mediates cardioprotection. 
+
+- We found that a methotrexate analogue mediates an infarct size-limiting effect, which is completely abolished by either an antagonist of adenosine receptors or AOPCP (unpublished data). 
+
+- AICA riboside also increased the activity of ecto-5'- nucleotidase, which may have merit for cardioprotection. 
+
+- Enhancement of nitric oxide or ANP/BNP may be another tool used to attenuate ischemia and reperfusion injury. 
+
+- Indeed, the V-Heft I trial reveals that nitrate, the NO donor, is effective for the treatment of chronic heart failure. 
+
+- Furthermore, ACE inhibitors, which are used in the treatment of ischemic or nonischemic chronic heart failure, are reported to increase cardiac NO levels via bradykinin-dependent mechanisms in experimental and clinical studies. 
+
+- We have proved that either cilazapril or imidaprilat increases cardiac NO levels and attenuates the severity of myocardial ischemia via a NO-dependent pathway. 
+
+- Nipradilol can be used for the NO donor with the additional effects of β-adrenoceptor blockade, which may be useful compared to ordinary NO donors or β-adrenoceptor blockers. 
+
+- ANP is available for the treatment of heart failure, although it is difficult to use ANP for the treatment of chronic heat failure because there is only an intravenous type of ANP. 
+
+- Candoxiatril, which inhibits the degradation of ANP, has been developed and can be used for the treatment of chronic heart failure.
+
+</details>
+
+---
+
+<br><br>
+
+<font size="+7" color="Pink"><center> 4) Treatments after Acute Myocardial Infarction </center></font>  
+---
+
+<br>
+
+<font size="+3" color="Pink"><center> A. Pharmacological Approach </center></font>  
+---
+
+<details>
+  <summary>Expand</summary>
+
+- Chronic heart failure, the end state of the ischemic heart, is characterized by the reduction of cardiac performance relative to the oxygen demand of the body; however, several neurohormonal factors have been reported to exacerbate the severity of chronic heart failure. 
+
+- Catecholamine, renin–angiotensin, and cytokines may be involved in the pathophysiology of chronic heart failure. 
+
+- Indeed, chronic heart failure is treated effectively by β-adrenoceptor antagonists and angiotensin-converting enzyme inhibitors (61, 62), and these drugs have been proven to be effective in the treatment of chronic heart failure in mass studies. Carvedilol is reported to be more effective than ordinary β-adrenoceptor blockers (63). 
+
+- Because carvedilol is characterized as a β-adrenoceptor-blocking agent with modest -adrenoceptor blocking capability, one may argue that the vasodilatory capability of 1-adrenoceptor blockade may be effective in the β-blockaded condition, as the β- blocker decreases cardiac output, but 1-adrenoceptor blockade may compensate to maintain cardiac output. 
+
+- However, prazosin has not been proven to be effective for the treatment of chronic heart failure, suggesting that 1-adrenoceptor blockade does not explain the beneficial effect of carvedilol. 
+
+- Carvedilol has an antioxidant effect. This effect may be important, as oxidative stress has been implicated in the pathophysiology of chronic heart failure. 
+
+- How about adenosine or NO? Adenosine and NO are reported to decrease sympathetic tone and activity of the renin–angiotensin and the cytokine systems, and NO has been proven to be effective in the treatment of chronic heart failure. 
+
+- Interestingly, we observed that the plasma adenosine levels increased according to NYHA classification in patients with chronic heart failure (64). 
+
+- Furthermore, when we administered dipyridamole or dilazep (Fig. 7 and 8) to patients with chronic heart failure for 6 months, ventricular wall motion and exercise capacity in these patients were increased (65). 
+
+- Therefore, adenosine may be an alternative treatment of chronic heart failure. 
+
+- Endothelin receptor antagonists are also effective in the treatment of chronic heart failure and have been tested in clinical trials.
+
+{{<figure src="/Heart_Pathophysiology/Fig7.jpg" position="center" style="border-radius: 8px;" caption="FIGURE 7 Changes in ejection fraction and oxygen consumption during the bicycle exercise test in patients with chronic heart failure treated with dipyridamole for 6 months. From Kitakaze et al. (65)." captionPosition="center" captionStyle="color: white;" >}}
+
+{{<figure src="/Heart_Pathophysiology/Fig8.jpg" position="center" style="border-radius: 8px;" caption="FIGURE 8 Changes in plasma adenosine levels (A), the New York Heart Association functional classification (B), ejection fraction (C), and oxygen consumption during the bicycle exercise test (D) in patients with chronic heart failure treated with dilazep for 6 months. From Kitakaze et al. (65)." captionPosition="center" captionStyle="color: white;" >}}
+
+<br>
+
+</details>
+
+<font size="+3" color="Pink"><center> B. Molecular Approach </center></font>  
+---
+
+<details>
+  <summary>Expand</summary>
+
+- Other strategies for the treatment of chronic heart failure are to compensate for the loss of myocardium and to decrease myocardial fibrosis. 
+
+- Genes to change mature cardiomyocytes to myoblasts with proliferative capability have not yet been identified. 
+
+- It is difficult to reproduce cardiomyocytes from the myoblasts in vivo at present. 
+
+- However, many molecular investigators are focusing on finding the master gene to regulate the proliferative capability of cardiomyocytes. 
+
+- In the future, the proliferation of cardiomyocytes will be one of the treatments of chronic heart failure. 
+
+- Another method that could potentially be used to restore the volume and numbers of cardiomyocytes is the transplantation of cardiomyocytes. 
+
+- Because human embryonic stem (ES) cells are available, if we find a way to change ES cells to cardiomyocytes, we can transplant the cardiomyocytes to failing hearts. 
+
+- Indeed, transfection of Flk genes changes ES cells to endothelial cells (9), suggesting that the transfection of cardiomoycytespecific genes may cause changes in morphogenesis to cardiomyocytes. 
+
+- Furthermore, when human ES cells are transplanted into leg muscles of mice, teratomas form in which human ES cells can be transformed into various human tissues and cells (66) (Fig. 9), suggesting that the analysis of teratoma may give a hint to the methods of how ES cells become cardiomyocytes. 
+
+- These issues need further investigation.
+
+<br>
+
+</details>
+
+<font size="+3" color="Pink"><center> C. Mechanical Approach </center></font>  
+---
+
+<details>
+  <summary>Expand</summary>
+
+- Another fascinating approach for the treatment of chronic heart failure is the artificial heart. 
+
+- Although heart transplantation is used all over the world, the number of donor hearts is not sufficient to treat all of the patients with chronic heart failure. 
+
+- Therefore, it is important to develop artificial hearts for the treatment of chronic heart failure. 
+
+- In the clinical setting, the left ventricular assist device is available to support failing hearts.
+
+</details>
+
+---
+
+<br><br>
+
+<font size="+7" color="Turquoise"><center> 5) Future Directions of Investigation of Cardioprotection </center></font>  
+---
+
+<details>
+  <summary>Expand</summary>
+
+- Because many factors that cause deterioration of the
+function and metabolism of the heart are activated in
+ischemic hearts, it is important to recognize and inhibit
+the multiple deleterious factors. 
+
+- One strategy of pharmacological interventions is to administer corresponding drugs to attenuate the multiple deleterious factors,
+e.g., superoxide dismutase for oxygen-derived free radicals. 
+- However, this strategy is not realistic in the clinical
+setting because this strategy requires the administration
+of many drugs to attenuate multiple deleterious factors.
+
+- Another possibility is to administer one substance that
+has multiplicity of action. The candidate is adenosine
+or nitric oxide. 
+
+- Two other directions are gene therapy and artificial
+organs, although these two strategies have not been
+investigated thoroughly. 
+- If human cardiomyocytes are
+cultured in the test tube and are transplanted to failing
+hearts, this method may become a potential treatment
+for the failing heart, although we need to elucidate how
+coronary vascular systems and extracellular matrix systems are incorporated to support myocardial cells.
+
+- These three directions, i.e., pharmacological interventions, gene interventions, and artificial interventions,
+may synergistically mediate cardioprotection for failing hearts.
+
+</details>
+
+---
+
+<br><br>
+
+<font size="+7" color="Gree"><center> 6) Summary </center></font> 
+---
+
+<details>
+  <summary>Expand</summary>
+
+- Both prevention and attenuation of ischemia and reperfusion injury in patients with acute coronary syndromes are critically important for cardiologists. 
+
+- To save these patients from deleterious ischemic damages, there are three different strategies. 
+
+- The first strategy is to increase ischemic tolerance before the onset of myocardial ischemia. 
+
+- Prevention of plaque rupture comes first; HMG-CoA reductase inhibitors such as pravastatin may attenuate plaque rupture. 
+
+- Growth factors can induce collateral circulation to prevent or attenuate the ischemic damages. 
+
+- Finding the trigger mechanisms of the infarct size-limiting effect of ischemic preconditioning is important in inducing ischemic tolerance in advance. 
+
+- The second strategy is to attenuate ischemia and reperfusion injury when the irreversible process of myocardial cellular injury occurs. 
+
+- Pharmacological interventions, such as adenosine or nitric oxide, may contribute to attenuate the ischemic damages. 
+
+- The third strategy is to treat ischemic chronic heart failure that is caused after acute myocardial infarction. Gene therapy or the development of artificial hearts may provide a potential treatment in chronic failing hearts. 
+
+- Taken together, we need to investigate potential mechanisms of the cellular damages and the tools for cardioprotection before, during, and after the onset of acute myocardial infarction.
+
+</details>
+
+---
+
+<br><br>
+
+<font size="+7" color="Orange"><center> 7) References </center></font>  
+---
+
+<details>
+  <summary>Expand</summary>
+
+1. Sacks, F. M., Pfeffer, M. A., Moye, L. A., Rouleau, J. L., Rutherford, J. D., Cole, T. G., Brown, L., Warnica, J. W., Arnold, J. M., Wun, C. C., Davis, B. R., and Braunwald, E. N. (1996). The effect of pravastatin on coronary events after myocardial infarction in patients with average cholesterol levels: For cholesterol and recurrent events trial investigators. N Engl. J. Med. 335, 1001–1009.
+
+2. Casscells, W., Hathorn, B., David, M., Krabach, T., Vaughn, W. K., McAllister, H. A., Bearman, G., and Willerson, J. T. (1996). Thermal detection of cellular infiltrates in living atherosclerotic plaques: possible implications for plaque rupture and thrombosis. Lancet 347, 1447–1451.
+
+3. Watanabe, E., Smith, D. M., Sun, J., Smart, F. W., Delcarpio, J. B., Roberts, T. B., Van Meter, C. H., Jr., and Claycomb, W. C. (1998). Effect of basic fibroblast growth factor on angiogenesis in the infarcted porcine heart. Basic Res. Cardiol. 93, 30–37.
+
+4. Schaper, W. (1991). Angiogenesis in the adult heart. Basic Res. Cardiol. 86, Suppl 2, 51–56.
+
+5. Losordo, D. W., Vale, P. R., Symes, J. F., Dunnington, C. H., Esakof, D. D., Maysky, M., Ashare, A. B., Lathi, K., and Isner, J. M. (1998). Gene therapy for myocardial angiogenesis: Initial clinical results with direct myocardial injection of phVEGF165 as sole therapy for myocardial ischemia. Circulation 98, 2800–2804.
+
+6. Yanagisawa, M. A., Uchida, Y., Nakamura, F., Tomaru, T., Kido, H., Kamijo, T., Sugimoto, T., Kaji, K., Utsuyama, M., Kurashima, C., and Ito, H. (1992). Salvage of infarcted myocardium by angiogenic action of basic fibroblast growth factor. Science 257, 1401– 1403.
+
+7. Abramovitch, R., Neeman, M., Reich, R., Stein, I., Keshet, E., Abraham, J., Solomon, A., and Marikovsky, M. (1998). Intercellular communication between vascular smooth muscle and endothelial cells mediated by heparin-binding epidermal growth factorlike growth factor and vascular endothelial growth factor. FEBS Lett. 425, 441–447.
+
+8. Sasayama, S., and Fujita, M. (1992). Recent insights into coronary collateral circulation. Circulation 85, 1197–1204.
+
+9. Hirashima, M., Kataoka, H., Nishikawa, S., Matsuyoshi, N., Nishikawa, S. I. (1999). Maturation of embryonic stem cells into endothelial cells in an in vitro model of vasculogenesis. Blood 93(4), 1253–1263.
+
+10. Fischer, S., Knoll, R., Renz, D., Karliczek, G. F., and Schaper, W. (1997). Role of adenosine in the hypoxic induction of vascular endothelial growth factor in porcine brain derived microvascular endothelial cells. Endothelium 5, 155–165.
+
+11. Meinnger, C. J., Schelling, M. E., and Granger, H. J. (1988). Adenosine and hypoxia stimulate proliferation and migration of endothelial cells. Am. J. Physiol. 255, H554–H562.
+
+12. Dusseuau, J. W., Hutchins, M., and Malbasa, D. S. (1986). Stimulation of angiogenesis by adenosine on the chick choriaoallantonic membrane. Circ. Res. 59, 163–170.
+
+13. Symons, J. D., Firoozmand, E., and Longhurst, J. C. (1993). Repeated dipyridamole administration enhances collateral-dependent flow and regional function during exercise: A role for adenosine. Circ. Res. 73, 503–513.
+
+14. Losardo, D. W., Vale, P. R., and Isner, J. M. (1999). Gene therapy for myocardial angiogenesis. Am Heart J. 138, 132–141.
+
+15. Murry, C. E., Jennings, R. B., and Reimer, K. A. (1986). Preconditioning with ischemia: A delay of lethal cell injury in ischemic myocardium. Circulation 74, 1124–1136.
+
+16. Liu, G. S., Thornton, J., Van Winkle, D. M., Stanley, A. W. H., Olsson, R. A., and Downey, J. M. (1991). Protection against infarction afforded by preconditioning is mediated by A1 adenosine receptors in rabbit heart. Circulation 84, 350–356.
+
+17. Kitakaze, M., Hori, M., Morioka, T., Minamino, T., Takashima, S., Okazaki, Y., Node, K., Komamura, K., Iwakura, K., Inoue, M., and Kamada, T. (1995). 1-Adrenoceptor activation increases ectosolic 5'-nucleotidase activity and adenosine release in rat cardiomyocytes by activing protein kinase C. Circulation 91, 2226–
+2234.
+
+18. Kitakaze, M., Node, K., Minamino, T., Komamura, K., Funaya, H., Shinozaki, Y., Chujo, M., Mori, H., Inoue, M., Hori, M., and Kamada, T. (1996). The role of activation of protein kinase C in the infarct size-limiting effect of ischemic preconditioning through activation of ecto-5'-nucleotidase. Circulation 93, 781–791.
+
+19. Tsuchida, A., Liu, Y., Liu, G. S., Cohen, M. V., and Downey, J. M. (1994). 1-Adrenergic agonists precondition rabbit ischemic
+
+</details>
+
+---
+
+[Link to Book 2](https://ovidsp.dc2.ovid.com/sp-4.02.1a/ovidweb.cgi?&S=GKCCFPCHMMEBNDMJIPCKDGPEJLDBAA00&Book+Reader=1&FTS+Book+Reader+Content=BIB.22%7c1%7c%2fbookdb%2f01884415%2f6th_Edition%2f2%2fPG%280%29)

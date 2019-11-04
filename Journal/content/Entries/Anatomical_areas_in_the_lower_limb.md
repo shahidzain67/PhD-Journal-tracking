@@ -12,11 +12,16 @@ aliases = ["migrate-from-jekyl"]
 <font size="+7" color="orange"><center> The Femoral Triangle </center></font>  
 ---
 
+<details>
+  <summary>Expand</summary>
+
 The femoral triangle is a hollow area in the anterior thigh. Many large neurovascular structures pass through this area, and can be accessed relatively easily. Thus, it is an area of both anatomical and clinical importance.
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/areas/femoral-triangle/)<mark>**
 
 {{<figure src="/Anatomical_Areas/Surface-Anatomy-of-the-Femoral-Triangle-300x241.jpg" position="center" style="border-radius: 8px;" caption="Surface Anatomy of the Femoral Triangle" captionPosition="center" captionStyle="color: white;" >}}
+
+</details>
 
 ---
 
@@ -24,6 +29,9 @@ The femoral triangle is a hollow area in the anterior thigh. Many large neurovas
 
 <font size="+7" color="orange"><center> Borders </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 As this area is a triangle, it has three borders:
 
@@ -45,12 +53,17 @@ The inguinal ligament acts as a flexor retinaculum, supporting the contents of t
 
 {{<figure src="/Anatomical_Areas/Borders-of-the-Femoral-Triangle.jpg" position="center" style="border-radius: 8px;" caption="Borders of the Femoral Triangle" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="orange"><center> Contents </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The femoral triangle contains some of the major neurovascular structures of the lower limb. Its contents (lateral to medial) are:
 
@@ -66,6 +79,8 @@ The femoral artery, vein and canal are contained within a fascial compartment â€
 
 {{<figure src="/Anatomical_Areas/Contents-of-the-Femoral-Traingle-600x433.jpg" position="center" style="border-radius: 8px;" caption="Contents of the Femoral Triangle" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
@@ -73,13 +88,22 @@ The femoral artery, vein and canal are contained within a fascial compartment â€
 <font size="+7" color="orange"><center> Acronyms </center></font>  
 ---
 
+<details>
+  <summary>Expand</summary>
+
 A good way of remembering the contents is using the acronym NAVEL:
 
 **N**: Nerve.
+
 **A**: Artery.
+
 **V**: Vein.
+
 **E**: Empty space (this is important as it allows the veins and lymph vessels to distend, so they can cope with different levels of flow).
+
 **L**: Lymph canal.
+
+</details>
 
 ---
 
@@ -88,16 +112,24 @@ A good way of remembering the contents is using the acronym NAVEL:
 <font size="+7" color="Gree"><center> The Femoral Canal </center></font>  
 ---
 
+<details>
+  <summary>Expand</summary>
+
 The femoral canal is an anatomical compartment located in the anterior thigh. It is the smallest and most medial part of the femoral sheath. It is approximately 1.3cm long.
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/areas/femoral-canal/)<mark>**
+
+</details>
 
 ---
 
 <br><br>
 
-<font size="+7" color="Gree"><center> Borders </center></font>  
+<font size="+7" color="Gree"><center> Borders </center></font> 
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The femoral canal is located in the anterior thigh within the femoral triangle.
 
@@ -115,12 +147,17 @@ The opening to the femoral canal is located at its superior border, known as the
 
 {{<figure src="/Anatomical_Areas/Borders-of-the-Femoral-Canal-624x321.jpg" position="center" style="border-radius: 8px;" caption="Borders of the Femoral Canal" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="Gree"><center> Contents </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The femoral canal contains:
 
@@ -136,6 +173,8 @@ The empty space allows distension of the adjacent femoral vein, so it can cope w
 
 {{<figure src="/Anatomical_Areas/Contents-of-the-Femoral-Traingle-600x433 (1).jpg" position="center" style="border-radius: 8px;" caption="Borders of the Femoral Triangle" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
@@ -143,11 +182,16 @@ The empty space allows distension of the adjacent femoral vein, so it can cope w
 <font size="+7" color="Red"><center> The Adductor Canal </center></font>  
 ---
 
+<details>
+  <summary>Expand</summary>
+
 The adductor canal (Hunterâ€™s canal, subsartorial canal) is a narrow conical tunnel located in the thigh.
 
 It is approximately 15cm long, extending from the apex of the femoral triangle to the adductor hiatus of the adductor magnus. The canal serves as a passageway from structures moving between the anterior thigh and posterior leg.
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/areas/adductor-canal/)<mark>**
+
+</details>
 
 ---
 
@@ -155,6 +199,9 @@ It is approximately 15cm long, extending from the apex of the femoral triangle t
 
 <font size="+7" color="Red"><center> Borders </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The adductor canal is bordered by muscular structures:
 
@@ -168,18 +215,25 @@ The adductor canal runs from the apex of the femoral triangle to the adductor hi
 
 {{<figure src="/Anatomical_Areas/Borders-and-Contents-of-the-Adductor-Canal..jpg" position="center" style="border-radius: 8px;" caption="Borders of the Adductor Canal" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
-<font size="+7" color="Red"><center> Contents </center></font>  
+<font size="+7" color="Red"><center> Contents </center></font>
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The adductor canal serves as a passageway for structures moving between the anterior thigh and posterior leg.
 
 It transmits the femoral artery, femoral vein (posterior to the artery), nerve to the vastus medialis and the saphenous nerve â€“ the largest cutaneous branch of the femoral nerve.
 
 As the femoral artery and vein exit the canal, they are called the popliteal artery and vein respectively.
+
+</details>
 
 ---
 
@@ -188,9 +242,14 @@ As the femoral artery and vein exit the canal, they are called the popliteal art
 <font size="+7" color="Yellow"><center> The Popliteal Fossa </center></font>  
 ---
 
+<details>
+  <summary>Expand</summary>
+
 The popliteal fossa is a diamond shaped area located on the posterior aspect of the knee. It is the main path by which vessels and nerves pass between the thigh and the leg.
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/areas/popliteal-fossa/)<mark>**
+
+</details>
 
 ---
 
@@ -198,6 +257,9 @@ The popliteal fossa is a diamond shaped area located on the posterior aspect of 
 
 <font size="+7" color="Yellow"><center> Borders </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The popliteal fossa is diamond shaped with four borders. These borders are formed by the muscles in the posterior compartment of the leg and thigh:
 
@@ -213,12 +275,17 @@ The popliteal fossa also has a floor and a roof. The floor is formed by the post
 
 {{<figure src="/Anatomical_Areas/Borders-of-the-Popliteal-Fossa.png" position="center" style="border-radius: 8px;" caption="Borders of the Popliteal Fossa" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="Yellow"><center> Contents </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The popliteal fossa is the main conduit for neurovascular structures entering and leaving the leg. Its contents are (medial to lateral):
 
@@ -237,3 +304,5 @@ The small saphenous vein pierces the popliteal fascia of the popliteal fossa to 
 In the popliteal fossa, the deepest structure is the popliteal artery. It is a continuation of the femoral artery, and travels into the leg to supply it with blood.
 
 {{<figure src="/Anatomical_Areas/Contents-of-the-Popliteal-Fossa-TeachMeAnatomy.jpg" position="center" style="border-radius: 8px;" caption="Contents of the Popliteal Fossa" captionPosition="center" captionStyle="color: white;" >}}
+
+</details>

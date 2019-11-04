@@ -12,11 +12,16 @@ aliases = ["migrate-from-jekyl"]
 <font size="+7" color="orange"><center> The Hip Joint </center></font>  
 ---
 
+<details>
+  <summary>Expand</summary>
+
 The hip joint is a ball and socket synovial joint, formed by an articulation between the pelvic acetabulum and the head of the femur.
 
 It forms a connection from the lower limb to the pelvic girdle, and thus is designed for stability and weight-bearing – rather than a large range of movement.
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/joints/hip-joint/)<mark>**
+
+</details>
 
 ---
 
@@ -24,6 +29,9 @@ It forms a connection from the lower limb to the pelvic girdle, and thus is desi
 
 <font size="+7" color="orange"><center> Structures of the Hip Joint </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 ### **Articulating Surfaces**
 The hip joint consists of an articulation between the head of femur and acetabulum of the pelvis.
@@ -36,12 +44,17 @@ The capsule of the hip joint attaches to the edge of the acetabulum proximally. 
 
 {{<figure src="/Ligaments_and_joints/Bony-Surfaces-of-the-Hip-Joint-Head-of-Femur-and-Acetabulum..jpg"  position="center" style="border-radius: 8px;" caption="Structures of the Hip Joint" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="orange"><center> Ligaments </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The ligaments of the hip joint act to increase stability. They can be divided into two groups – intracapsular and extracapsular:
 
@@ -64,12 +77,17 @@ It has a triangular shape, and prevents excessive abduction and extension.
 Ischiofemoral– spans between the body of the ischium and the greater trochanter of the femur, reinforcing the capsule posteriorly.
 It has a spiral orientation, and prevents hyperextension and holds the femoral head in the acetabulum.
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="orange"><center> Neurovascular Supply </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The arterial supply to the hip joint is largely via the medial and lateral circumflex femoral arteries – branches of the profunda femoris artery (deep femoral artery). They anastomose at the base of the femoral neck to form a ring, from which smaller arteries arise to supply the hip joint itself.
 
@@ -81,12 +99,17 @@ The hip joint is innervated primarily by the sciatic, femoral and obturator nerv
 
 {{<figure src="/Ligaments_and_joints/Overview-of-the-Arterial-Supply-to-the-Thigh-Femoral-Artery-600x470.jpg"  position="center" style="border-radius: 8px;" caption="Neurovascular Supply" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="orange"><center> Stabilising Factors </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The primary function of the hip joint is to weight-bear. There are a number of factors that act to increase stability of the joint.
 
@@ -104,12 +127,17 @@ In addition, the muscles and ligaments work in a reciprocal fashion at the hip j
 
 {{<figure src="/Ligaments_and_joints/Extracapsular-Ligaments-of-the-Hip-Joint.-1.jpg" position="center" style="border-radius: 8px;" caption="Extracapsular Ligaments of the Hip Joint" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="orange"><center> Movements and Muscles </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The movements that can be carried out at the hip joint are listed below, along with the principle muscles responsible for each action:
 
@@ -124,6 +152,8 @@ The degree to which flexion at the hip can occur depends on whether the knee is 
 
 Extension at the hip joint is limited by the joint capsule and the iliofemoral ligament. These structures become taut during extension to limit further movement.
 
+</details>
+
 ---
 
 <br><br>
@@ -131,11 +161,16 @@ Extension at the hip joint is limited by the joint capsule and the iliofemoral l
 <font size="+7" color="Blue"><center> The Knee Joint </center></font>  
 ---
 
+<details>
+  <summary>Expand</summary>
+
 The knee joint is a hinge type synovial joint, which mainly allows for flexion and extension (and a small degree of medial and lateral rotation). It is formed by articulations between the patella, femur and tibia.
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/joints/knee-joint/)<mark>**
 
 {{<figure src="/Ligaments_and_joints/Bony-Surfaces-of-the-Knee-Joint.png" position="center" style="border-radius: 8px;" caption="Bony Surfaces of the Knee Joint" captionPosition="center" captionStyle="color: white;" >}}
+
+</details>
 
 ---
 
@@ -143,6 +178,9 @@ The knee joint is a hinge type synovial joint, which mainly allows for flexion a
 
 <font size="+7" color="Blue"><center> Articulating Surfaces </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The knee joint consists of two articulations – tibiofemoral and patellofemoral. The joint surfaces are lined with hyaline cartilage, and are enclosed within a single joint cavity.
 
@@ -154,6 +192,8 @@ As the patella is both formed and resides within the quadriceps femoris tendon, 
 
 {{<figure src="/Ligaments_and_joints/Articulating-Surfaces-of-the-Femur-and-Tibia-at-the-Knee-Joint.jpg" position="center" style="border-radius: 8px;" caption="Articulating Surfaces" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
@@ -161,16 +201,24 @@ As the patella is both formed and resides within the quadriceps femoris tendon, 
 <font size="+7" color="Blue"><center> Neurovasculature </center></font>  
 ---
 
+<details>
+  <summary>Expand</summary>
+
 The blood supply to the knee joint is through the genicular anastomoses around the knee, which are supplied by the genicular branches of the femoral and popliteal arteries.
 
 The nerve supply, according to Hilton’s law, is by the nerves which supply the muscles which cross the joint. These are the femoral, tibial and common fibular nerves.
+
+</details>
 
 ---
 
 <br><br>
 
-<font size="+7" color="Blue"><center> Menisci </center></font>  
+<font size="+7" color="Blue"><center> Menisci </center></font> 
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The medial and lateral menisci are fibrocartilage structures in the knee that serve two functions:
 
@@ -188,12 +236,17 @@ The lateral meniscus is smaller and does not have any extra attachments, renderi
 
 {{<figure src="/Ligaments_and_joints/The-Menisci-of-the-Knee-Joint-Superior-View.jpg" position="center" style="border-radius: 8px;" caption="Superior View of the Menisci of the Knee Joint" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="Blue"><center> Bursae </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 A bursa is synovial fluid filled sac, found between moving structures in a joint – with the aim of reducing wear and tear on those structures. There are four bursae found in the knee joint.
 
@@ -207,12 +260,17 @@ A bursa is synovial fluid filled sac, found between moving structures in a joint
 
 {{<figure src="/Ligaments_and_joints/Sagittal-View-of-the-Knee-Joint-Diagram-of-the-Knee-Bursae.jpg" position="center" style="border-radius: 8px;" caption="Sagittal View of the Knee Joint" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="Blue"><center> Ligaments </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The major ligaments in the knee joint are:
 
@@ -230,12 +288,17 @@ The major ligaments in the knee joint are:
 
 {{<figure src="/Ligaments_and_joints/Ligaments-of-the-Knee-Joint-Collateral-Cruciate-Menisci-600x497.jpg"position="center" style="border-radius: 8px;" caption="Ligaments of the Knee Joint" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="Blue"><center> Movements </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 There are four main movements that the knee joint permits:
 
@@ -249,6 +312,8 @@ There are four main movements that the knee joint permits:
 
 *Lateral and medial rotation can only occur when the knee is flexed (if the knee is not flexed, the medial/lateral rotation occurs at the hip joint).*
 
+</details>
+
 ---
 
 <br><br>
@@ -256,11 +321,16 @@ There are four main movements that the knee joint permits:
 <font size="+7" color="Red"><center> Tibiofibular Joints </center></font>  
 ---
 
+<details>
+  <summary>Expand</summary>
+
 The proximal and distal tibiofibular joints refer to two articulations between the tibia and fibula of the leg. These joints have minimal function in terms of movement but play a greater role in stability and weight-bearing.
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/joints/tibiofibular-joints/))<mark>**
 
 {{<figure src="/Ligaments_and_joints/The-Proximal-and-Distal-Tibiofibular-Joints-600x730.jpg" position="center" style="border-radius: 8px;" caption="Tibiofibular Joints" captionPosition="center" captionStyle="color: white;" >}}
+
+</details>
 
 ---
 
@@ -268,6 +338,9 @@ The proximal and distal tibiofibular joints refer to two articulations between t
 
 <font size="+7" color="Red"><center> Proximal Tibiofibular Joint </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 ### **<mark>Articulating Surfaces<mark>**
 The proximal tibiofibular joint is formed by an articulation between the head of the fibula and the lateral condyle of the tibia.
@@ -292,12 +365,17 @@ The joint is innervated by branches of the common fibular nerve and the nerve to
 
 {{<figure src="/Ligaments_and_joints/Proximal-Tibiofibular-Joint-768x470.jpg" position="center" style="border-radius: 8px;" caption="The Proximal Tibiofibular Joint" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="Red"><center> Distal Tibiofibular joint </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 ### **<mark>Articulating Surfaces<mark>**
 The distal (inferior) tibiofibular joint consists of an articulation between the fibular notch of the distal tibia and the fibula.
@@ -315,6 +393,8 @@ As it is a fibrous joint, the distal tibiofibular joint does not have a joint ca
 
 {{<figure src="/Ligaments_and_joints/Distal-Tibiofibular-Joint.jpg" position="center" style="border-radius: 8px;" caption="The Distal Tibiofibular Joint" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
@@ -322,9 +402,14 @@ As it is a fibrous joint, the distal tibiofibular joint does not have a joint ca
 <font size="+7" color="Red"><center> Neurovascular Supply </center></font>  
 ---
 
+<details>
+  <summary>Expand</summary>
+
 Arterial supply to the distal tibiofibular joint is via branches of the fibular artery and the anterior and posterior tibial arteries.
 
 The nerve supply is derived from the deep peroneal and tibial nerves.
+
+</details>
 
 ---
 
@@ -332,6 +417,9 @@ The nerve supply is derived from the deep peroneal and tibial nerves.
 
 <font size="+7" color="Yellow"><center> The Ankle Joint </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The ankle joint (or talocrural joint) is a synovial joint located in the lower limb. It is formed by the bones of the leg (tibia and fibula) and the foot (talus).
 
@@ -341,12 +429,17 @@ Functionally, it is a hinge type joint, permitting dorsiflexion and plantarflexi
 
 {{<figure src="/Ligaments_and_joints/Bones-of-the-Ankle-Joint-Tibia-Fibula-and-Talus.jpg" position="center" style="border-radius: 8px;" caption="Bones of the Ankle Joint" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="Yellow"><center> Articulating Surfaces </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The ankle joint is formed by three bones; the tibia and fibula of the leg, and the talus of the foot:
 
@@ -361,12 +454,17 @@ The body of the talus fits snugly into the mortise formed by the bones of the le
 
 {{<figure src="/Ligaments_and_joints/The-Talus-in-the-Ankle-Joint.jpg" position="center" style="border-radius: 8px;" caption="The Talus in the Ankle Joint" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="Yellow"><center> Ligaments </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 There are two main sets of ligaments, which originate from each malleolus.
 
@@ -386,12 +484,17 @@ It resists over-inversion of the foot, and is comprised of three distinct and se
 
 {{<figure src="/Ligaments_and_joints/Ligaments-of-the-Ankle-Joint.jpg" position="center" style="border-radius: 8px;" caption="Ligaments of the Ankle Joint" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="Yellow"><center> Movements and Muscles Involved </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The ankle joint is a hinge type joint, with movement permitted in one plane.
 
@@ -400,6 +503,8 @@ Thus, plantarflexion and dorsiflexion are the main movements that occur at the a
 -  Plantarflexion – produced by the muscles in the posterior compartment of the leg (gastrocnemius, soleus, plantaris and posterior tibialis).
 - Dorsiflexion – produced by the muscles in the anterior compartment of the leg (tibialis anterior, extensor hallucis longus and extensor digitorum longus).
 
+</details>
+
 ---
 
 <br><br>
@@ -407,9 +512,14 @@ Thus, plantarflexion and dorsiflexion are the main movements that occur at the a
 <font size="+7" color="Yellow"><center> Neurovascular Supply </center></font>  
 ---
 
+<details>
+  <summary>Expand</summary>
+
 The arterial supply to the ankle joint is derived from the malleolar branches of the anterior tibial, posterior tibial and fibular arteries.
 
 Innervation is provided by tibial, superficial fibular and deep fibular nerves.
+
+</details>
 
 ---
 
@@ -418,9 +528,14 @@ Innervation is provided by tibial, superficial fibular and deep fibular nerves.
 <font size="+7" color="Pink"><center> Subtalar Joint </center></font>  
 ---
 
+<details>
+  <summary>Expand</summary>
+
 The subtalar joint is an articulation between two of the tarsal bones in the foot – the talus and calcaneus. The joint is classed structurally as a synovial joint, and functionally as a plane synovial joint.
 
 **<mark>[Link to Teach Me Anatomy](https://teachmeanatomy.info/lower-limb/joints/subtalar/))<mark>**
+
+</details>
 
 ---
 
@@ -428,6 +543,9 @@ The subtalar joint is an articulation between two of the tarsal bones in the foo
 
 <font size="+7" color="Pink"><center> Articulating Surfaces </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The subtalar joint is formed between two of the tarsal bones:
 
@@ -439,12 +557,17 @@ As is typical for a synovial joint, these surfaces are covered by articular cart
 
 {{<figure src="/Ligaments_and_joints/The-Subtalar-Joints-and-Ligament.jpg" position="center" style="border-radius: 8px;" caption="The Subtalar Joints and Ligaments" captionPosition="center" captionStyle="color: white;" >}}
 
+</details>
+
 ---
 
 <br><br>
 
 <font size="+7" color="Pink"><center> Stability </center></font>  
 ---
+
+<details>
+  <summary>Expand</summary>
 
 The subtalar joint is enclosed by a joint capsule, which is lined internally by synovial membrane and strengthened externally by a fibrous layer. The capsule is also supported by three ligaments:
 
@@ -467,3 +590,5 @@ The nature of the articulating surface means that the subtalar joint has no role
 The subtalar joint receives supply from two arteries and two nerves. Arterial supply comes from the posterior tibial and fibular arteries.
 
 Innervation to the plantar aspect of the joint is supplied by the medial or lateral plantar nerve, whereas the dorsal aspect of the joint is supplied by the deep fibular nerve.
+
+</details>
