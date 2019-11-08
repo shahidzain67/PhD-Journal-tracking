@@ -676,32 +676,19 @@ channels induces an infarct size-limiting effect (53).
 <details>
   <summary>Expand</summary>
 
-- Because many factors that cause deterioration of the
-function and metabolism of the heart are activated in
-ischemic hearts, it is important to recognize and inhibit
-the multiple deleterious factors. 
+- Because many factors that cause deterioration of the function and metabolism of the heart are activated in ischemic hearts, it is important to recognize and inhibit the multiple deleterious factors. 
 
-- One strategy of pharmacological interventions is to administer corresponding drugs to attenuate the multiple deleterious factors,
-e.g., superoxide dismutase for oxygen-derived free radicals. 
-- However, this strategy is not realistic in the clinical
-setting because this strategy requires the administration
-of many drugs to attenuate multiple deleterious factors.
+- One strategy of pharmacological interventions is to administer corresponding drugs to attenuate the multiple deleterious factors, e.g., superoxide dismutase for oxygen-derived free radicals. 
 
-- Another possibility is to administer one substance that
-has multiplicity of action. The candidate is adenosine
-or nitric oxide. 
+- However, this strategy is not realistic in the clinical setting because this strategy requires the administration of many drugs to attenuate multiple deleterious factors.
 
-- Two other directions are gene therapy and artificial
-organs, although these two strategies have not been
-investigated thoroughly. 
-- If human cardiomyocytes are
-cultured in the test tube and are transplanted to failing
-hearts, this method may become a potential treatment
-for the failing heart, although we need to elucidate how
-coronary vascular systems and extracellular matrix systems are incorporated to support myocardial cells.
+- Another possibility is to administer one substance that has multiplicity of action. The candidate is adenosine or nitric oxide. 
 
-- These three directions, i.e., pharmacological interventions, gene interventions, and artificial interventions,
-may synergistically mediate cardioprotection for failing hearts.
+- Two other directions are gene therapy and artificial organs, although these two strategies have not been investigated thoroughly. 
+
+- If human cardiomyocytes are cultured in the test tube and are transplanted to failing hearts, this method may become a potential treatment for the failing heart, although we need to elucidate how coronary vascular systems and extracellular matrix systems are incorporated to support myocardial cells.
+
+- These three directions, i.e., pharmacological interventions, gene interventions, and artificial interventions, may synergistically mediate cardioprotection for failing hearts.
 
 </details>
 
@@ -790,4 +777,150 @@ may synergistically mediate cardioprotection for failing hearts.
 
 ---
 
+<br><br>
+
+<font size="+7" color="Orange"><center> 8) Other Information </center></font>  
+---
+
 [Link to Book 2](https://ovidsp.dc2.ovid.com/sp-4.02.1a/ovidweb.cgi?&S=GKCCFPCHMMEBNDMJIPCKDGPEJLDBAA00&Book+Reader=1&FTS+Book+Reader+Content=BIB.22%7c1%7c%2fbookdb%2f01884415%2f6th_Edition%2f2%2fPG%280%29)
+
+---
+
+---
+
+<br><br>
+
+<font size="+7" color="Orange"><center> 9) Pathophysiology Presentation </center></font>  
+---
+
+# <mark>**Coronary Artery Disease**</mark>
+
+Coronary artery disease, also called coronary or atherosclerotic heart disease, is a serious condition caused by a buildup of plaque in your coronary arteries, the blood vessels that bring oxygen-rich blood to your heart. It affects millions of Americans.
+
+### <mark>**Causes and Development**</mark>
+
+- Plaque can start to collect along your blood vessel walls when you’re young and build up as you get older. That buildup inflames those walls and raises the risk of blood clots and heart attacks.
+
+- The plaque makes the inner walls of your blood vessels sticky. Things like inflammatory cells, lipoproteins, and calcium attach to the plaque as they travel through your bloodstream.
+
+- More of these materials build up, along with cholesterol. That pushes your artery walls out while making them narrower.
+
+- Eventually, a narrowed coronary artery may develop new blood vessels that go around the blockage to get blood to your heart muscle. But if you’re pushing yourself or stressed out, the new arteries may not be able to bring enough oxygen-rich blood to your heart.
+
+<br>
+
+### <mark>**Complications**</mark>
+
+- <mark>Abnormal heart rhythm (arrhythmia)</mark>, when your heartbeat loses its regular rhythm because of damage to your heart or a lack of blood supply. The most common form is called atrial fibrillation (AFib). These rhythm problems can cause heart failure or make it worse. An irregular heartbeat might lead to blood clots in your heart, and these can cause a stroke if they reach your brain.
+
+- <mark>Heart attack</mark>, when your coronary artery is totally blocked, keeping part of your heart muscle from getting enough oxygen. When blood flow to your heart muscle is blocked, your doctor might call it acute coronary syndrome.
+
+- <mark>Heart failure</mark>, when your heart becomes too weak to supply your body with the blood it needs. This can be because your heart isn’t getting enough oxygen and nutrients or it was damaged by a heart attack.
+
+<br><br>
+
+# <mark>**Congenital Heart Disease**</mark>
+"Congenital heart defect" is another way of saying your heart had a problem when you were born. You may have had a small hole in it or something more severe. Although these can be very serious conditions, many can be treated with surgery.
+
+In some cases, doctors can find these problems during pregnancy. You might not get symptoms until adulthood, or you may not get any at all.
+
+### <mark>**Causes and Development**</mark>
+Doctors don’t always know why a baby has a congenital heart defect. They tend to run in families.
+
+Things that make them more likely include:
+
+- Problems with genes or chromosomes in the child, such as Down syndrome
+- Taking certain medications, or alcohol or drug abuse during pregnancy
+- A viral infection, like rubella (German measles) in the mother in the first trimester of pregnancy
+
+
+### <mark>**Types**</mark>
+
+Most congenital heart problems are structural issues like holes and leaky valves. For instance:
+
+- Heart valve defects: One may be too narrow or completely closed. That makes it hard for blood to get through. Sometimes, it can’t get through at all. In other cases, the valve might not close properly, so the blood leaks backward.
+
+- Problems with the heart’s "walls": It could be the ones between the chambers (atria and ventricles) of your heart. Holes or passageways between the left and right side of the heart might cause blood to mix when it shouldn’t.
+
+- Issues with the heart’s muscle: These can lead to heart failure, which means the heart doesn’t pump as efficiently as it should.
+
+- Bad connections among blood vessels: In babies, this may let blood that should go to the lungs go to other parts of the body instead, or vice versa. These defects can deprive blood of oxygen and lead to organ failure.
+
+<br><br>
+
+# <mark>**Sudden Cardiac Death**</mark> 
+
+Sudden cardiac death (SCD) is a sudden, unexpected death caused by a change in heart rhythm (sudden cardiac arrest). It is the largest cause of natural death in the U.S., causing about 325,000 adult deaths in the U.S. each year. SCD is responsible for half of all heart disease deaths.
+
+### <mark>**Causes and Development**</mark>
+
+Most sudden cardiac deaths are caused by abnormal heart rhythms called arrhythmias. The most common life-threatening arrhythmia is ventricular fibrillation, which is an erratic, disorganized firing of impulses from the ventricles (the heart's lower chambers). When this occurs, the heart is unable to pump blood and death will occur within minutes, if left untreated.
+
+### <mark>**Arrhythmias**</mark>
+
+You could have an arrhythmia even if your heart is healthy. Or it could happen because you have:
+
+- Heart disease
+- The wrong balance of electrolytes (such as sodium or potassium) in your blood
+- Changes in your heart muscle
+- Injury from a heart attack
+- Healing process after heart surgery
+
+
+The many types of arrhythmias include:
+
+- **Premature atrial contractions**. These are early extra beats that start in the heart's upper chambers, called the atria. They are harmless and generally don't need treatment.
+
+- **Premature ventricular contractions (PVCs)**. These are among the most common arrhythmias. They're the "skipped heartbeat" we all occasionally feel. They can be related to stress or too much caffeine or nicotine. But sometimes, PVCs can be caused by heart disease or electrolyte imbalance. If you have a lot of PVCs, or symptoms linked to them, see a heart doctor (cardiologist).
+
+- **Atrial fibrillation**. This common irregular heart rhythm causes the upper chambers of the heart to contract abnormally.
+
+- **Atrial flutter**. This is an arrhythmia that's usually more organized and regular than atrial fibrillation. It happens most often in people with heart disease and in the first week after heart surgery. It often changes to atrial fibrillation.
+
+- **Paroxysmal supraventricular tachycardia (PSVT)**. A rapid heart rate, usually with a regular rhythm, starting from above the heart's lower chambers, or ventricles. PSVT begins and ends suddenly.
+
+- **Accessory pathway tachycardias**. You can get a rapid heart rate because there is an extra pathway between the heart's upper and lower chambers. It's just like if there was an extra road on your way home as well as your usual route, so cars can move around faster. When that happens in your heart, it can cause a fast heart rhythm, which doctors call tachycardia. The impulses that control your heart rhythm travel around the heart very quickly, making it beat unusually fast.
+
+- **AV nodal reentrant tachycardia**. This is another type of fast heartbeat. It's caused by there being an extra pathway through a part of the heart called the AV node. It can cause heart palpitations, fainting, or heart failure. In some cases, you can stop it simply by breathing in and bearing down. Some drugs can also stop this heart rhythm.
+
+- **Ventricular tachycardia (V-tach)**. A rapid heart rhythm starting from the heart's lower chambers. Because the heart is beating too fast, it can't fill up with enough blood. This can be a serious arrhythmia -- especially in people with heart disease -- and it may be linked to other symptoms.
+
+- **Ventricular fibrillation**. This happens when the heart's lower chambers quiver and can't contract or pump blood to the body. This is a medical emergency that must be treated with CPR and defibrillation as soon as possible.
+
+- **Long QT syndrome**. This may cause potentially dangerous arrhythmias and sudden death. Doctors can treat it with medications or devices called defibrillators.
+
+- **Bradyarrhythmia****s**. These are slow heart rhythms, which may be due to disease in the heart's electrical system. When this occurs, you may feel like you are going to pass out, or actually pass out. This could also be from medication. The treatment for this could be a pacemaker. 
+
+- **Sinus node dysfunction**. This slow heart rhythm is due to a problem with the heart's sinus node. Some people with this type of arrhythmia need a pacemaker.
+
+- **Heart block**. There is a delay or a complete block of the electrical impulse as it travels from the heart's sinus node to its lower chambers. The heart may beat irregularly and, often, more slowly. In serious cases, you'd get a pacemaker.
+
+<br><br>
+
+# <mark>**Pericarditis**</mark> 
+
+Pericardial disease, or pericarditis, is inflammation of any of the layers of the pericardium. The pericardium is a thin tissue sac that surrounds the heart and consists of:
+
+- Visceral pericardium -- an inner layer that envelopes the entire heart
+- A middle fluid layer to prevent friction between the visceral pericardium and parietal pericardium
+- Parietal pericardium -- an outer layer made of fibrous tissue
+
+### <mark>**Causes and Development**</mark>
+
+Causes of pericarditis include:
+
+- Infections
+- Heart surgery
+- Heart attack
+- Trauma
+- Tumors
+- Cancer
+- Radiation
+- Autoimmune diseases (such as rheumatoid arthritis, lupus, or scleroderma)
+- For some people, no cause can be found.
+
+Pericarditis can be acute (occurring suddenly) or chronic (long-standing).
+
+### <mark>**Constrictive Pericarditis**</mark>
+
+Constrictive pericarditis occurs when the pericardium becomes thickened and scarred. This can make it difficult for the heart to expand with blood.
