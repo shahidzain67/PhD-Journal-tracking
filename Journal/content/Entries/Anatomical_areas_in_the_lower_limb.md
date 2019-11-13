@@ -13,7 +13,7 @@ aliases = ["migrate-from-jekyl"]
 ---
 
 <details>
-  <summary>Expand</summary>
+  <summary> </summary>
 
 The femoral triangle is a hollow area in the anterior thigh. Many large neurovascular structures pass through this area, and can be accessed relatively easily. Thus, it is an area of both anatomical and clinical importance.
 
@@ -31,7 +31,7 @@ The femoral triangle is a hollow area in the anterior thigh. Many large neurovas
 ---
 
 <details>
-  <summary>Expand</summary>
+  <summary> </summary>
 
 As this area is a triangle, it has three borders:
 
@@ -63,7 +63,7 @@ The inguinal ligament acts as a flexor retinaculum, supporting the contents of t
 ---
 
 <details>
-  <summary>Expand</summary>
+  <summary> </summary>
 
 The femoral triangle contains some of the major neurovascular structures of the lower limb. Its contents (lateral to medial) are:
 
@@ -89,7 +89,7 @@ The femoral artery, vein and canal are contained within a fascial compartment â€
 ---
 
 <details>
-  <summary>Expand</summary>
+  <summary> </summary>
 
 A good way of remembering the contents is using the acronym NAVEL:
 
@@ -113,7 +113,7 @@ A good way of remembering the contents is using the acronym NAVEL:
 ---
 
 <details>
-  <summary>Expand</summary>
+  <summary> </summary>
 
 The femoral canal is an anatomical compartment located in the anterior thigh. It is the smallest and most medial part of the femoral sheath. It is approximately 1.3cm long.
 
@@ -129,7 +129,7 @@ The femoral canal is an anatomical compartment located in the anterior thigh. It
 ---
 
 <details>
-  <summary>Expand</summary>
+  <summary> </summary>
 
 The femoral canal is located in the anterior thigh within the femoral triangle.
 
@@ -157,7 +157,7 @@ The opening to the femoral canal is located at its superior border, known as the
 ---
 
 <details>
-  <summary>Expand</summary>
+  <summary> </summary>
 
 The femoral canal contains:
 
@@ -183,7 +183,7 @@ The empty space allows distension of the adjacent femoral vein, so it can cope w
 ---
 
 <details>
-  <summary>Expand</summary>
+  <summary> </summary>
 
 The adductor canal (Hunterâ€™s canal, subsartorial canal) is a narrow conical tunnel located in the thigh.
 
@@ -201,7 +201,7 @@ It is approximately 15cm long, extending from the apex of the femoral triangle t
 ---
 
 <details>
-  <summary>Expand</summary>
+  <summary> </summary>
 
 The adductor canal is bordered by muscular structures:
 
@@ -225,7 +225,7 @@ The adductor canal runs from the apex of the femoral triangle to the adductor hi
 ---
 
 <details>
-  <summary>Expand</summary>
+  <summary> </summary>
 
 The adductor canal serves as a passageway for structures moving between the anterior thigh and posterior leg.
 
@@ -243,7 +243,7 @@ As the femoral artery and vein exit the canal, they are called the popliteal art
 ---
 
 <details>
-  <summary>Expand</summary>
+  <summary> </summary>
 
 The popliteal fossa is a diamond shaped area located on the posterior aspect of the knee. It is the main path by which vessels and nerves pass between the thigh and the leg.
 
@@ -259,7 +259,7 @@ The popliteal fossa is a diamond shaped area located on the posterior aspect of 
 ---
 
 <details>
-  <summary>Expand</summary>
+  <summary> </summary>
 
 The popliteal fossa is diamond shaped with four borders. These borders are formed by the muscles in the posterior compartment of the leg and thigh:
 
@@ -285,7 +285,7 @@ The popliteal fossa also has a floor and a roof. The floor is formed by the post
 ---
 
 <details>
-  <summary>Expand</summary>
+  <summary> </summary>
 
 The popliteal fossa is the main conduit for neurovascular structures entering and leaving the leg. Its contents are (medial to lateral):
 

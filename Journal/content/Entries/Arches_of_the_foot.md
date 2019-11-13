@@ -9,6 +9,12 @@ series = ["University Journal"]
 aliases = ["migrate-from-jekyl"]
 +++
 
+<font size="+7" color="orange"><center> Introduction </center></font>  
+---
+
+<details>
+  <summary> </summary>
+
 The foot has three arches: two longitudinal (medial and lateral) arches and one anterior transverse arch (Fig. 1). They are formed by the tarsal and metatarsal bones, and supported by ligaments and tendons in the foot.
 
 Their shape allows them to act in the same way as a spring, bearing the weight of the body and absorbing the shock produced during locomotion. The flexibility conferred to the foot by these arches facilitates functions such as walking and running.
@@ -21,11 +27,13 @@ Their shape allows them to act in the same way as a spring, bearing the weight o
 
 <br><br>
 
+</details>
+
 <font size="+7" color="orange"><center> Longitudinal Arches </center></font>  
 ---
 
 <details>
-  <summary>Expand</summary>
+  <summary> </summary>
 
 There are two longitudinal arches in the foot – the medial and lateral arches. They are formed between the tarsal bones and the proximal end of the metatarsals.
 
@@ -63,7 +71,7 @@ The lateral arch is the flatter of the two longitudinal arches, and lies on the 
 ---
 
 <details>
-  <summary>Expand</summary>
+  <summary> </summary>
 
 The transverse arch is located in the coronal plane of the foot. It is formed by the metatarsal bases, the cuboid and the three cuneiform bones. It has:
 

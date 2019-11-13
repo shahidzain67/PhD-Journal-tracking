@@ -12,6 +12,9 @@ aliases = ["migrate-from-jekyl"]
 <font size="+7" color="orange"><center> Definitions </center></font>  
 ---
 
+<details>
+  <summary> </summary>
+
 --- 
 * **Anatomy:** - Branch of biological science that studies the structure of an organism.  
 
@@ -67,11 +70,16 @@ the anterior surface of the leg’.
 * **Lateral rotation:** - ‘Rotation of a limb segment about its longitudinal axis so that the anterior surface faces away from the midline’ (Palastanga & Soames, 2012, p3).
 
 ---
-<br/><br/>
----
+
+<br><br>
+
+</details>
+
 <font size="+7" color="orange"><center> Positional Terminology Terms </center></font>
 ---  
----
+
+<details>
+  <summary> </summary>
  
 Common words to describe the position of anatomical structures:
 
@@ -105,12 +113,18 @@ Common words to describe the position of anatomical structures:
 --- 
 * **Deep:** - Further away from the surface of the body.
 
----  
-<br/><br/>
 ---
+
+<br><br>
+
+</details>
+
 <font size="+7" color="orange"><center> Anatomical Position </center></font>
 ---  
----  
+
+<details>
+  <summary> </summary>
+
 * Body standing erect
 * Body facing forwards 
 * Legs together 
@@ -118,11 +132,17 @@ Common words to describe the position of anatomical structures:
 * Arms hanging loosely 
 * Palms of hands facing forwards (thumb lateral)
 
-<br/><br/>
 ---
+
+<br/><br/>
+
+</details>
+
 <font size="+7" color="orange"><center> Anatomical Terminalogy relating to Bones </center></font>
 ---  
---- 
+
+<details>
+  <summary> </summary>
 
 * **Condyle:** - a round protuberance that occurs at the end of some bones.
 
@@ -163,11 +183,16 @@ Common words to describe the position of anatomical structures:
 * **Facet:** - plate like surface.
 
 --- 
-<br/><br/>
----
+
+<br><br>
+
+</details>
+
 <font size="+7" color="orange"><center> Planes of Motion </center></font>
 ---  
---- 
+
+<details>
+  <summary> </summary>
 
 * **Sagittal Plane:** - can be seen when standing side on to someone.
 
@@ -180,14 +205,21 @@ Common words to describe the position of anatomical structures:
 {{<figure src="/2019-10-03/planes_of_movement.jpg" position="center" style="border-radius: 8px;" caption="Planes of Movement" captionPosition="center" captionStyle="color: white;" >}}
 
 --- 
-<br/><br/>
----
+
+<br><br>
+
+</details>
+
 <font size="+7" color="orange"><center> Movements </center></font>
 ---  
---- 
+
+<details>
+  <summary> </summary> 
 
 <font size="+4" color="Gree"><center> Sagittal Plane </center></font>
  
+<details>
+  <summary> </summary>
 
 **Flexion:** - involves ‘the bending of two adjacent body segments so that their two anterior/posterior surfaces are brought together’
 (Palastanga & Soames, 2012, p3).   
@@ -211,9 +243,15 @@ Common words to describe the position of anatomical structures:
 {{<figure src="/2019-10-03/Sagittal_plane_extension.jpg" position="center" style="border-radius: 8px;" caption="Sagittal Plane Extension" captionPosition="center" captionStyle="color: white;" >}}
 
 --- 
-<br/><br/>
+
+<br><br>
+
+</details>
 
 <font size="+4" color="Gree"><center> Coronal Plane </center></font>
+
+<details>
+  <summary> </summary>
 
 **Abduction:** - ‘The movement of a body segment such that it moves away from the midline of the body’ (Palastanga & Soames, 2012, p3).
 
@@ -233,9 +271,15 @@ Common words to describe the position of anatomical structures:
 {{<figure src="/2019-10-03/Coronal_plane_adduction.jpg" position="center" style="border-radius: 8px;" caption="Coronal Plane Adduction" captionPosition="center" captionStyle="color: white;" >}}
 
 ---
-<br/><br/>
+
+<br><br>
+
+</details>
 
 <font size="+4" color="Gree"><center> Transverse Plane </center></font>
+
+<details>
+  <summary> </summary>
 
 **Medial Rotation:** - ‘Rotation of a limb segment about its longitudinal axis so that the anterior surface comes to face the midline of the body’ (Palastanga & Soames, 2012, p3).
 
@@ -253,11 +297,16 @@ Common words to describe the position of anatomical structures:
 
 {{<figure src="/2019-10-03/Transverse_plane_lateral.jpg" position="center" style="border-radius: 8px;" caption="Transverse Plane Lateral" captionPosition="center" captionStyle="color: white;" >}}
 
-------
-<br/><br/>
+---
+
+<br><br>
+
+</details>
 
 <font size="+4" color="gree"><center> Movements of the Foot </center></font>
 
+<details>
+  <summary> </summary>
 
 * **Dorsiflexion (Extension):** - ‘Bringing the dorsum of the foot towards the anterior surface of the leg’.
 
@@ -274,3 +323,7 @@ Common words to describe the position of anatomical structures:
 * **Inversion:** - Tilting the foot towards the midline of the body. 
 
 {{<figure src="/2019-10-03/Eversion_and_inversion.jpg" position="center" style="border-radius: 8px;" caption="Eversion and Inversion" captionPosition="center" captionStyle="color: white;" >}}
+
+</details>
+
+</details>

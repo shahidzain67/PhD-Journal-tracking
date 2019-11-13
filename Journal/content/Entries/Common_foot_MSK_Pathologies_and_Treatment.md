@@ -12,6 +12,14 @@ aliases = ["migrate-from-jekyl"]
 <font size="+7" color="orange"><center> MSK </center></font>  
 ---
 
+<details>
+  <summary> </summary>
+
+<font size="+3" color="gree"><center> Introduction </center></font> 
+
+<details>
+  <summary> </summary>
+
 - MSK conditions affect 14.9 million people
 symptoms of pain, stiffness, limited movement,
 and disability affecting QOL and independence.
@@ -32,7 +40,12 @@ for prevention across the lifecourse (PHE, 2019)<mark>
 
 <br>
 
+</details>
+
 <font size="+3" color="gree"><center> MSK and Public Health </center></font>  
+
+<details>
+  <summary> </summary>
 
 - MSK non-communicable conditions affect
 bones, joints, muscles
@@ -53,7 +66,12 @@ condition each year (PHE, 2019)
 
 <br>
 
+</details>
+
 <font size="+3" color="gree"><center> MSK and the Foot </center></font>  
+
+<details>
+  <summary> </summary>
 
 - Heel pain
 
@@ -69,7 +87,12 @@ condition each year (PHE, 2019)
 
 <br>
 
+</details>
+
 <font size="+3" color="gree"><center> MSK Pain and Podiatry </center></font>  
+
+<details>
+  <summary> </summary>
 
 {{<figure src="/MSK/PandP.png" position="center" style="border-radius: 8px;" caption="Pain and Podiatry" captionPosition="center" captionStyle="color: white;" >}}
 
@@ -77,10 +100,20 @@ condition each year (PHE, 2019)
 
 <br><br>
 
+</details>
+
+</details>
+
 <font size="+7" color="Orange"><center> Heel Pain </center></font> 
 ---
 
+<details>
+  <summary> </summary>
+
 <font size="+3" color="gree"><center> Plantar Faciitis </center></font> 
+
+<details>
+  <summary> </summary>
 
 - Plantar fasciitis is a condition in which there is
 persistent pain associated with chronic
@@ -114,7 +147,12 @@ partial/complete.
 
 <br>
 
+</details>
+
 <font size="+3" color="gree"><center> Tendinous Lesions </center></font> 
+
+<details>
+  <summary> </summary>
 
 - Flexor hallucis longus,flexor digitorum longus;
 Tendinitis, tenosynovitis.
@@ -133,7 +171,12 @@ pain.
 
 <br>
 
+</details>
+
 <font size="+3" color="gree"><center> Foot Orthotics </center></font> 
+
+<details>
+  <summary> </summary>
 
 <mark>Function<mark>
 
@@ -163,7 +206,12 @@ experienced by internal (painful) structures
 
 <br>
 
+</details>
+
 <font size="+3" color="gree"><center> Heel Pain Treatment </center></font> 
+
+<details>
+  <summary> </summary>
 
 - Stretching of plantar fascia is a common feature of treatment for plantar heel pain/ fasciitis (NICE 2014)
 
@@ -216,10 +264,20 @@ with inflammatory joint diseases
 
 <br><br>
 
+</details>
+
+</details>
+
 <font size="+7" color="Orange"><center> Forefoot Pain </center></font>
 --- 
 
+<details>
+  <summary> </summary>
+
 <font size="+3" color="Yellow"><center> Forces and the Forefoot </center></font>
+
+<details>
+  <summary> </summary>
 
 - External forces are applied to the foot during weight bearing tasks – at varied sites and varied directions.
 
@@ -236,7 +294,12 @@ tissues and plantar surface)
 
 <br>
 
+</details>
+
 <font size="+3" color="Yellow"><center> Demands on Foot during loading </center></font>
+
+<details>
+  <summary> </summary>
 
 - Compliance (absorb energy, “shock” and adapt to
 surfaces)
@@ -249,7 +312,12 @@ surfaces)
 
 <br>
 
+</details>
+
 <font size="+3" color="Yellow"><center> Anatomy 1st MPJ </center></font>
+
+<details>
+  <summary> </summary>
 
 {{<figure src="/MSK/1stMPJ.png" class="post-cover" align="centre">}}
 
@@ -257,7 +325,12 @@ surfaces)
 
 <br>
 
+</details>
+
 <font size="+3" color="Yellow"><center> Sesamoiditis </center></font>
+
+<details>
+  <summary> </summary>
 
 - Subjective
     - Inflammation and pain
@@ -292,7 +365,12 @@ surfaces)
 
 <br>
 
+</details>
+
 <font size="+3" color="Yellow"><center> Morton's Plantar digital neuritis </center></font>
+
+<details>
+  <summary> </summary>
 
 - Subjective:
     - Parasthesia,
@@ -314,6 +392,8 @@ surfaces)
 
 <br>
 
+</details>
+
 <font size="+3" color="Yellow"><center> Treatment </center></font>
 
 - Differential diagnosis?
@@ -325,6 +405,9 @@ surfaces)
 ---
 
 <br>
+
+<details>
+  <summary> </summary>
 
 <font size="+3" color="Yellow"><center> Hallux Limitus </center></font>
 
@@ -352,7 +435,15 @@ hallux dorsiflexion and heel eversion
 
 <br><br>
 
+</details>
+
+</details>
+
 <font size="+7" color="Orange"><center> Foot Orthotics: Issues for debate </center></font>
+---
+
+<details>
+  <summary> </summary>
 
 <mark>**Footwear vs Foot Orthotic**<mark>
 
@@ -424,8 +515,13 @@ pathologies
 
 <br><br>
 
+</details>
+
 <font size="+7" color="Orange"><center> Conclusion - Foot Orthotics </center></font>
 ---
+
+<details>
+  <summary> </summary>
 
 - There is still insufficient numbers of good
 quality RCT’S to evaluate the clinical
@@ -450,8 +546,13 @@ clinical value of treatment interventions.
 
 <br><br>
 
+</details>
+
 <font size="+7" color="Orange"><center> Evidence Summary </center></font>
 ---
+
+<details>
+  <summary> </summary>
 
 - Williams, A., & Nester, C. (2010). Footwear and foot orthoses. Edinburgh: Churchill Livingstone. S.C. Morrison et al. /
 Research in Developmental Disabilities 34 (2013) 3197–3201 3201
@@ -537,3 +638,5 @@ of Foot and Ankle Research 4:19
 - Whittaker, G. A., Munteanu, S. E., Menz, H. B., Tan, J. M., Rabusin, C. L., & Landorf, K. B. (2018). Foot orthoses for plantar
 heel pain: A systematic review and meta-analysis. British Journal of Sports Medicine, 52(5), 322.
 doi:http://dx.doi.org/10.1136/bjsports-2016-097355
+
+</details>
