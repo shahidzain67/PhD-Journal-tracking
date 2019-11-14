@@ -29,7 +29,24 @@
    sed -i "s/replace_me_with_date/$filename/g" "$filename.md"
    sed -i "s/This is just the template!/Day Month Date Year/g" "$filename.md"
  }      
- 
+
+ function findme()
+ {
+   cd Journal/content/Entries/
+   echo "String to find:"
+   read string
+
+   echo "Number of lines of context:"
+   read context
+   
+   matches = grep -c "$string"
+   echo "$matches instances of $string found."
+
+   grep -i -l -r -C context "$string" > Results.md
+   echo "Opening results file'"
+   code Results.md
+ }
+
  cd Journal/content/Entries
  filename=$(change_date_format "$1")
  create_file "$filename"
