@@ -12,7 +12,7 @@ preserveTaxonomyNames = true
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "orange"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 0
+  showMenuItems = 8
   # show selector to switch language
   showLanguageSelector = false
   # set theme to full screen width
@@ -56,3 +56,22 @@ preserveTaxonomyNames = true
   weight = 0
   identifier = "Imperial Blackboard"
   url = "https://bb.imperial.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_19745_1&content_id=_1625767_1&mode=reset"
+
+[[menu.main]]
+  name = "Project"
+  weight = 0
+  identifier = "Project"
+  url = "https://zshahid.netlify.com/tags/project/"
+
+[[menu.main]]
+  name = "Anatomy"
+  weight = 0
+  identifier = "Anatomy"
+  url = "https://zshahid.netlify.com/tags/anatomy/"
+
+[[menu.main]]
+  name = " P&O Fundamentals"
+  weight = 0
+  identifier = "P&O Fundamentals"
+  url = "https://zshahid.netlify.com/tags/fundamentals-of-prosthetics-and-orthotics/"
+  
