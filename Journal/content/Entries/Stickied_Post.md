@@ -2,7 +2,6 @@
 author = "Zain Shahid"
 title = "Welcome, check out my posts below"
 date = "2099-08-30"
-publishDate = "2019-08-30"
 description = ""
 tags = ["setup"]
 categories = ["setup"]

@@ -39,39 +39,40 @@ preserveTaxonomyNames = true
 #   tag = "tags"
 #   category = "categories"
 
-[[menu.main]]
-  name = "GitLab"
-  weight = 0
-  identifier = "GitLab"
-  url = "https://gitlab.com/shahidzain67/phd-journal-tracking"
+[menu]
 
-[[menu.main]]
-  name = "Blackboard"
-  weight = 0
-  identifier = "Blackboard"
-  url = "https://blackboard.salford.ac.uk/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1"
+  [[menu.main]]
+    name = "Project"
+    weight = 6
+    identifier = "Project"
+    url = "https://zshahid.netlify.com/tags/project/"
 
-[[menu.main]]
-  name = "Imperial Blackboard"
-  weight = 0
-  identifier = "Imperial Blackboard"
-  url = "https://bb.imperial.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_19745_1&content_id=_1625767_1&mode=reset"
+  [[menu.main]]
+    name = " P&O Fundamentals"
+    weight = 5
+    identifier = "P&O Fundamentals"
+    url = "https://zshahid.netlify.com/tags/fundamentals-of-prosthetics-and-orthotics/"
 
-[[menu.main]]
-  name = "Project"
-  weight = 0
-  identifier = "Project"
-  url = "https://zshahid.netlify.com/tags/project/"
+  [[menu.main]]
+    name = "Imperial Blackboard"
+    weight = 4
+    identifier = "Imperial Blackboard"
+    url = "https://bb.imperial.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_19745_1&content_id=_1625767_1&mode=reset"
 
-[[menu.main]]
-  name = "Anatomy"
-  weight = 0
-  identifier = "Anatomy"
-  url = "https://zshahid.netlify.com/tags/anatomy/"
+  [[menu.main]]
+    name = "GitLab"
+    weight = 3
+    identifier = "GitLab"
+    url = "https://gitlab.com/shahidzain67/phd-journal-tracking"
 
-[[menu.main]]
-  name = " P&O Fundamentals"
-  weight = 0
-  identifier = "P&O Fundamentals"
-  url = "https://zshahid.netlify.com/tags/fundamentals-of-prosthetics-and-orthotics/"
-  
+  [[menu.main]]
+    name = "Blackboard"
+    weight = 2
+    identifier = "Blackboard"
+    url = "https://blackboard.salford.ac.uk/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1"
+
+  [[menu.main]]
+    name = "Anatomy"
+    weight = 1
+    identifier = "Anatomy"
+    url = "https://zshahid.netlify.com/tags/anatomy/"
