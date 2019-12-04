@@ -45,13 +45,13 @@ preserveTaxonomyNames = true
     name = "Project"
     weight = 6
     identifier = "Project"
-    url = "https://zain-phd.netlify.com/tags/project/"
+    url = "https://zshahid.netlify.com/tags/project/"
 
   [[menu.main]]
     name = " P&O Fundamentals"
     weight = 5
     identifier = "P&O Fundamentals"
-    url = "https://zain-phd.netlify.com/tags/fundamentals-of-prosthetics-and-orthotics/"
+    url = "https://zshahid.netlify.com/tags/fundamentals-of-prosthetics-and-orthotics/"
 
   [[menu.main]]
     name = "Imperial Blackboard"
@@ -75,4 +75,4 @@ preserveTaxonomyNames = true
     name = "Anatomy"
     weight = 1
     identifier = "Anatomy"
-    url = "https://zain-phd.netlify.com/tags/anatomy/"
+    url = "https://zshahid.netlify.com/tags/anatomy/"

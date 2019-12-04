@@ -41,31 +41,31 @@ aliases = ["migrate-from-jekyl"]
 <font size="+7" color="orange"><center> Breakdown of Gait </center></font>  
 ---
 
-### <mark>Centre of Mass Movement<mark>
+### <mark>Centre of Mass Movement</mark>
 
 {{<figure src="/Running/lean.jpg" position="center" style="border-radius: 8px;" caption="Trunk Forward Lean" captionPosition="center" captionStyle="color: white;" >}}
 
 <br>
 
-### <mark>Initial Contact<mark>
+### <mark>Initial Contact</mark>
 
 {{<figure src="/Running/initial.jpg" position="center" style="border-radius: 8px;" >}}
 
 <br>
 
-### <mark>Mid Stance<mark>
+### <mark>Mid Stance</mark>
 
 {{<figure src="/Running/Mid_stance.jpg" position="center" style="border-radius: 8px;" >}}
 
 <br>
 
-### <mark>Toe Off<mark>
+### <mark>Toe Off</mark>
 
 {{<figure src="/Running/Toe.jpg" position="center" style="border-radius: 8px;" >}}
 
 <br>
 
-### <mark>Toe Off<mark>
+### <mark>Toe Off</mark>
 
 {{<figure src="/Running/Swing.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -76,25 +76,25 @@ aliases = ["migrate-from-jekyl"]
 <font size="+7" color="orange"><center> Kinematics Charts </center></font>  
 ---
 
-### <mark>Pelvis<mark>
+### <mark>Pelvis</mark>
 
 {{<figure src="/Running/Pelvis.jpg" position="center" style="border-radius: 8px;" >}}
 
 <br>
 
-### <mark>Hip<mark>
+### <mark>Hip</mark>
 
 {{<figure src="/Running/Hip.jpg" position="center" style="border-radius: 8px;" >}}
 
 <br>
 
-### <mark>Knee<mark>
+### <mark>Knee</mark>
 
 {{<figure src="/Running/Knee.jpg" position="center" style="border-radius: 8px;" >}}
 
 <br>
 
-### <mark>Ankle<mark>
+### <mark>Ankle</mark>
 
 {{<figure src="/Running/Ankle.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -129,7 +129,7 @@ Individuals with amputation produced propulsive impulses equivalent to intact an
 <font size="+7" color="orange"><center> Sports high activity prostheses </center></font>  
 ---
 
-### <mark>Key Principles and Challenges<mark>
+### <mark>Key Principles and Challenges</mark>
 
 - Weight (of user)
 - Activity level
@@ -143,7 +143,7 @@ Individuals with amputation produced propulsive impulses equivalent to intact an
 
 <br><br>
 
-### <mark>The Flex Foot<mark>
+### <mark>The Flex Foot</mark>
 
 - Designed in 1985 by amputee and engineer Van Philips -> Phillips, V.L., Flex Foot, Inc., 1985. Composite prosthetic foot and leg. U.S. Patent 4,547,913.
 - Now commonly associated with the Paralympic games and sports prosthetics
@@ -155,7 +155,7 @@ Individuals with amputation produced propulsive impulses equivalent to intact an
 
 <br><br>
 
-### <mark>Sport and High Activity Knees<mark>
+### <mark>Sport and High Activity Knees</mark>
 
 {{<figure src="/Running/sport.jpg" position="center" style="border-radius: 8px;" >}}
 
@@ -163,7 +163,7 @@ Individuals with amputation produced propulsive impulses equivalent to intact an
 
 <br><br>
 
-### <mark>Key Points from Previous Surveys<mark>
+### <mark>Key Points from Previous Surveys</mark>
 
 > Deans, S., Burns, D., McGarry, A., Murray, K. and Mutrie, N., 2012. Motivations and barriers to prosthesis users participation in physical activity, exercise and sport: a review of the literature. Prosthetics and orthotics international, 36(3), pp.260-269)
 
@@ -186,31 +186,31 @@ Sports were associated with a beneficial effect on the cardiopulmonary system, p
 <font size="+7" color="orange"><center> LimbPower 2016 </center></font>  
 ---
 
-### <mark>Current Prostheses Provision<mark>
+### <mark>Current Prostheses Provision</mark>
 
 {{<figure src="/Running/current.jpg" position="center" style="border-radius: 8px;" >}}
 
 <br>
 
-### <mark>Activities undertaken / Participant %<mark>
+### <mark>Activities undertaken / Participant %</mark>
 
 {{<figure src="/Running/activity.jpg" position="center" style="border-radius: 8px;" >}}
 
 <br>
 
-### <mark>Factors Important to Prosthesis Use in Sports<mark>
+### <mark>Factors Important to Prosthesis Use in Sports</mark>
 
 {{<figure src="/Running/factors.jpg" position="center" style="border-radius: 8px;" >}}
 
 <br>
 
-### <mark>Increasing Participation<mark>
+### <mark>Increasing Participation</mark>
 
 {{<figure src="/Running/participation.jpg" position="center" style="border-radius: 8px;" >}}
 
 <br>
 
-### <mark>Task Specific Prostheses: Key Considerations for Cycling<mark>
+### <mark>Task Specific Prostheses: Key Considerations for Cycling</mark>
 
 Safety and performance!
 
