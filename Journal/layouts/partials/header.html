@@ -6,6 +6,40 @@
     <div class="menu-trigger">menu</div>
   </div>
   {{ if len $.Site.Menus }}
-    {{ partial "menu.html" . }}
+  {{ partial "menu.html" . }}
   {{ end }}
+
+  <!-- Put quote wrapper as a div so that you can click anywhere to re-randomize
+  the quote -->
+  <div id="quote-wrapper" style="cursor: pointer; user-select: none">
+    <giant>
+      <i>
+        <span id="quote"></span>
+      </i>
+    </giant>
+  </div>
+
+
+  <script module>
+    // From https://kliu.io/
+    // For readers of the source: this script produces a random quote on the
+    // page on every load. The idea and the original quotes come from my old
+    // website back in 2016. Some of the quotes are in-jokes, dated, or other-
+    // wise slightly irrelevant now, but I still think they are useful.
+    const quotes = [
+      "Bienvenido amigos",
+      "I have no idea what I am doing",
+      "شكرا"
+    ];
+
+    const el = document.getElementById("quote");
+
+    function randomize() {
+      const index = Math.floor(Math.random() * quotes.length);
+      el.innerHTML = quotes[index];
+    }
+
+    document.getElementById("quote-wrapper").addEventListener("click", randomize);
+    randomize();
+  </script>
 </header>

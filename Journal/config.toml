@@ -2,7 +2,60 @@ baseURL = "https://zshahid.netlify.com"
 theme = "terminal"
 paginate = 100
 DefaultContentLanguage = "en"
-copyright = "Zain Shahid: PhD Doctoral Candidate in Prosthetics and Orthotics: https://gitlab.com/shahidzain67/phd-journal-tracking"
+copyright = '''
+  <!DOCTYPE html>
+    <html>
+      <head>
+        <style>
+          * {
+          box-sizing: border-box;
+          }
+
+  .column {
+    float: left;
+    width: 20%;
+    padding: 60px;
+  }
+
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  </style>
+      </head>
+
+<div class="row">
+  <div class="column">
+    <a href="https://www.twitter.com/" target="_blank">
+      <img src="/icons/twitter.png"
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://www.linkedin.com/in/shahidzain67/" target="_blank">
+      <img src="/icons/linkedin.png"
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://gitlab.com/shahidzain67/" target="_blank">
+      <img src="/icons/gitlab.png"
+    </a>
+  </div>
+  <div class="column">
+    <a href="https://orcid.org/0000-0002-2998-2058" target="_blank">
+      <img src="/icons/orcid.png "
+    </a>
+  </div>
+  <div class="column">
+    <a href="mailto:shahidzain67@gmail.com?Subject=Hello" target="_top">
+      <img src="/icons/gmail.png"
+    </a>
+  </div>
+</div>
+</html>
+'''
+
 defaultContentLanguageInSubdir = true
 preserveTaxonomyNames = true
 
@@ -22,9 +75,13 @@ preserveTaxonomyNames = true
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
 
-# [taxonomies]
-#   tag = "tags"
-#   category = "categories"
+  menuMore = "Show more"
+  readMore = "Read more"
+  readOtherPosts = "Read other posts"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 
 [languages]
   [languages.en]
@@ -51,22 +108,22 @@ preserveTaxonomyNames = true
       url = "/tags/fundamentals-of-prosthetics-and-orthotics/"
       weight = 5
     [[languages.en.menu.main]]
-      identifier = "Imperial Blackboard"
-      name = "Imperial Blackboard"
-      url = "https://bb.imperial.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_19745_1&content_id=_1625767_1&mode=reset"
-      weight = 4
-    [[languages.en.menu.main]]
       identifier = "GitLab"
       name = "GitLab"
       url = "https://gitlab.com/shahidzain67/phd-journal-tracking"
-      weight = 3
+      weight = 4
     [[languages.en.menu.main]]
-      identifier = "Salford Blackboard"
-      name = "Salford Blackboard"
+      identifier = "Blackboard"
+      name = "Blackboard"
       url = "https://blackboard.salford.ac.uk/webapps/portal/execute/tabs/tabAction?tab_tab_group_id=_2_1"
-      weight = 2
+      weight = 3
     [[languages.en.menu.main]]
       identifier = "Anatomy"
       name = "Anatomy"
-      url = "https://zshahid.netlify.com/tags/anatomy/"
+      url = "tags/anatomy/"
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "About"
+      name = "About"
+      url = "/entries/about/"
       weight = 1
