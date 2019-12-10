@@ -1,0 +1,6 @@
+[submodule "Journal/themes/themes/terminal"]
+	path = Journal/themes/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "Journal/themes/terminal"]
+	path = Journal/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
