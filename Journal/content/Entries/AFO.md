@@ -338,7 +338,7 @@ https://doi.org/10.1080/09638288.2019.1631394.
 
 - [Solid AFO](https://www.crispinorthotics.com/products/foot-ankle/fixed-ankle-afos/solid-ankle-afo-250x267/)
 
-- [Benefits](http://www.indiaeducation.net/distanceeducation/advantages.aspx)
+- [Benefits](https://www.indiaeducation.net/distanceeducation/advantages.aspx)
 
 - [Rhino and rabbit](https://www.bbc.co.uk/cbbc/quizzes/animal-weigh-up-quiz)
 
