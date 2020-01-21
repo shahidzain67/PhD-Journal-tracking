@@ -10,7 +10,7 @@ tags = ["test#"]
 title = "test"
 [[content]]
 heading = ""
-"heading_on/off" = true
+"heading_on/off" = false
 subheading = ""
 "subheading_on/off" = false
 template = "content"
