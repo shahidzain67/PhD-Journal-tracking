@@ -9,10 +9,12 @@ series = []
 tags = ["test#"]
 title = "test"
 [[content]]
-heading = ""
-"heading_on/off" = false
-subheading = ""
-"subheading_on/off" = false
+heading = "testing stuff"
+"heading_on/off" = true
+subheading = "testtesttest"
+"subheading_on/off" = true
 template = "content"
+text = "text text text"
+"text_on/off" = true
 
 +++
