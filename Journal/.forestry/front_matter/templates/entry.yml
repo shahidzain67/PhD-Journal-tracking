@@ -29,16 +29,21 @@ fields:
   name: aliases
   label: aliases
   hidden: true
-- name: main_page_content
-  type: blocks
-  label: Main Page Content
-  template_types:
-  - heading-1-chapter-title
-  - heading-2-chapter-subtitle
-  - general-text-block
+- name: content_type
+  type: select
+  default: Heading
   config:
-    min: 
-    max: 
-  description: Customize how your content is presented
+    required: false
+    options:
+    - Heading
+    - Subheading
+    - Text
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Block Type
+  description: Select a Heading, Subheading or Text Block
 pages:
 - Journal/content/Entries/test.md
