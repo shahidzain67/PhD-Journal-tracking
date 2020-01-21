@@ -28,3 +28,21 @@ fields:
   description: Subheading (Chapter Subheading)
   showOnly:
     field: subheading_on/off
+    value: true
+- name: text_on/off
+  type: boolean
+  label: Text on/off
+  description: Toggles Text block
+- name: text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text
+  description: Enter Text Below
+  showOnly:
+    field: text_on/off
+    value: true
