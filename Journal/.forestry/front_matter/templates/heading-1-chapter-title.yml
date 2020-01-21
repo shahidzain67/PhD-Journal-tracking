@@ -1,4 +1,10 @@
 ---
 label: Heading 1 (Chapter title)
 hide_body: true
-fields: []
+fields:
+- name: heading_1
+  type: text
+  config:
+    required: false
+  label: Heading_1
+  description: Enter a Chapter title
