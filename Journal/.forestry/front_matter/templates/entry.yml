@@ -29,21 +29,18 @@ fields:
   name: aliases
   label: aliases
   hidden: true
-- name: content_type
-  type: select
-  default: Heading
+- name: content
+  type: blocks
+  label: Content
+  template_types:
+  - content
+  - content
+  - content
+  - content
   config:
-    required: false
-    options:
-    - Heading
-    - Subheading
-    - Text
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Block Type
-  description: Select a Heading, Subheading or Text Block
+    min: '1'
+    max: 
+  description: Choose content to enter
+  hidden: true
 pages:
 - Journal/content/Entries/test.md
