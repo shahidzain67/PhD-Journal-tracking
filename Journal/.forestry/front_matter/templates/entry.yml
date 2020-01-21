@@ -45,5 +45,3 @@ fields:
       path: 
   label: Block Type
   description: Select a Heading, Subheading or Text Block
-pages:
-- Journal/content/Entries/test.md
