@@ -32,7 +32,10 @@ fields:
 - name: main_page_content
   type: blocks
   label: Main Page Content
-  template_types: []
+  template_types:
+  - heading-1-chapter-title
+  - heading-2-chapter-subtitle
+  - general-text-block
   config:
     min: 
     max: 
