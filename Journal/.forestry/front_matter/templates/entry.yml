@@ -29,3 +29,11 @@ fields:
   name: aliases
   label: aliases
   hidden: true
+- name: main_page_content
+  type: blocks
+  label: Main Page Content
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: Customize how your content is presented
