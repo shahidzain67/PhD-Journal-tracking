@@ -29,15 +29,5 @@ fields:
   name: aliases
   label: aliases
   hidden: true
-- name: content
-  type: blocks
-  label: Content
-  template_types:
-  - content
-  config:
-    min: '1'
-    max: 
-  description: Choose content to enter
-  hidden: false
 pages:
 - Journal/content/Entries/test-1.md
