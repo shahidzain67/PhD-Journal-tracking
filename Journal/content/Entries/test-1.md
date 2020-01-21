@@ -16,5 +16,13 @@ subheading = "testtesttest"
 template = "content"
 text = "text text text"
 "text_on/off" = true
+[[content]]
+heading = "second title"
+"heading_on/off" = true
+subheading = "yeeeeeeee"
+"subheading_on/off" = true
+template = "content"
+text = "mooooooooooore text"
+"text_on/off" = true
 
 +++
