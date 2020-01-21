@@ -5,6 +5,7 @@ fields:
 - type: text
   name: author
   label: author
+  hidden: true
 - type: text
   name: title
   label: title
@@ -23,6 +24,8 @@ fields:
 - type: list
   name: series
   label: series
+  hidden: true
 - type: list
   name: aliases
   label: aliases
+  hidden: true
