@@ -34,9 +34,6 @@ fields:
   label: Content
   template_types:
   - content
-  - content
-  - content
-  - content
   config:
     min: '1'
     max: 
