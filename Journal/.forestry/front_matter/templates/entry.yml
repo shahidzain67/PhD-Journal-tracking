@@ -41,7 +41,7 @@ fields:
     min: '1'
     max: 
   description: Choose content to enter
-  hidden: true
+  hidden: false
 pages:
 - Journal/content/Entries/test-1.md
 - Journal/content/Entries/test.md
