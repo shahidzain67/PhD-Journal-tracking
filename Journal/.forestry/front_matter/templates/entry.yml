@@ -29,5 +29,3 @@ fields:
   name: aliases
   label: aliases
   hidden: true
-pages:
-- Journal/content/Entries/test-1.md
