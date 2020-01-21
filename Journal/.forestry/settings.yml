@@ -9,11 +9,6 @@ sections:
   label: Entries
   create: all
   match: "**/*"
-- type: directory
-  path: Journal/content/search
-  label: Search
-  create: all
-  match: "**/*"
 upload_dir: Journal//static/uploads
 public_path: "/uploads"
 front_matter_path: ''
