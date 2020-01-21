@@ -1,4 +1,30 @@
 ---
 label: Content
 hide_body: false
-fields: []
+fields:
+- name: heading
+  type: text
+  config:
+    required: false
+  label: Heading
+  description: Enter Heading 1 (Chapter Title)
+  showOnly:
+    field: heading_on/off
+    value: true
+- name: heading_on/off
+  type: boolean
+  label: Heading on/off
+  description: Toggle whether the heading is on/off
+  default: false
+- name: subheading
+  type: text
+  config:
+    required: false
+  label: Subheading
+  description: Subheading (Chapter Subheading)
+  showOnly:
+    field: subheading_on/off
+- name: subheading_on/off
+  type: boolean
+  label: Subheading on/off
+  description: Toggle whether the Subheading is shown
