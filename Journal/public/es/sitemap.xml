@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://zs-phd-journal.org/es/categories/</loc>
+    <loc>https://zs-phd-journal.org/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://zs-phd-journal.org/categories/"
+                href="https://zs-phd-journal.org/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://zs-phd-journal.org/es/categories/"
+                href="https://zs-phd-journal.org/es/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://zs-phd-journal.org/es/tags/</loc>
+    <loc>https://zs-phd-journal.org/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://zs-phd-journal.org/tags/"
+                href="https://zs-phd-journal.org/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://zs-phd-journal.org/es/tags/"
+                href="https://zs-phd-journal.org/es/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://zs-phd-journal.org/es/</loc>
+    <loc>https://zs-phd-journal.org/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://zs-phd-journal.org/"
+                href="https://zs-phd-journal.org/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://zs-phd-journal.org/es/"
+                href="https://zs-phd-journal.org/es/"
                 />
   </url>
   
