@@ -15,7 +15,7 @@ template = "heading-1-chapter-title"
 heading_2 = "test"
 template = "heading-2-chapter-subtitle"
 [[main_page_content]]
-block_of_text = "test"
+block_of_text = "test test test "
 template = "general-text-block"
 [[main_page_content]]
 heading_2 = ""
